@@ -1,0 +1,357 @@
+{
+  "main": {
+    "id": "faf7294451f04a50",
+    "type": "split",
+    "children": [
+      {
+        "id": "3145977120fbf491",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c954942496d96059",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nicotinamide (non-flushing).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7c428da5235b20d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microbiome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c5cc45118986e1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taurine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49146054ea34c824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vitamin D.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8f15337658c2766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glutamine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3708b651f0f7d1b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vitamin D.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ba88158f450f2ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COVID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b401025e3d0adb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vitamin D.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4775511d74102890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NIR Light Therapy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8a0d8bb23a179c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NIR Light Therapy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d028b821ad7b133d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Autophagy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f146937b99ed216e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Palmitoylethanolamide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4414ab6fe8a1624e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Acetyl-L-Carnitine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c6c76b7509aa3a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Non-PDF links/Seirogan (Wood Creosote) non-PDF links/Wood creosote, the principal active ingredient of seirogan, an herbal antidiarrheal medicine - a single-dose, dose-escalation safety and pharmacokinetic study - 2003.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84a91a5deab23f24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COVID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 14
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9c386a42a2e8ade",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f4ad5b7d7538b63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "473e888fce14a1fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2819cf318d3eb50",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#multi-organ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8aa3fde103e6302c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 839.5
+  },
+  "right": {
+    "id": "a874df288f8a6ab0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab20c5f33d1592cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4038b9720ff5671a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "COVID.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "baaba3fd07ab8058",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "COVID.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5033e645e418bd6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "af99e971026c65c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "COVID.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "84a91a5deab23f24",
+  "lastOpenFiles": [
+    "Cold Therapy.md",
+    "Autophagy.md",
+    "Acetyl-L-Carnitine.md",
+    "PDFs/Autophagy PDFs/(PDF) Autophagy and intermittent fasting - the connection for cancer therapy - 2018.md",
+    "PDFs/Autophagy PDFs/(PDF) Autophagy and intermittent fasting - the connection for cancer therapy - 2018 - cln-73-814s.pdf",
+    "PDFs/Autophagy PDFs/(PDF) Is autophagy associated with diabetes mellitus and its complications - A review - 2018.md",
+    "PDFs/Autophagy PDFs/(PDF) Is autophagy associated with diabetes mellitus and its complications - A review - 2018 - EXCLI-17-709.pdf",
+    "PDFs/Autophagy PDFs/(PDF) Autophagy and autophagy-related pathways in cancer - 2023.md",
+    "PDFs/Autophagy PDFs/(PDF) Autophagy and autophagy-related pathways in cancer - 2023 - s41580-023-00585-z.pdf",
+    "PDFs/Autophagy PDFs/(PDF) The Roles of Autophagy in Cancer - 2018.md",
+    "PDFs/Autophagy PDFs/(PDF) The Roles of Autophagy in Cancer - 2018 - ijms-19-03466.pdf",
+    "Microbiome.md",
+    "PDFs/Microbiome PDFs/(PDF) Ocular Surface Microbiome in Health and Disease - 2020.md",
+    "PDFs/Microbiome PDFs/(PDF) Ocular Surface Microbiome in Health and Disease - 2020 - 5.pdf",
+    "PDFs/Glutamine PDFs/(PDF) Acetylglutamine facilitates motor recovery after brachial plexus root avulsion in ratsby promoting motoneuronal survival and axonal remyelination - 2023.md",
+    "PDFs/Microbiome PDFs/(PDF) Current Evidence on the Ocular Surface Microbiota and Related Diseases - 2020.md",
+    "PDFs/Microbiome PDFs/(PDF) Current Evidence on the Ocular Surface Microbiota and Related Diseases - 2020 - microorganisms-08-01033.pdf",
+    "COVID.md",
+    "PDFs/COVID PDFs/(PDF) A Tale of Two Viruses - Poliomyelitis and COVID-19 - 2021.md",
+    "PDFs/COVID PDFs/(PDF) A Tale of Two Viruses - Poliomyelitis and COVID-19 - 2021 - 2010C360_GC_COVID-Polio.v2.pdf",
+    "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md",
+    "Glutamine.md",
+    "Nicotinamide (non-flushing).md",
+    "Nicotinic Acid (niacin).md",
+    "NIR Light Therapy.md",
+    "Palmitoylethanolamide.md",
+    "Seirogan.md",
+    "Spermidine.md",
+    "Vitamin D.md",
+    "Taurine.md",
+    "Sun Exposure.md",
+    "PDFs/(PDF) The Big Vitamin D Mistake - 2017 - jpmph-50-4-278.pdf",
+    "PDFs/(PDF) The Big Vitamin D Mistake - 2017.md",
+    "PDFs/(PDF) Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020 - nutrients-12-03158.pdf",
+    "PDFs/Tiger Milk Mushroom PDFs/(PDF) The Antiproliferative Activity of Sclerotia of Lignosus rhinocerus (Tiger Milk Mushroom) - 2012 - ECAM2012-697603.pdf",
+    "Untitled.canvas"
+  ]
+}
