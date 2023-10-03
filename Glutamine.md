@@ -1,4 +1,4 @@
-#supplement #neuroprotective #Alzheimers-protective
+#supplement #neuroprotective #cardioprotective #Alzheimers-protective
 
 The acetyl-l-glutamine form may be more effective and neuroprotective. 
 
@@ -16,6 +16,8 @@ Likely synergistic in effect when combined with [[Nicotinic Acid (niacin)]].
 
 [[(PDF) Circulating Glutamine and Alzheimer’s Disease - A Mendelian Randomization Study - 2020]]
 
+[[(PDF) Metabolic effects of glutamine on the heart. Anaplerosis versus the hexosamine biosynthetic pathway - 2012]]
+
 ## Risks:
 
 Glutamine may promote some types of cancer growth, though may also reduce risk for some cancers. 
@@ -24,6 +26,6 @@ Glutamine may promote some types of cancer growth, though may also reduce risk f
 
 [[(PDF) Starve Cancer Cells of Glutamine - Break the Spell or Make a Hungry Monster  - 2019]]
 
-[[(PDF) Glutamine Metabolism in Cancer  Understanding the Heterogeneity - 2017]]
+[[(PDF) Glutamine Metabolism in Cancer - Understanding the Heterogeneity - 2017]]
 
 [[(PDF) Glutamine and cancer - cell biology, physiology, and clinical opportunities - 2013]]

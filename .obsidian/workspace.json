@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Folic Acid.md",
+                "file": "Nicotinic Acid (niacin).md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#supplement",
+                "query": "tag:#Alzheimers-protective",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Folic Acid.md",
+                "file": "Nicotinic Acid (niacin).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Folic Acid.md",
+                "file": "Nicotinic Acid (niacin).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Folic Acid.md"
+                "file": "Nicotinic Acid (niacin).md"
               }
             }
           }
@@ -161,9 +161,17 @@
   },
   "active": "9947e909e0ddf395",
   "lastOpenFiles": [
+    "Glutamine.md",
+    "Microbiome.md",
+    "Folic Acid.md",
+    "PDFs/Folic Acid PDFs/(PDF) Effects of folic acid on dyslipidemia and serum homocysteine in a rat model of cholestasis and hepatic fibrosis - 2015.md",
+    "PDFs/Folic Acid PDFs/(PDF) Effects of folic acid on dyslipidemia and serum homocysteine in a rat model of cholestasis and hepatic fibrosis - 2015 - PJP_Art_25043-10.pdf",
+    "PDFs/Glutamine PDFs/(PDF) Glutamine Metabolism in Cancer - Understanding the Heterogeneity - 2017 - nihms853057.pdf",
+    "PDFs/Glutamine PDFs/(PDF) Glutamine Metabolism in Cancer - Understanding the Heterogeneity - 2017.md",
+    "PDFs/Glutamine PDFs/(PDF) Metabolic effects of glutamine on the heart. Anaplerosis versus the hexosamine biosynthetic pathway - 2012.md",
+    "PDFs/Glutamine PDFs/(PDF) Metabolic effects of glutamine on the heart. Anaplerosis versus the hexosamine biosynthetic pathway - 2012 - nihms702398.pdf",
     "PDFs/Folic Acid PDFs/(PDF) Effect of folic acid supplementation on genomic DNA methylation in patients with colorectal adenoma - 2005.md",
     "PDFs/Folic Acid PDFs/(PDF) Effect of folic acid supplementation on genomic DNA methylation in patients with colorectal adenoma - 2005 - 648 full.pdf",
-    "Folic Acid.md",
     "PDFs/Folic Acid PDFs/(PDF) The role of folate in malaria – implications for home fortification programmes among children aged 6–59 months - 2015.md",
     "PDFs/Folic Acid PDFs/(PDF) The role of folate in malaria – implications for home fortification programmes among children aged 6–59 months - 2015 - MCN-11-1.pdf",
     "Nicotinic Acid (niacin).md",
@@ -174,7 +182,6 @@
     "COVID.md",
     "Non-PDF links/Niacin non-PDF links/Neuroprotective Effects of Niacin on Ischemia - Reperfusion Injury of the Rabbit Spinal Cord - 2023.md",
     "PDFs/Niacin PDFs/(PDF) Mechanism of Niacin Induced Hot Flushes and Suppression of Cholesterol - 2023 - jbm_2023051914372045.pdf",
-    "Glutamine.md",
     "PDFs/Niacin PDFs/(PDF) Niacin protects the isolated heart from ischemia-reperfusion injury - 2000.md",
     "PDFs/Niacin PDFs/(PDF) Niacin protects the isolated heart from ischemia-reperfusion injury - 2000 - trueblood-et-al.pdf",
     "PDFs/Niacin PDFs/(PDF) Niacin Attenuates Pulmonary Hypertension Through H-PGDS in Macrophages - 2020.md",
@@ -182,20 +189,13 @@
     "PDFs/Folic Acid PDFs/(PDF) The Role of Folic Acid in SARS-CoV-2 Infection - An Intriguing Linkage under Investigation - 2023.md",
     "PDFs/Folic Acid PDFs/(PDF) The Role of Folic Acid in SARS-CoV-2 Infection - An Intriguing Linkage under Investigation - 2023 - jpm-13-00561.pdf",
     "PDFs/Folic Acid PDFs/(PDF) Folic acid - importance for human health and its role in COVID-19 therapy - 2023.md",
-    "PDFs/Folic Acid PDFs/(PDF) Folic acid - importance for human health and its role in COVID-19 therapy - 2023 - RPZH_2023_Vol_74_No_2_pp_131-141.pdf",
     "Non-PDF links/Potential of curcumin and niacin-loaded targeted chitosan coated liposomes to activate autophagy in hepatocellular carcinoma cells - An in vitro evaluation in HePG2 cell line - 2023.md",
     "PDFs/Folic Acid PDFs/(PDF) Homocysteine and Stroke Risk - Modifying Effect of Methylenetetrahydrofolate Reductase C677T Polymorphism and Folic Acid Intervention - 2017.md",
-    "PDFs/Folic Acid PDFs/(PDF) Homocysteine and Stroke Risk - Modifying Effect of Methylenetetrahydrofolate Reductase C677T Polymorphism and Folic Acid Intervention - 2017 - zhao-et-al.pdf",
     "Non-PDF links/Folic Acid non-PDF links/(PDF) The effect of the systemic folic acid intake as an adjunct to scaling and root planing in gingival crevicular fluid of periodontitis patients - A randomized placebo-controlled clinical trial - 2020.md",
-    "Non-PDF links/Folic Acid non-PDF links",
     "PDFs/Folic Acid PDFs/(PDF) Effect of folic acid supplementation on cancer risk among adults with hypertension in China - A randomized clinical trial - 2016.md",
     "NIR Light Therapy.md",
-    "Microbiome.md",
     "PDFs/Niacin PDFs/(PDF) Protective effect of nicotinic acid on human albumin during UV-C irradiation - 2011.md",
     "PDFs/Niacin PDFs/(PDF) Nicotinic Acid-Mediated Activation of Both Membrane and Nuclear Receptors towards Therapeutic Glucocorticoid Mimetics for Treating Multiple Sclerosis - 2009.md",
-    "PDFs/Niacin PDFs/(PDF) The Effects of Niacin on DNA Repair after N-Methyl-N′-nitro-N-nitrosoguanidine Treatment in Normal Human Lymphocytes - 1997.md",
-    "PDFs/Niacin PDFs/(PDF) A derivative of vitamin B3 applied several days after exposure reduces lethality of severely irradiated mice - 2021.md",
-    "PDFs/Glutamine PDFs/(PDF) A Study on Acetylglutamine Pharmacokinetics in Rat Blood and Brain Based on Liquid Chromatography-Tandem Mass Spectrometry and Microdialysis Technique - 2020.md",
     "Untitled.canvas"
   ]
 }

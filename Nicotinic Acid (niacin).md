@@ -11,7 +11,7 @@ Likely reduces risk of [[COVID]] induced injuries.
 
 Likely synergistic in effect when combined with [[Glutamine]] and [[Folic Acid]].
 
-#supplement #neuroprotective #anti-inflammatory #skin-protective #cardioprotective  #glaucoma-protective #retina-protective #anti-cancer #Alzheimers-protective #lung-protective  #multiple-sclerosis-treatment #mitochondria-support #ionizing-radiation-protective
+#supplement #neuroprotective #anti-inflammatory #skin-protective #cardioprotective  #glaucoma-protective #retina-protective #anti-cancer #Alzheimers-protective #lung-protective  #multiple-sclerosis-treatment #mitochondria-support #hepatoprotective #ionizing-radiation-protective
 
 ## Benefits
 
