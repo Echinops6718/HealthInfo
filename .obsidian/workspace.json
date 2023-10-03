@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Folic Acid.md",
+                "file": "Taurine.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Folic Acid.md",
+                "file": "Taurine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Folic Acid.md",
+                "file": "Taurine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Folic Acid.md"
+                "file": "Taurine.md"
               }
             }
           }
@@ -161,8 +161,10 @@
   },
   "active": "9947e909e0ddf395",
   "lastOpenFiles": [
-    "Nicotinic Acid (niacin).md",
+    "PDFs/Taurine PDFs/(PDF) Increased Glutamate and Homocysteine and Decreased Glutamine Levels in Autism - A Review and Strategies for FutureStudies of Amino Acids in Autism - 2013 - 536521.pdf",
+    "PDFs/Taurine PDFs/(PDF) Increased Glutamate and Homocysteine and Decreased Glutamine Levels in Autism - A Review and Strategies for FutureStudies of Amino Acids in Autism - 2013.md",
     "Folic Acid.md",
+    "Nicotinic Acid (niacin).md",
     "Niacin.md",
     "PDFs/Folic Acid PDFs/(PDF) Dose-response association between dietary folate and niacin intakes with diabetes among Chinese adults - a cross-sectional study - 2023.md",
     "PDFs/Folic Acid PDFs/(PDF) Dose-response association between dietary folate and niacin intakes with diabetes among Chinese adults - a cross-sectional study - 2023 - s41043-023-00362-w-1.pdf",
@@ -178,8 +180,6 @@
     "PDFs/Folic Acid PDFs/(PDF) Associations of Serum Folate and Homocysteine Concentrations with All-Cause, Cardiovascular Disease, and Cancer Mortality in Men and Women in Korea - the Cardiovascular Disease Association Study - 2023.md",
     "PDFs/Folic Acid PDFs/(PDF) Associations of Serum Folate and Homocysteine Concentrations with All-Cause, Cardiovascular Disease, and Cancer Mortality in Men and Women in Korea - the Cardiovascular Disease Association Study - 2023 - 1-s2.0-S0022316623045248-main.pdf",
     "Taurine.md",
-    "PDFs/Taurine PDFs/(PDF) ncreased Glutamate and Homocysteine and DecreasedGlutamine Levels in Autism - A Review and Strategies for FutureStudies of Amino Acids in Autism - 2013 - 536521.pdf",
-    "PDFs/Taurine PDFs/(PDF) ncreased Glutamate and Homocysteine and DecreasedGlutamine Levels in Autism - A Review and Strategies for FutureStudies of Amino Acids in Autism - 2013.md",
     "PDFs/Glutamine PDFs/(PDF) Increased Glutamate and Homocysteine and Decreased Glutamine Levels in Autism - A Review and Strategies for Future Studies of Amino Acids in Autism - 2013.md",
     "PDFs/Glutamine PDFs/(PDF) Increased Glutamate and Homocysteine and Decreased Glutamine Levels in Autism - A Review and Strategies for Future Studies of Amino Acids in Autism - 2013 - 536521.pdf",
     "Microbiome.md",
@@ -196,7 +196,6 @@
     "PDFs/Niacin PDFs/(PDF) Mechanism of Niacin Induced Hot Flushes and Suppression of Cholesterol - 2023.md",
     "Non-PDF links/Niacin non-PDF links/Chronic niacin administration ameliorates ovulation, histological changes in the ovary and adiponectin concentrations in a rat model of polycystic ovary syndrome - 2021.md",
     "COVID.md",
-    "Non-PDF links/Niacin non-PDF links/Neuroprotective Effects of Niacin on Ischemia - Reperfusion Injury of the Rabbit Spinal Cord - 2023.md",
     "Untitled.canvas"
   ]
 }

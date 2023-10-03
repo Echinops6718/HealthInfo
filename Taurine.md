@@ -14,6 +14,6 @@ May reduce autism symptoms.
 
 [[(PDF) Taurine and inflammatory diseases - 2014]]
 
-[[(PDF) ncreased Glutamate and Homocysteine and DecreasedGlutamine Levels in Autism - A Review and Strategies for FutureStudies of Amino Acids in Autism - 2013]]
+[[(PDF) Increased Glutamate and Homocysteine and Decreased Glutamine Levels in Autism - A Review and Strategies for FutureStudies of Amino Acids in Autism - 2013]]
 
 [[(PDF) Role of taurine in the central nervous system - 2009]]
