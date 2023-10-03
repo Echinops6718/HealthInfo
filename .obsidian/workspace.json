@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glutamine.md",
+                "file": "Nicotinic Acid (niacin).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glutamine.md",
+                "file": "Nicotinic Acid (niacin).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glutamine.md",
+                "file": "Nicotinic Acid (niacin).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glutamine.md"
+                "file": "Nicotinic Acid (niacin).md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "84a91a5deab23f24",
   "lastOpenFiles": [
+    "Non-PDF links/Niacin non-PDF links/Neuroprotective Effects of Niacin on Ischemia - Reperfusion Injury of the Rabbit Spinal Cord - 2023.md",
+    "Nicotinic Acid (niacin).md",
+    "Glutamine.md",
     "PDFs/Glutamine PDFs/(PDF) A Study on Acetylglutamine Pharmacokinetics in Rat Blood and Brain Based on Liquid Chromatography-Tandem Mass Spectrometry and Microdialysis Technique - 2020.md",
     "PDFs/Glutamine PDFs/(PDF) A Study on Acetylglutamine Pharmacokinetics in Rat Blood and Brain Based on Liquid Chromatography-Tandem Mass Spectrometry and Microdialysis Technique - 2020 - fphar-11-00508.pdf",
-    "Glutamine.md",
     "PDFs/Glutamine PDFs/(PDF) Glutamine Deficiency Promotes Immune and Endothelial Cell Dysfunction in COVID-19 - 2023.md",
     "PDFs/Glutamine PDFs/(PDF) Glutamine Deficiency Promotes Immune and Endothelial Cell Dysfunction in COVID-19 - 2023 - ijms-24-07593.pdf",
-    "Nicotinic Acid (niacin).md",
     "PDFs/Niacin PDFs/(PDF) Association between niacin and mortality among patients with cancer in the NHANES retrospective cohort - 2022.md",
     "PDFs/Niacin PDFs/(PDF) Association between niacin and mortality among patients with cancer in the NHANES retrospective cohort - 2022 - s12885-022-10265-4.pdf",
     "COVID.md",

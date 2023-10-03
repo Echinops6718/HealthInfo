@@ -19,6 +19,8 @@ Likely synergistic in effect when combined with [[Glutamine]].
 
 [[(PDF) Association between dietary niacin intake and cognitive function in the elderly - Evidence from NHANES 2011–2014 - 2023]]
 
+[[Neuroprotective Effects of Niacin on Ischemia - Reperfusion Injury of the Rabbit Spinal Cord - 2023]]
+
 [[(PDF) Association between niacin and mortality among patients with cancer in the NHANES retrospective cohort - 2022]]
 
 [[The niacin receptor HCAR2 modulates microglial response and limits disease progression in a mouse model of Alzheimer’s disease - 2022]]
