@@ -1,9 +1,11 @@
 
-Reduces stroke risk.
+Reduces risk of stroke, gum disease, and cancer.
 
 Likely synergistic in effect when combined with [[Nicotinic Acid (niacin)]].
 
-#cardioprotective 
+#anti-cancer #cardioprotective
+
+[[Potential of curcumin and niacin-loaded targeted chitosan coated liposomes to activate autophagy in hepatocellular carcinoma cells - An in vitro evaluation in HePG2 cell line - 2023]]
 
 [[(PDF) The effect of the systemic folic acid intake as an adjunct to scaling and root planing in gingival crevicular fluid of periodontitis patients - A randomized placebo-controlled clinical trial - 2020]]
 

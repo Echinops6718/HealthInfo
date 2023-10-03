@@ -7,7 +7,9 @@ There is some risk of liver damage at doses higher than 500mg per day in around 
 
 Clinical dosage starts from 500mg and can be more than 3g per day, though benefits can usually be found at lower doses as well.
 
-Likely synergistic in effect when combined with [[Glutamine]].
+Likely reduces risk of [[COVID]] induced injuries.
+
+Likely synergistic in effect when combined with [[Glutamine]] and [[Folic Acid]].
 
 #supplement #neuroprotective #anti-inflammatory #skin-protective #cardioprotective  #glaucoma-protective #retina-protective #anti-cancer #Alzheimers-protective #multiple-sclerosis-treatment #mitochondria-support #ionizing-radiation-protective
 
@@ -20,6 +22,8 @@ Likely synergistic in effect when combined with [[Glutamine]].
 [[(PDF) Association between dietary niacin intake and cognitive function in the elderly - Evidence from NHANES 2011–2014 - 2023]]
 
 [[Neuroprotective Effects of Niacin on Ischemia - Reperfusion Injury of the Rabbit Spinal Cord - 2023]]
+
+[[Potential of curcumin and niacin-loaded targeted chitosan coated liposomes to activate autophagy in hepatocellular carcinoma cells - An in vitro evaluation in HePG2 cell line - 2023]]
 
 [[(PDF) Association between niacin and mortality among patients with cancer in the NHANES retrospective cohort - 2022]]
 
