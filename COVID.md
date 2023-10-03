@@ -1,6 +1,6 @@
 #neurotoxic #accelerated-aging #multi-organ-damage
 
-COVID appears to be a lifelong chronic inflammatory illness, with similar characteristics to how oral herpes and chickenpox remain mostly asymptomatic after initial infection in the majority of hosts until geriatric years, or becoming immunocompromised.
+COVID appears to be a lifelong chronic inflammatory illness potentially affecting all organ systems, with similar vulnerabilities to how oral herpes and chickenpox remain mostly asymptomatic after initial infection in the majority of hosts until geriatric years, or becoming immunocompromised.
 
 Although COVID vaccination carries risks of injury, the risks appear to be significantly lower than contracting COVID without vaccination.
 
