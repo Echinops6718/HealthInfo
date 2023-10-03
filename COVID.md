@@ -1,6 +1,6 @@
 #neurotoxic #accelerated-aging #multi-organ-damage
 
-COVID appears to be a lifelong chronic inflammatory illness potentially affecting all organ systems, with similar vulnerabilities to how oral herpes and chickenpox remain mostly asymptomatic after initial infection in the majority of hosts until geriatric years, or becoming immunocompromised.
+COVID appears to be a lifelong chronic inflammatory illness potentially affecting all organ systems, with similar vulnerabilities to how oral herpes and chickenpox as endemic viruses remain mostly asymptomatic after initial infection in the majority of the population until geriatric years, or becoming immunocompromised.
 
 [[(PDF) Long COVID - major findings, mechanisms and recommendations - 2023]]
 
@@ -8,7 +8,7 @@ COVID appears to be a lifelong chronic inflammatory illness potentially affectin
 
 [[(PDF) Association of COVID-19 Vaccination With Risk for Incident Diabetes After COVID-19 Infection - 2023]]
 
-COVID will have a long tail in public health with 1 in 4 people likely having retroviruses activated, which could take some years for many of those people to fully exhibit outcomes from the disease process (unless successfully mitigated):
+COVID will have a long tail in public health with 1 in 4 people likely having retroviruses activated, which could take years for many of those people to fully exhibit outcomes from the disease processes (unless successfully mitigated):
 
 [[(PDF) SARS-CoV-2 spike protein activates human endogenous retroviruses in blood cells - 2022]]
 
