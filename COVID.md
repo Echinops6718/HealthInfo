@@ -2,9 +2,9 @@
 
 COVID appears to be a lifelong chronic inflammatory illness potentially affecting all organ systems, with similar vulnerabilities to how oral herpes and chickenpox remain mostly asymptomatic after initial infection in the majority of hosts until geriatric years, or becoming immunocompromised.
 
-Although COVID vaccination carries risks of injury, the risks appear to be significantly lower than contracting COVID without vaccination.
-
 [[(PDF) Long COVID - major findings, mechanisms and recommendations - 2023]]
+
+[[(PDF) The effects of COVID-19 on cognitive performance in a community-based cohort - a COVID symptom study biobank prospective cohort study - 2023]]
 
 [[(PDF) Association of COVID-19 Vaccination With Risk for Incident Diabetes After COVID-19 Infection - 2023]]
 

@@ -1,4 +1,4 @@
-#supplement #anti-aging #anti-inflammatory #neuroprotective 
+#supplement #anti-aging #anti-inflammatory #neuroprotective #Alzheimers-protective 
 
 Provides some similar benefits to caloric restriction induced [[Autophagy]].
 
