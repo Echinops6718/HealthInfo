@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nicotinic Acid (niacin).md",
+                "file": "Glutamine.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nicotinic Acid (niacin).md",
+                "file": "Glutamine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nicotinic Acid (niacin).md",
+                "file": "Glutamine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nicotinic Acid (niacin).md"
+                "file": "Glutamine.md"
               }
             }
           }
@@ -161,9 +161,17 @@
   },
   "active": "9947e909e0ddf395",
   "lastOpenFiles": [
+    "Taurine.md",
+    "PDFs/Taurine PDFs/(PDF) ncreased Glutamate and Homocysteine and DecreasedGlutamine Levels in Autism - A Review and Strategies for FutureStudies of Amino Acids in Autism - 2013 - 536521.pdf",
+    "PDFs/Taurine PDFs/(PDF) ncreased Glutamate and Homocysteine and DecreasedGlutamine Levels in Autism - A Review and Strategies for FutureStudies of Amino Acids in Autism - 2013.md",
     "Glutamine.md",
+    "PDFs/Glutamine PDFs/(PDF) Increased Glutamate and Homocysteine and Decreased Glutamine Levels in Autism - A Review and Strategies for Future Studies of Amino Acids in Autism - 2013.md",
+    "PDFs/Glutamine PDFs/(PDF) Increased Glutamate and Homocysteine and Decreased Glutamine Levels in Autism - A Review and Strategies for Future Studies of Amino Acids in Autism - 2013 - 536521.pdf",
     "Microbiome.md",
     "Folic Acid.md",
+    "Non-PDF links/Folic Acid non-PDF links/Folic acid improves abnormal behavior via mitigation of oxidative stress, inflammation, and ferroptosis in the BTBR T+ tf J mouse model of autism - 2019.md",
+    "Non-PDF links/Folic Acid non-PDF links/The effect of the systemic folic acid intake as an adjunct to scaling and root planing in gingival crevicular fluid of periodontitis patients - A randomized placebo-controlled clinical trial - 2020.md",
+    "Nicotinic Acid (niacin).md",
     "PDFs/Folic Acid PDFs/(PDF) Effects of folic acid on dyslipidemia and serum homocysteine in a rat model of cholestasis and hepatic fibrosis - 2015.md",
     "PDFs/Folic Acid PDFs/(PDF) Effects of folic acid on dyslipidemia and serum homocysteine in a rat model of cholestasis and hepatic fibrosis - 2015 - PJP_Art_25043-10.pdf",
     "PDFs/Glutamine PDFs/(PDF) Glutamine Metabolism in Cancer - Understanding the Heterogeneity - 2017 - nihms853057.pdf",
@@ -174,7 +182,6 @@
     "PDFs/Folic Acid PDFs/(PDF) Effect of folic acid supplementation on genomic DNA methylation in patients with colorectal adenoma - 2005 - 648 full.pdf",
     "PDFs/Folic Acid PDFs/(PDF) The role of folate in malaria – implications for home fortification programmes among children aged 6–59 months - 2015.md",
     "PDFs/Folic Acid PDFs/(PDF) The role of folate in malaria – implications for home fortification programmes among children aged 6–59 months - 2015 - MCN-11-1.pdf",
-    "Nicotinic Acid (niacin).md",
     "PDFs/Niacin PDFs/(PDF) Dietary nicotinic acid supplementation improves hepatic zinc uptake and offers hepatoprotection against oxidative damage - 2011.md",
     "PDFs/Niacin PDFs/(PDF) Dietary nicotinic acid supplementation improves hepatic zinc uptake and offers hepatoprotection against oxidative damage - 2011 - bjn.pdf",
     "PDFs/Niacin PDFs/(PDF) Mechanism of Niacin Induced Hot Flushes and Suppression of Cholesterol - 2023.md",
@@ -185,17 +192,11 @@
     "PDFs/Niacin PDFs/(PDF) Niacin protects the isolated heart from ischemia-reperfusion injury - 2000.md",
     "PDFs/Niacin PDFs/(PDF) Niacin protects the isolated heart from ischemia-reperfusion injury - 2000 - trueblood-et-al.pdf",
     "PDFs/Niacin PDFs/(PDF) Niacin Attenuates Pulmonary Hypertension Through H-PGDS in Macrophages - 2020.md",
-    "PDFs/Niacin PDFs/(PDF) Niacin Attenuates Pulmonary Hypertension Through H-PGDS in Macrophages - 2020 - jia-et-al.pdf",
     "PDFs/Folic Acid PDFs/(PDF) The Role of Folic Acid in SARS-CoV-2 Infection - An Intriguing Linkage under Investigation - 2023.md",
-    "PDFs/Folic Acid PDFs/(PDF) The Role of Folic Acid in SARS-CoV-2 Infection - An Intriguing Linkage under Investigation - 2023 - jpm-13-00561.pdf",
     "PDFs/Folic Acid PDFs/(PDF) Folic acid - importance for human health and its role in COVID-19 therapy - 2023.md",
     "Non-PDF links/Potential of curcumin and niacin-loaded targeted chitosan coated liposomes to activate autophagy in hepatocellular carcinoma cells - An in vitro evaluation in HePG2 cell line - 2023.md",
     "PDFs/Folic Acid PDFs/(PDF) Homocysteine and Stroke Risk - Modifying Effect of Methylenetetrahydrofolate Reductase C677T Polymorphism and Folic Acid Intervention - 2017.md",
-    "Non-PDF links/Folic Acid non-PDF links/(PDF) The effect of the systemic folic acid intake as an adjunct to scaling and root planing in gingival crevicular fluid of periodontitis patients - A randomized placebo-controlled clinical trial - 2020.md",
     "PDFs/Folic Acid PDFs/(PDF) Effect of folic acid supplementation on cancer risk among adults with hypertension in China - A randomized clinical trial - 2016.md",
-    "NIR Light Therapy.md",
-    "PDFs/Niacin PDFs/(PDF) Protective effect of nicotinic acid on human albumin during UV-C irradiation - 2011.md",
-    "PDFs/Niacin PDFs/(PDF) Nicotinic Acid-Mediated Activation of Both Membrane and Nuclear Receptors towards Therapeutic Glucocorticoid Mimetics for Treating Multiple Sclerosis - 2009.md",
     "Untitled.canvas"
   ]
 }

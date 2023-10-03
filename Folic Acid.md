@@ -5,7 +5,9 @@ Likely reduces risk of contracting [[COVID]] as well as induced injuries and mor
 
 Likely synergistic in effect when combined with [[Nicotinic Acid (niacin)]].
 
-#supplement #anti-cancer #cardioprotective #hepatoprotective
+May reduce symptoms of autism.
+
+#supplement #anti-inflammatory #anti-cancer #autism-treatment #cardioprotective #hepatoprotective
 
 [[(PDF) Folic acid - importance for human health and its role in COVID-19 therapy - 2023]]
 
@@ -13,7 +15,9 @@ Likely synergistic in effect when combined with [[Nicotinic Acid (niacin)]].
 
 [[Potential of curcumin and niacin-loaded targeted chitosan coated liposomes to activate autophagy in hepatocellular carcinoma cells - An in vitro evaluation in HePG2 cell line - 2023]]
 
-[[(PDF) The effect of the systemic folic acid intake as an adjunct to scaling and root planing in gingival crevicular fluid of periodontitis patients - A randomized placebo-controlled clinical trial - 2020]]
+[[The effect of the systemic folic acid intake as an adjunct to scaling and root planing in gingival crevicular fluid of periodontitis patients - A randomized placebo-controlled clinical trial - 2020]]
+
+[[Folic acid improves abnormal behavior via mitigation of oxidative stress, inflammation, and ferroptosis in the BTBR T+ tf J mouse model of autism - 2019]]
 
 [[(PDF) Homocysteine and Stroke Risk - Modifying Effect of Methylenetetrahydrofolate Reductase C677T Polymorphism and Folic Acid Intervention - 2017]]
 

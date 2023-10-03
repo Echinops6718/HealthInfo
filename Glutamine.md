@@ -1,10 +1,12 @@
-#supplement #neuroprotective #cardioprotective #Alzheimers-protective
+#supplement #autism-treatment #neuroprotective #cardioprotective #Alzheimers-protective
 
 The acetyl-l-glutamine form may be more effective and neuroprotective. 
 
 Likely reduces risk of [[COVID]] induced injuries.
 
 Likely synergistic in effect when combined with [[Nicotinic Acid (niacin)]].
+
+May reduce autism symptoms.
 
 ## Benefits:
 
@@ -16,11 +18,13 @@ Likely synergistic in effect when combined with [[Nicotinic Acid (niacin)]].
 
 [[(PDF) Circulating Glutamine and Alzheimer’s Disease - A Mendelian Randomization Study - 2020]]
 
+[[(PDF) Increased Glutamate and Homocysteine and Decreased Glutamine Levels in Autism - A Review and Strategies for Future Studies of Amino Acids in Autism - 2013]]
+
 [[(PDF) Metabolic effects of glutamine on the heart. Anaplerosis versus the hexosamine biosynthetic pathway - 2012]]
 
 ## Risks:
 
-Glutamine may promote some types of cancer growth, though may also reduce risk for some cancers. 
+Glutamine may promote some types of cancer growth, though may also reduce risk for some cancers as well. 
 
 [[(PDF) Dietary glutamine supplementation suppresses epigenetically-activated oncogenic pathways to inhibit melanoma tumour growth - 2020]]
 

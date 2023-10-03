@@ -1,5 +1,5 @@
 
-#anti-cancer #anti-aging #neuroprotective #mitochondria-support #anti-inflammatory #multiple-sclerosis-treatment #diabetes-protective 
+#anti-cancer #anti-aging #autism-treatment #neuroprotective #mitochondria-support #anti-inflammatory #multiple-sclerosis-treatment #diabetes-protective 
 
 Predigested high calorie foods, like nut and seed butter, add adipose tissue easily, while chewing unprocessed high fiber foods, like whole nuts and seeds, are much less likely to:
 
