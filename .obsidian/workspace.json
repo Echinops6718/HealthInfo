@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nicotinic Acid (niacin).md",
+                "file": "NIR Light Therapy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9947e909e0ddf395",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Folic Acid.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 839.5
+    "width": 851.5
   },
   "right": {
     "id": "a874df288f8a6ab0",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nicotinic Acid (niacin).md",
+                "file": "Folic Acid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nicotinic Acid (niacin).md",
+                "file": "Folic Acid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nicotinic Acid (niacin).md"
+                "file": "Folic Acid.md"
               }
             }
           }
@@ -146,43 +159,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84a91a5deab23f24",
+  "active": "9947e909e0ddf395",
   "lastOpenFiles": [
+    "PDFs/Folic Acid PDFs/(PDF) Homocysteine and Stroke Risk - Modifying Effect of Methylenetetrahydrofolate Reductase C677T Polymorphism and Folic Acid Intervention - 2017.md",
+    "PDFs/Folic Acid PDFs/(PDF) Homocysteine and Stroke Risk - Modifying Effect of Methylenetetrahydrofolate Reductase C677T Polymorphism and Folic Acid Intervention - 2017 - zhao-et-al.pdf",
+    "Folic Acid.md",
+    "Glutamine.md",
+    "Non-PDF links/Folic Acid non-PDF links/(PDF) The effect of the systemic folic acid intake as an adjunct to scaling and root planing in gingival crevicular fluid of periodontitis patients - A randomized placebo-controlled clinical trial - 2020.md",
+    "Non-PDF links/Folic Acid non-PDF links",
+    "PDFs/Folic Acid PDFs/(PDF) Effect of folic acid supplementation on cancer risk among adults with hypertension in China - A randomized clinical trial - 2016.md",
+    "COVID.md",
+    "PDFs/Folic Acid PDFs/(PDF) Effect of folic acid supplementation on cancer risk among adults with hypertension in China - A randomized clinical trial - 2016 - Intl Journal of Cancer.pdf",
+    "PDFs/Folic Acid PDFs",
+    "NIR Light Therapy.md",
+    "Microbiome.md",
+    "Nicotinic Acid (niacin).md",
+    "PDFs/Niacin PDFs/(PDF) Protective effect of nicotinic acid on human albumin during UV-C irradiation - 2011.md",
+    "PDFs/Niacin PDFs/(PDF) Protective effect of nicotinic acid on human albumin during UV-C irradiation - 2011 - s11814-011-0083-8.pdf",
+    "PDFs/Niacin PDFs/(PDF) Nicotinic Acid-Mediated Activation of Both Membrane and Nuclear Receptors towards Therapeutic Glucocorticoid Mimetics for Treating Multiple Sclerosis - 2009.md",
+    "PDFs/Niacin PDFs/(PDF) The Effects of Niacin on DNA Repair after N-Methyl-N′-nitro-N-nitrosoguanidine Treatment in Normal Human Lymphocytes - 1997.md",
+    "PDFs/Niacin PDFs/(PDF) The Effects of Niacin on DNA Repair after N-Methyl-N′-nitro-N-nitrosoguanidine Treatment in Normal Human Lymphocytes - 1997 - bbb2116.pdf",
     "PDFs/Niacin PDFs/(PDF) A derivative of vitamin B3 applied several days after exposure reduces lethality of severely irradiated mice - 2021.md",
     "PDFs/Niacin PDFs/(PDF) A derivative of vitamin B3 applied several days after exposure reduces lethality of severely irradiated mice - 2021 - s41598-021-86870-3.pdf",
-    "Nicotinic Acid (niacin).md",
     "Non-PDF links/Niacin non-PDF links/Neuroprotective Effects of Niacin on Ischemia - Reperfusion Injury of the Rabbit Spinal Cord - 2023.md",
-    "Glutamine.md",
     "PDFs/Glutamine PDFs/(PDF) A Study on Acetylglutamine Pharmacokinetics in Rat Blood and Brain Based on Liquid Chromatography-Tandem Mass Spectrometry and Microdialysis Technique - 2020.md",
     "PDFs/Glutamine PDFs/(PDF) A Study on Acetylglutamine Pharmacokinetics in Rat Blood and Brain Based on Liquid Chromatography-Tandem Mass Spectrometry and Microdialysis Technique - 2020 - fphar-11-00508.pdf",
     "PDFs/Glutamine PDFs/(PDF) Glutamine Deficiency Promotes Immune and Endothelial Cell Dysfunction in COVID-19 - 2023.md",
     "PDFs/Glutamine PDFs/(PDF) Glutamine Deficiency Promotes Immune and Endothelial Cell Dysfunction in COVID-19 - 2023 - ijms-24-07593.pdf",
     "PDFs/Niacin PDFs/(PDF) Association between niacin and mortality among patients with cancer in the NHANES retrospective cohort - 2022.md",
     "PDFs/Niacin PDFs/(PDF) Association between niacin and mortality among patients with cancer in the NHANES retrospective cohort - 2022 - s12885-022-10265-4.pdf",
-    "COVID.md",
     "PDFs/COVID PDFs/(PDF) The effects of COVID-19 on cognitive performance in a community-based cohort - a COVID symptom study biobank prospective cohort study - 2023.md",
     "Spermidine.md",
-    "PDFs/COVID PDFs/(PDF) The effects of COVID-19 on cognitive performance in a community-based cohort - a COVID symptom study biobank prospective cohort study - 2023 - PIIS2589537023002638.pdf",
     "PDFs/COVID PDFs/(PDF) SARS-CoV-2 spike protein activates human endogenous retroviruses in blood cells - 2022.md",
     "PDFs/Spermidine PDFs/(PDF) The positive effect of spermidine in older adults suffering from dementia - 2021.md",
     "Autophagy.md",
     "PDFs/COVID PDFs/(PDF) Association of COVID-19 Vaccination With Risk for Incident Diabetes After COVID-19 Infection - 2023.md",
     "Nicotinamide (non-flushing).md",
-    "Microbiome.md",
     "Cold Therapy.md",
-    "Acetyl-L-Carnitine.md",
-    "PDFs/Taurine PDFs/(PDF) Taurine deficiency as a driver of aging - 2023.md",
-    "PDFs/Taurine PDFs/(PDF) Taurine and inflammatory diseases - 2014.md",
-    "PDFs/Taurine PDFs/(PDF) Role of taurine in the central nervous system - 2009.md",
-    "PDFs/Taurine PDFs/(PDF) Metabolomics-based discovery of a metabolite that enhances oligodendrocyte maturation - 2018 -  nihms961249.pdf",
-    "PDFs/Taurine PDFs/(PDF) Metabolomics-based discovery of a metabolite that enhances oligodendrocyte maturation - 2018.md",
-    "PDFs/(PDF) The Big Vitamin D Mistake - 2017 - jpmph-50-4-278.pdf",
-    "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md",
-    "PDFs/COVID PDFs/(PDF) SARS-CoV-2 Omicron variant is more stable than the ancestral strain on various surfaces - 2022.md",
-    "Non-PDF links/COVID non-PDF links/COVID and the Heart - It Spares No One - 2022.md",
-    "PDFs/Autophagy PDFs/(PDF) Autophagy and intermittent fasting - the connection for cancer therapy - 2018 - cln-73-814s.pdf",
-    "PDFs/Autophagy PDFs/(PDF) Is autophagy associated with diabetes mellitus and its complications - A review - 2018 - EXCLI-17-709.pdf",
-    "PDFs/Autophagy PDFs/(PDF) Autophagy and autophagy-related pathways in cancer - 2023 - s41580-023-00585-z.pdf",
     "Untitled.canvas"
   ]
 }

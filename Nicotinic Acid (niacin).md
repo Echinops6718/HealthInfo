@@ -25,8 +25,6 @@ Likely synergistic in effect when combined with [[Glutamine]].
 
 [[The niacin receptor HCAR2 modulates microglial response and limits disease progression in a mouse model of Alzheimer’s disease - 2022]]
 
-[[(PDF) Effect of niacin on endothelial function - A systematic review and meta-analysis of randomized controlled trials - 2014]]
-
 [[(PDF) Association between Daily Niacin Intake and Glaucoma - National Health and Nutrition Examination Survey - 2021]]
 
 [[(PDF) A derivative of vitamin B3 applied several days after exposure reduces lethality of severely irradiated mice - 2021]]
@@ -39,9 +37,15 @@ Likely synergistic in effect when combined with [[Glutamine]].
 
 [[(PDF) Activation of Gpr109a, Receptor for Niacin and the Commensal Metabolite Butyrate, Suppresses Colonic Inflammation and Carcinogenesis - 2014]]
 
+[[(PDF) Effect of niacin on endothelial function - A systematic review and meta-analysis of randomized controlled trials - 2014]]
+
+[[(PDF) Protective effect of nicotinic acid on human albumin during UV-C irradiation - 2011]]
+
 [[(PDF) High dietary niacin intake is associated with decreased chromosome translocation frequency in airline pilots - 2011]]
 
 [[(PDF) Nicotinic Acid-Mediated Activation of Both Membrane and Nuclear Receptors towards Therapeutic Glucocorticoid Mimetics for Treating Multiple Sclerosis - 2009]]
+
+[[(PDF) The Effects of Niacin on DNA Repair after N-Methyl-N′-nitro-N-nitrosoguanidine Treatment in Normal Human Lymphocytes - 1997]]
 
 ## Risks
 
