@@ -21,9 +21,13 @@ Likely synergistic in effect when combined with [[Glutamine]] and [[Folic Acid]]
 
 [[(PDF) Association between dietary niacin intake and cognitive function in the elderly - Evidence from NHANES 2011–2014 - 2023]]
 
+[[(PDF) NAD+ repletion with niacin counteracts cancer cachexia - 2023]]
+
 [[Neuroprotective Effects of Niacin on Ischemia - Reperfusion Injury of the Rabbit Spinal Cord - 2023]]
 
 [[(PDF) Mechanism of Niacin Induced Hot Flushes and Suppression of Cholesterol - 2023]]
+
+[[Protective effect of TPP-Niacin on microgravity-induced oxidative stress and mitochondrial dysfunction of retinal epithelial cells - 2023]]
 
 [[Potential of curcumin and niacin-loaded targeted chitosan coated liposomes to activate autophagy in hepatocellular carcinoma cells - An in vitro evaluation in HePG2 cell line - 2023]]
 
@@ -45,7 +49,11 @@ Likely synergistic in effect when combined with [[Glutamine]] and [[Folic Acid]]
 
 [[(PDF) Assessment of the Role of Niacin in Managing Cardiovascular Disease Outcomes - A Systematic Review and Meta-analysis - 2019]]
 
+[[Niacin prevents mitochondrial oxidative stress caused by sub-chronic exposure to methylmercury - 2018]]
+
 [[(PDF) Nicotinic acid inhibits glioma invasion by facilitating Snail1 degradation - 2017]]
+
+[[(PDF) Niacin and Oxidative Stress - A Mini-Review 2016]]
 
 [[(PDF) Activation of Gpr109a, Receptor for Niacin and the Commensal Metabolite Butyrate, Suppresses Colonic Inflammation and Carcinogenesis - 2014]]
 

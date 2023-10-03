@@ -5,9 +5,9 @@ Likely reduces risk of contracting [[COVID]] as well as induced injuries and mor
 
 Likely synergistic in effect when combined with [[Nicotinic Acid (niacin)]].
 
-May reduce symptoms of autism.
+May reduce symptoms of autism and schizophrenia.
 
-#supplement #anti-inflammatory #anti-cancer #autism-treatment #cardioprotective #hepatoprotective
+#supplement #accelerate-wound-healing #anti-inflammatory #anti-cancer #autism-treatment #cardioprotective #hepatoprotective #schizophrenia-treatment 
 
 ## Benefits:
 
@@ -21,13 +21,21 @@ May reduce symptoms of autism.
 
 [[(PDF) Associations of Serum Folate and Homocysteine Concentrations with All-Cause, Cardiovascular Disease, and Cancer Mortality in Men and Women in Korea - the Cardiovascular Disease Association Study - 2023]]
 
+[[(PDF) Folic Acid as the Adjuvant Therapy for Chronic Schizophrenia - A Comprehensive Study on Glutathione Reductase - 2022]]
+
+[[(PDF) Effects of Folic Acid Supplementation on Oxidative Stress Markers - A Systematic Review and Meta-Analysis of Randomized Controlled Trials - 2021]]
+
 [[The effect of the systemic folic acid intake as an adjunct to scaling and root planing in gingival crevicular fluid of periodontitis patients - A randomized placebo-controlled clinical trial - 2020]]
 
 [[Folic acid improves abnormal behavior via mitigation of oxidative stress, inflammation, and ferroptosis in the BTBR T+ tf J mouse model of autism - 2019]]
 
+[[(PDF) Folic Acid Promotes Wound Healing in Diabetic Mice by Suppression of Oxidative Stress - 2018]]
+
 [[(PDF) Homocysteine and Stroke Risk - Modifying Effect of Methylenetetrahydrofolate Reductase C677T Polymorphism and Folic Acid Intervention - 2017]]
 
 [[(PDF) Effect of folic acid supplementation on cancer risk among adults with hypertension in China - A randomized clinical trial - 2016]]
+
+[[(PDF) The Benefits of Administering Folic Acid in Order to Combat the Oxidative Damage Caused by Binge Drinking in Adolescent Rats  - 2016]]
 
 [[(PDF) The role of folate in malaria – implications for home fortification programmes among children aged 6–59 months - 2015]]
 
