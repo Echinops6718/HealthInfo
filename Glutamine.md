@@ -18,6 +18,8 @@ May reduce autism symptoms.
 
 [[(PDF) Circulating Glutamine and Alzheimer’s Disease - A Mendelian Randomization Study - 2020]]
 
+[[(PDF) Dietary glutamine, glutamate and mortality - two large prospective studies in US men and women - 2017]]
+
 [[(PDF) Increased Glutamate and Homocysteine and Decreased Glutamine Levels in Autism - A Review and Strategies for Future Studies of Amino Acids in Autism - 2013]]
 
 [[(PDF) Metabolic effects of glutamine on the heart. Anaplerosis versus the hexosamine biosynthetic pathway - 2012]]
