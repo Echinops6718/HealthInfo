@@ -9,6 +9,8 @@ May reduce symptoms of autism.
 
 #supplement #anti-inflammatory #anti-cancer #autism-treatment #cardioprotective #hepatoprotective
 
+## Benefits:
+
 [[(PDF) Folic acid - importance for human health and its role in COVID-19 therapy - 2023]]
 
 [[(PDF) The Role of Folic Acid in SARS-CoV-2 Infection - An Intriguing Linkage under Investigation - 2023]]
@@ -32,3 +34,9 @@ May reduce symptoms of autism.
 [[(PDF) Effects of folic acid on dyslipidemia and serum homocysteine in a rat model of cholestasis and hepatic fibrosis - 2015]]
 
 [[(PDF) Effect of folic acid supplementation on genomic DNA methylation in patients with colorectal adenoma - 2005]]
+
+## Risks:
+
+Folic acid supplementation may increase diabetes risk, though concurrently taking it with [[Nicotinic Acid (niacin)]] significantly reduces that risk:
+
+[[(PDF) Dose-response association between dietary folate and niacin intakes with diabetes among Chinese adults - a cross-sectional study - 2023]]

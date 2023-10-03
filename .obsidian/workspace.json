@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glutamine.md",
+                "file": "Folic Acid.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glutamine.md",
+                "file": "Folic Acid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glutamine.md",
+                "file": "Folic Acid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glutamine.md"
+                "file": "Folic Acid.md"
               }
             }
           }
@@ -161,10 +161,18 @@
   },
   "active": "9947e909e0ddf395",
   "lastOpenFiles": [
+    "Nicotinic Acid (niacin).md",
+    "Folic Acid.md",
+    "Niacin.md",
+    "PDFs/Folic Acid PDFs/(PDF) Dose-response association between dietary folate and niacin intakes with diabetes among Chinese adults - a cross-sectional study - 2023.md",
+    "PDFs/Folic Acid PDFs/(PDF) Dose-response association between dietary folate and niacin intakes with diabetes among Chinese adults - a cross-sectional study - 2023 - s41043-023-00362-w-1.pdf",
+    "PDFs/Niacin PDFs/(PDF) Dietary niacin and the risk of incident Alzheimer’s disease and of cognitive decline - 2004.md",
+    "PDFs/Niacin PDFs/(PDF) Dietary niacin and the risk of incident Alzheimer’s disease and of cognitive decline - 2004 - 1093.full.pdf",
+    "PDFs/Niacin PDFs/(PDF) Assessment of the Role of Niacin in Managing Cardiovascular Disease Outcomes - A Systematic Review and Meta-analysis - 2019.md",
+    "PDFs/Niacin PDFs/(PDF) Assessment of the Role of Niacin in Managing Cardiovascular Disease Outcomes - A Systematic Review and Meta-analysis - 2019 - dandrea_2019_oi_190103.pdf",
+    "Glutamine.md",
     "PDFs/Glutamine PDFs/(PDF) Dietary glutamine, glutamate and mortality - two large prospective studies in US men and women - 2017.md",
     "PDFs/Folic Acid PDFs/(PDF) Dietary glutamine, glutamate and mortality - two large prospective studies in US men and women - 2017 - dyx234.pdf",
-    "Glutamine.md",
-    "Folic Acid.md",
     "PDFs/Folic Acid PDFs/(PDF) Effects of folic acid deficiency on genetic damage in colorectal cancer cells - 2023.md",
     "PDFs/Folic Acid PDFs/(PDF) Effects of folic acid deficiency on genetic damage in colorectal cancer cells - 2023 - ajtr0015-3162.pdf",
     "PDFs/Folic Acid PDFs/(PDF) Associations of Serum Folate and Homocysteine Concentrations with All-Cause, Cardiovascular Disease, and Cancer Mortality in Men and Women in Korea - the Cardiovascular Disease Association Study - 2023.md",
@@ -177,25 +185,18 @@
     "Microbiome.md",
     "Non-PDF links/Folic Acid non-PDF links/Folic acid improves abnormal behavior via mitigation of oxidative stress, inflammation, and ferroptosis in the BTBR T+ tf J mouse model of autism - 2019.md",
     "Non-PDF links/Folic Acid non-PDF links/The effect of the systemic folic acid intake as an adjunct to scaling and root planing in gingival crevicular fluid of periodontitis patients - A randomized placebo-controlled clinical trial - 2020.md",
-    "Nicotinic Acid (niacin).md",
     "PDFs/Folic Acid PDFs/(PDF) Effects of folic acid on dyslipidemia and serum homocysteine in a rat model of cholestasis and hepatic fibrosis - 2015.md",
     "PDFs/Folic Acid PDFs/(PDF) Effects of folic acid on dyslipidemia and serum homocysteine in a rat model of cholestasis and hepatic fibrosis - 2015 - PJP_Art_25043-10.pdf",
     "PDFs/Glutamine PDFs/(PDF) Glutamine Metabolism in Cancer - Understanding the Heterogeneity - 2017 - nihms853057.pdf",
     "PDFs/Glutamine PDFs/(PDF) Glutamine Metabolism in Cancer - Understanding the Heterogeneity - 2017.md",
     "PDFs/Glutamine PDFs/(PDF) Metabolic effects of glutamine on the heart. Anaplerosis versus the hexosamine biosynthetic pathway - 2012.md",
-    "PDFs/Glutamine PDFs/(PDF) Metabolic effects of glutamine on the heart. Anaplerosis versus the hexosamine biosynthetic pathway - 2012 - nihms702398.pdf",
     "PDFs/Folic Acid PDFs/(PDF) Effect of folic acid supplementation on genomic DNA methylation in patients with colorectal adenoma - 2005.md",
-    "PDFs/Folic Acid PDFs/(PDF) Effect of folic acid supplementation on genomic DNA methylation in patients with colorectal adenoma - 2005 - 648 full.pdf",
     "PDFs/Folic Acid PDFs/(PDF) The role of folate in malaria – implications for home fortification programmes among children aged 6–59 months - 2015.md",
-    "PDFs/Folic Acid PDFs/(PDF) The role of folate in malaria – implications for home fortification programmes among children aged 6–59 months - 2015 - MCN-11-1.pdf",
     "PDFs/Niacin PDFs/(PDF) Dietary nicotinic acid supplementation improves hepatic zinc uptake and offers hepatoprotection against oxidative damage - 2011.md",
     "PDFs/Niacin PDFs/(PDF) Mechanism of Niacin Induced Hot Flushes and Suppression of Cholesterol - 2023.md",
     "Non-PDF links/Niacin non-PDF links/Chronic niacin administration ameliorates ovulation, histological changes in the ovary and adiponectin concentrations in a rat model of polycystic ovary syndrome - 2021.md",
     "COVID.md",
     "Non-PDF links/Niacin non-PDF links/Neuroprotective Effects of Niacin on Ischemia - Reperfusion Injury of the Rabbit Spinal Cord - 2023.md",
-    "PDFs/Niacin PDFs/(PDF) Niacin protects the isolated heart from ischemia-reperfusion injury - 2000.md",
-    "PDFs/Niacin PDFs/(PDF) Niacin Attenuates Pulmonary Hypertension Through H-PGDS in Macrophages - 2020.md",
-    "PDFs/Folic Acid PDFs/(PDF) The Role of Folic Acid in SARS-CoV-2 Infection - An Intriguing Linkage under Investigation - 2023.md",
     "Untitled.canvas"
   ]
 }

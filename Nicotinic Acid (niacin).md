@@ -43,6 +43,8 @@ Likely synergistic in effect when combined with [[Glutamine]] and [[Folic Acid]]
 
 [[(PDF) Niacin-mediated rejuvenation of macrophage microglia enhances remyelination of the aging central nervous system - 2020]]
 
+[[(PDF) Assessment of the Role of Niacin in Managing Cardiovascular Disease Outcomes - A Systematic Review and Meta-analysis - 2019]]
+
 [[(PDF) Nicotinic acid inhibits glioma invasion by facilitating Snail1 degradation - 2017]]
 
 [[(PDF) Activation of Gpr109a, Receptor for Niacin and the Commensal Metabolite Butyrate, Suppresses Colonic Inflammation and Carcinogenesis - 2014]]
@@ -56,6 +58,8 @@ Likely synergistic in effect when combined with [[Glutamine]] and [[Folic Acid]]
 [[(PDF) High dietary niacin intake is associated with decreased chromosome translocation frequency in airline pilots - 2011]]
 
 [[(PDF) Nicotinic Acid-Mediated Activation of Both Membrane and Nuclear Receptors towards Therapeutic Glucocorticoid Mimetics for Treating Multiple Sclerosis - 2009]]
+
+[[(PDF) Dietary niacin and the risk of incident Alzheimer’s disease and of cognitive decline - 2004]]
 
 [[(PDF) Niacin protects the isolated heart from ischemia-reperfusion injury - 2000]]
 
