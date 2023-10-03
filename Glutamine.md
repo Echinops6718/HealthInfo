@@ -12,11 +12,13 @@ Likely synergistic in effect when combined with [[Nicotinic Acid (niacin)]].
 
 [[(PDF) Acetylglutamine facilitates motor recovery after brachial plexus root avulsion in ratsby promoting motoneuronal survival and axonal remyelination - 2023]]
 
+[[(PDF) A Study on Acetylglutamine Pharmacokinetics in Rat Blood and Brain Based on Liquid Chromatography-Tandem Mass Spectrometry and Microdialysis Technique - 2020]]
+
 [[(PDF) Circulating Glutamine and Alzheimer’s Disease - A Mendelian Randomization Study - 2020]]
 
 ## Risks:
 
-Glutamine may promote some types of cancer growth, and may also reduce risk for some cancers. 
+Glutamine may promote some types of cancer growth, though may also reduce risk for some cancers. 
 
 [[(PDF) Dietary glutamine supplementation suppresses epigenetically-activated oncogenic pathways to inhibit melanoma tumour growth - 2020]]
 

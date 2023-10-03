@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2819cf318d3eb50",
+  "active": "84a91a5deab23f24",
   "lastOpenFiles": [
+    "PDFs/Glutamine PDFs/(PDF) A Study on Acetylglutamine Pharmacokinetics in Rat Blood and Brain Based on Liquid Chromatography-Tandem Mass Spectrometry and Microdialysis Technique - 2020.md",
+    "PDFs/Glutamine PDFs/(PDF) A Study on Acetylglutamine Pharmacokinetics in Rat Blood and Brain Based on Liquid Chromatography-Tandem Mass Spectrometry and Microdialysis Technique - 2020 - fphar-11-00508.pdf",
+    "Glutamine.md",
     "PDFs/Glutamine PDFs/(PDF) Glutamine Deficiency Promotes Immune and Endothelial Cell Dysfunction in COVID-19 - 2023.md",
     "PDFs/Glutamine PDFs/(PDF) Glutamine Deficiency Promotes Immune and Endothelial Cell Dysfunction in COVID-19 - 2023 - ijms-24-07593.pdf",
     "Nicotinic Acid (niacin).md",
@@ -164,7 +166,6 @@
     "PDFs/COVID PDFs/(PDF) Association of COVID-19 Vaccination With Risk for Incident Diabetes After COVID-19 Infection - 2023.md",
     "Nicotinamide (non-flushing).md",
     "Microbiome.md",
-    "Glutamine.md",
     "Cold Therapy.md",
     "Acetyl-L-Carnitine.md",
     "PDFs/Taurine PDFs/(PDF) Taurine deficiency as a driver of aging - 2023.md",
@@ -178,12 +179,10 @@
     "Non-PDF links/COVID non-PDF links/COVID and the Heart - It Spares No One - 2022.md",
     "PDFs/COVID PDFs/(PDF) Long COVID - major findings, mechanisms and recommendations - 2023.md",
     "Seirogan.md",
-    "Palmitoylethanolamide.md",
     "PDFs/Autophagy PDFs/(PDF) Autophagy and intermittent fasting - the connection for cancer therapy - 2018 - cln-73-814s.pdf",
     "PDFs/Autophagy PDFs/(PDF) Is autophagy associated with diabetes mellitus and its complications - A review - 2018 - EXCLI-17-709.pdf",
     "PDFs/Autophagy PDFs/(PDF) Autophagy and autophagy-related pathways in cancer - 2023 - s41580-023-00585-z.pdf",
     "PDFs/Autophagy PDFs/(PDF) The Roles of Autophagy in Cancer - 2018 - ijms-19-03466.pdf",
-    "PDFs/Microbiome PDFs/(PDF) Ocular Surface Microbiome in Health and Disease - 2020 - 5.pdf",
     "Untitled.canvas"
   ]
 }
