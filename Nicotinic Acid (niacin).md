@@ -1,5 +1,5 @@
 
-Profoundly neuroprotective and neuroregenerative. Reduces inflammation, ionizing radiation damage, cancer risk, Alzheimer's risk, multiple sclerosis risk, and DNA damage. Reduces low density lipoprotein (LDL) cholesterol and raises high density lipoprotein (HDL) cholesterol, protecting against dyslipidemia, and which may provide protection against heart attacks and strokes.
+Profoundly neuroprotective and neuroregenerative. Reduces inflammation, cancer risk, Alzheimer's risk, pulmonary hypertension risk, multiple sclerosis risk, and DNA damage. Reduces low density lipoprotein (LDL) cholesterol and raises high density lipoprotein (HDL) cholesterol, protecting against dyslipidemia, and which may provide protection against heart attacks and strokes.
 
 Niacin causes temporary skin flushing and sensations of warmth due to mast cells clearing histamines. Some people don't like the skin flushing sensation and appearance, and have historically substituted with [[Nicotinamide (non-flushing)]], though this loses most of the health benefits and introduces significant risks. 
 
@@ -7,11 +7,11 @@ There is some risk of liver damage at doses higher than 500mg per day in around 
 
 Clinical dosage starts from 500mg and can be more than 3g per day, though benefits can usually be found at lower doses as well.
 
-Likely reduces risk of [[COVID]] induced injuries.
+Likely reduces risk of [[COVID]] induced injuries and mortality.
 
 Likely synergistic in effect when combined with [[Glutamine]] and [[Folic Acid]].
 
-#supplement #neuroprotective #anti-inflammatory #skin-protective #cardioprotective  #glaucoma-protective #retina-protective #anti-cancer #Alzheimers-protective #multiple-sclerosis-treatment #mitochondria-support #ionizing-radiation-protective
+#supplement #neuroprotective #anti-inflammatory #skin-protective #cardioprotective  #glaucoma-protective #retina-protective #anti-cancer #Alzheimers-protective #lung-protective  #multiple-sclerosis-treatment #mitochondria-support #ionizing-radiation-protective
 
 ## Benefits
 
@@ -32,6 +32,8 @@ Likely synergistic in effect when combined with [[Glutamine]] and [[Folic Acid]]
 [[(PDF) Association between Daily Niacin Intake and Glaucoma - National Health and Nutrition Examination Survey - 2021]]
 
 [[(PDF) A derivative of vitamin B3 applied several days after exposure reduces lethality of severely irradiated mice - 2021]]
+
+[[(PDF) Niacin Attenuates Pulmonary Hypertension Through H-PGDS in Macrophages - 2020]]
 
 [[(PDF) Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020]]
 
