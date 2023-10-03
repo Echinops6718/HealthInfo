@@ -1,9 +1,9 @@
 
-Profoundly neuroprotective and neuroregenerative. Reduces inflammation, cancer risk, Alzheimer's risk, pulmonary hypertension risk, multiple sclerosis risk, and DNA damage. Reduces low density lipoprotein (LDL) cholesterol and raises high density lipoprotein (HDL) cholesterol, protecting against dyslipidemia, and which may provide protection against heart attacks and strokes.
+Profoundly neuroprotective and neuroregenerative. Reduces inflammation, PCOS, cancer risk, Alzheimer's risk, glaucoma risk, pulmonary hypertension risk, multiple sclerosis risk, and ionizing radiation induced DNA damage. Reduces low density lipoprotein (LDL) cholesterol and raises high density lipoprotein (HDL) cholesterol, protecting against dyslipidemia, and which may provide protection against heart attacks and strokes.
 
-Niacin causes temporary skin flushing and sensations of warmth due to mast cells clearing histamines. Some people don't like the skin flushing sensation and appearance, and have historically substituted with [[Nicotinamide (non-flushing)]], though this loses most of the health benefits and introduces significant risks. 
+Niacin causes temporary skin flushing and sensations of warmth. Some people don't like the skin flushing sensation and appearance, and have historically substituted with [[Nicotinamide (non-flushing)]], though this loses most of the health benefits and introduces significant risks. 
 
-There is some risk of liver damage at doses higher than 500mg per day in around 20% of people. Taking more than 500mg of niacin per day should be accompanied by periodic liver medical evaluation and testing. Niacin can also increase hyperglycemia, and at high dosage appears to confer a 5% increased risk of new onset type 2 diabetes within a few years of consistent supplementation. Reducing high glycemic food intake is recommended if supplementing.
+There is some risk of liver damage at doses higher than 500mg per day in around 20% of people, though niacin also appears to be hepatoprotective against oxidative damage. Taking more than 500mg of niacin per day should be accompanied by periodic liver medical evaluation and testing. Niacin can also increase hyperglycemia, and at high dosage appears to confer a 5% increased risk of new onset type 2 diabetes within a few years of consistent supplementation. Reducing high glycemic food intake is recommended if supplementing.
 
 Clinical dosage starts from 500mg and can be more than 3g per day, though benefits can usually be found at lower doses as well.
 
@@ -33,6 +33,8 @@ Likely synergistic in effect when combined with [[Glutamine]] and [[Folic Acid]]
 
 [[(PDF) Association between Daily Niacin Intake and Glaucoma - National Health and Nutrition Examination Survey - 2021]]
 
+[[Chronic niacin administration ameliorates ovulation, histological changes in the ovary and adiponectin concentrations in a rat model of polycystic ovary syndrome - 2021]]
+
 [[(PDF) A derivative of vitamin B3 applied several days after exposure reduces lethality of severely irradiated mice - 2021]]
 
 [[(PDF) Niacin Attenuates Pulmonary Hypertension Through H-PGDS in Macrophages - 2020]]
@@ -46,6 +48,8 @@ Likely synergistic in effect when combined with [[Glutamine]] and [[Folic Acid]]
 [[(PDF) Activation of Gpr109a, Receptor for Niacin and the Commensal Metabolite Butyrate, Suppresses Colonic Inflammation and Carcinogenesis - 2014]]
 
 [[(PDF) Effect of niacin on endothelial function - A systematic review and meta-analysis of randomized controlled trials - 2014]]
+
+[[(PDF) Dietary nicotinic acid supplementation improves hepatic zinc uptake and offers hepatoprotection against oxidative damage - 2011]]
 
 [[(PDF) Protective effect of nicotinic acid on human albumin during UV-C irradiation - 2011]]
 

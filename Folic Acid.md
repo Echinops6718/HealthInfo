@@ -1,5 +1,5 @@
 
-Reduces risk of stroke, gum disease, and cancer.
+Reduces risk of stroke, gum disease, anemia, malaria symptoms, and cancer.
 
 Likely reduces risk of contracting [[COVID]] as well as induced injuries and mortality.
 
@@ -18,3 +18,7 @@ Likely synergistic in effect when combined with [[Nicotinic Acid (niacin)]].
 [[(PDF) Homocysteine and Stroke Risk - Modifying Effect of Methylenetetrahydrofolate Reductase C677T Polymorphism and Folic Acid Intervention - 2017]]
 
 [[(PDF) Effect of folic acid supplementation on cancer risk among adults with hypertension in China - A randomized clinical trial - 2016]]
+
+[[(PDF) The role of folate in malaria – implications for home fortification programmes among children aged 6–59 months - 2015]]
+
+[[(PDF) Effect of folic acid supplementation on genomic DNA methylation in patients with colorectal adenoma - 2005]]

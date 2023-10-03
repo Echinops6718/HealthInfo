@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PDFs/Niacin PDFs/(PDF) Mechanism of Niacin Induced Hot Flushes and Suppression of Cholesterol - 2023.md",
+                "file": "Folic Acid.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDFs/Niacin PDFs/(PDF) Mechanism of Niacin Induced Hot Flushes and Suppression of Cholesterol - 2023.md",
+                "file": "Folic Acid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDFs/Niacin PDFs/(PDF) Mechanism of Niacin Induced Hot Flushes and Suppression of Cholesterol - 2023.md",
+                "file": "Folic Acid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDFs/Niacin PDFs/(PDF) Mechanism of Niacin Induced Hot Flushes and Suppression of Cholesterol - 2023.md"
+                "file": "Folic Acid.md"
               }
             }
           }
@@ -161,11 +161,18 @@
   },
   "active": "9947e909e0ddf395",
   "lastOpenFiles": [
+    "PDFs/Folic Acid PDFs/(PDF) Effect of folic acid supplementation on genomic DNA methylation in patients with colorectal adenoma - 2005.md",
+    "PDFs/Folic Acid PDFs/(PDF) Effect of folic acid supplementation on genomic DNA methylation in patients with colorectal adenoma - 2005 - 648 full.pdf",
     "Folic Acid.md",
-    "COVID.md",
+    "PDFs/Folic Acid PDFs/(PDF) The role of folate in malaria – implications for home fortification programmes among children aged 6–59 months - 2015.md",
+    "PDFs/Folic Acid PDFs/(PDF) The role of folate in malaria – implications for home fortification programmes among children aged 6–59 months - 2015 - MCN-11-1.pdf",
     "Nicotinic Acid (niacin).md",
-    "Non-PDF links/Niacin non-PDF links/Neuroprotective Effects of Niacin on Ischemia - Reperfusion Injury of the Rabbit Spinal Cord - 2023.md",
+    "PDFs/Niacin PDFs/(PDF) Dietary nicotinic acid supplementation improves hepatic zinc uptake and offers hepatoprotection against oxidative damage - 2011.md",
+    "PDFs/Niacin PDFs/(PDF) Dietary nicotinic acid supplementation improves hepatic zinc uptake and offers hepatoprotection against oxidative damage - 2011 - bjn.pdf",
     "PDFs/Niacin PDFs/(PDF) Mechanism of Niacin Induced Hot Flushes and Suppression of Cholesterol - 2023.md",
+    "Non-PDF links/Niacin non-PDF links/Chronic niacin administration ameliorates ovulation, histological changes in the ovary and adiponectin concentrations in a rat model of polycystic ovary syndrome - 2021.md",
+    "COVID.md",
+    "Non-PDF links/Niacin non-PDF links/Neuroprotective Effects of Niacin on Ischemia - Reperfusion Injury of the Rabbit Spinal Cord - 2023.md",
     "PDFs/Niacin PDFs/(PDF) Mechanism of Niacin Induced Hot Flushes and Suppression of Cholesterol - 2023 - jbm_2023051914372045.pdf",
     "Glutamine.md",
     "PDFs/Niacin PDFs/(PDF) Niacin protects the isolated heart from ischemia-reperfusion injury - 2000.md",
@@ -182,20 +189,13 @@
     "Non-PDF links/Folic Acid non-PDF links/(PDF) The effect of the systemic folic acid intake as an adjunct to scaling and root planing in gingival crevicular fluid of periodontitis patients - A randomized placebo-controlled clinical trial - 2020.md",
     "Non-PDF links/Folic Acid non-PDF links",
     "PDFs/Folic Acid PDFs/(PDF) Effect of folic acid supplementation on cancer risk among adults with hypertension in China - A randomized clinical trial - 2016.md",
-    "PDFs/Folic Acid PDFs/(PDF) Effect of folic acid supplementation on cancer risk among adults with hypertension in China - A randomized clinical trial - 2016 - Intl Journal of Cancer.pdf",
-    "PDFs/Folic Acid PDFs",
     "NIR Light Therapy.md",
     "Microbiome.md",
     "PDFs/Niacin PDFs/(PDF) Protective effect of nicotinic acid on human albumin during UV-C irradiation - 2011.md",
-    "PDFs/Niacin PDFs/(PDF) Protective effect of nicotinic acid on human albumin during UV-C irradiation - 2011 - s11814-011-0083-8.pdf",
     "PDFs/Niacin PDFs/(PDF) Nicotinic Acid-Mediated Activation of Both Membrane and Nuclear Receptors towards Therapeutic Glucocorticoid Mimetics for Treating Multiple Sclerosis - 2009.md",
     "PDFs/Niacin PDFs/(PDF) The Effects of Niacin on DNA Repair after N-Methyl-N′-nitro-N-nitrosoguanidine Treatment in Normal Human Lymphocytes - 1997.md",
     "PDFs/Niacin PDFs/(PDF) A derivative of vitamin B3 applied several days after exposure reduces lethality of severely irradiated mice - 2021.md",
     "PDFs/Glutamine PDFs/(PDF) A Study on Acetylglutamine Pharmacokinetics in Rat Blood and Brain Based on Liquid Chromatography-Tandem Mass Spectrometry and Microdialysis Technique - 2020.md",
-    "PDFs/Glutamine PDFs/(PDF) Glutamine Deficiency Promotes Immune and Endothelial Cell Dysfunction in COVID-19 - 2023.md",
-    "PDFs/Niacin PDFs/(PDF) Association between niacin and mortality among patients with cancer in the NHANES retrospective cohort - 2022.md",
-    "PDFs/COVID PDFs/(PDF) The effects of COVID-19 on cognitive performance in a community-based cohort - a COVID symptom study biobank prospective cohort study - 2023.md",
-    "Spermidine.md",
     "Untitled.canvas"
   ]
 }
