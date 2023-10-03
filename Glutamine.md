@@ -1,10 +1,14 @@
-#supplement #neuroprotective #Alzheimers-protective 
+#supplement #neuroprotective #Alzheimers-protective
 
 The acetyl-l-glutamine form may be more effective and neuroprotective. 
+
+Likely reduces risk of [[COVID]] induced injuries.
 
 Likely synergistic in effect when combined with [[Nicotinic Acid (niacin)]].
 
 ## Benefits:
+
+[[(PDF) Glutamine Deficiency Promotes Immune and Endothelial Cell Dysfunction in COVID-19 - 2023]]
 
 [[(PDF) Acetylglutamine facilitates motor recovery after brachial plexus root avulsion in ratsby promoting motoneuronal survival and axonal remyelination - 2023]]
 

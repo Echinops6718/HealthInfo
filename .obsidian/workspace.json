@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COVID.md",
+                "file": "Glutamine.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#neurotoxic",
+                "query": "tag:#covid-protective",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COVID.md",
+                "file": "Glutamine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COVID.md",
+                "file": "Glutamine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COVID.md"
+                "file": "Glutamine.md"
               }
             }
           }
@@ -146,17 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84a91a5deab23f24",
+  "active": "a2819cf318d3eb50",
   "lastOpenFiles": [
-    "PDFs/COVID PDFs/(PDF) The effects of COVID-19 on cognitive performance in a community-based cohort - a COVID symptom study biobank prospective cohort study - 2023.md",
-    "PDFs/COVID PDFs/(PDF) The effects of COVID-19 on cognitive performance in a community-based cohort - a COVID symptom study biobank prospective cohort study - 2023 - PIIS2589537023002638.pdf",
+    "PDFs/Glutamine PDFs/(PDF) Glutamine Deficiency Promotes Immune and Endothelial Cell Dysfunction in COVID-19 - 2023.md",
+    "PDFs/Glutamine PDFs/(PDF) Glutamine Deficiency Promotes Immune and Endothelial Cell Dysfunction in COVID-19 - 2023 - ijms-24-07593.pdf",
+    "Nicotinic Acid (niacin).md",
+    "PDFs/Niacin PDFs/(PDF) Association between niacin and mortality among patients with cancer in the NHANES retrospective cohort - 2022.md",
+    "PDFs/Niacin PDFs/(PDF) Association between niacin and mortality among patients with cancer in the NHANES retrospective cohort - 2022 - s12885-022-10265-4.pdf",
     "COVID.md",
-    "PDFs/COVID PDFs/(PDF) SARS-CoV-2 spike protein activates human endogenous retroviruses in blood cells - 2022.md",
+    "PDFs/COVID PDFs/(PDF) The effects of COVID-19 on cognitive performance in a community-based cohort - a COVID symptom study biobank prospective cohort study - 2023.md",
     "Spermidine.md",
+    "PDFs/COVID PDFs/(PDF) The effects of COVID-19 on cognitive performance in a community-based cohort - a COVID symptom study biobank prospective cohort study - 2023 - PIIS2589537023002638.pdf",
+    "PDFs/COVID PDFs/(PDF) SARS-CoV-2 spike protein activates human endogenous retroviruses in blood cells - 2022.md",
     "PDFs/Spermidine PDFs/(PDF) The positive effect of spermidine in older adults suffering from dementia - 2021.md",
     "Autophagy.md",
     "PDFs/COVID PDFs/(PDF) Association of COVID-19 Vaccination With Risk for Incident Diabetes After COVID-19 Infection - 2023.md",
-    "Nicotinic Acid (niacin).md",
     "Nicotinamide (non-flushing).md",
     "Microbiome.md",
     "Glutamine.md",
@@ -174,15 +179,11 @@
     "PDFs/COVID PDFs/(PDF) Long COVID - major findings, mechanisms and recommendations - 2023.md",
     "Seirogan.md",
     "Palmitoylethanolamide.md",
-    "NIR Light Therapy.md",
-    "PDFs/Autophagy PDFs/(PDF) Autophagy and intermittent fasting - the connection for cancer therapy - 2018.md",
     "PDFs/Autophagy PDFs/(PDF) Autophagy and intermittent fasting - the connection for cancer therapy - 2018 - cln-73-814s.pdf",
     "PDFs/Autophagy PDFs/(PDF) Is autophagy associated with diabetes mellitus and its complications - A review - 2018 - EXCLI-17-709.pdf",
     "PDFs/Autophagy PDFs/(PDF) Autophagy and autophagy-related pathways in cancer - 2023 - s41580-023-00585-z.pdf",
     "PDFs/Autophagy PDFs/(PDF) The Roles of Autophagy in Cancer - 2018 - ijms-19-03466.pdf",
     "PDFs/Microbiome PDFs/(PDF) Ocular Surface Microbiome in Health and Disease - 2020 - 5.pdf",
-    "PDFs/Microbiome PDFs/(PDF) Current Evidence on the Ocular Surface Microbiota and Related Diseases - 2020 - microorganisms-08-01033.pdf",
-    "PDFs/COVID PDFs/(PDF) A Tale of Two Viruses - Poliomyelitis and COVID-19 - 2021 - 2010C360_GC_COVID-Polio.v2.pdf",
     "Untitled.canvas"
   ]
 }
