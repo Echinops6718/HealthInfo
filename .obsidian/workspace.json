@@ -179,12 +179,8 @@
             "id": "84a91a5deab23f24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COVID.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -217,7 +213,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#multi-organ",
+                "query": "tag:#Alzheimers-protective",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -254,7 +250,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COVID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +266,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COVID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,9 +287,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COVID.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -317,6 +309,12 @@
   },
   "active": "84a91a5deab23f24",
   "lastOpenFiles": [
+    "Seirogan.md",
+    "Microbiome.md",
+    "Palmitoylethanolamide.md",
+    "Glutamine.md",
+    "Nicotinic Acid (niacin).md",
+    "COVID.md",
     "Cold Therapy.md",
     "Autophagy.md",
     "Acetyl-L-Carnitine.md",
@@ -328,22 +326,16 @@
     "PDFs/Autophagy PDFs/(PDF) Autophagy and autophagy-related pathways in cancer - 2023 - s41580-023-00585-z.pdf",
     "PDFs/Autophagy PDFs/(PDF) The Roles of Autophagy in Cancer - 2018.md",
     "PDFs/Autophagy PDFs/(PDF) The Roles of Autophagy in Cancer - 2018 - ijms-19-03466.pdf",
-    "Microbiome.md",
     "PDFs/Microbiome PDFs/(PDF) Ocular Surface Microbiome in Health and Disease - 2020.md",
     "PDFs/Microbiome PDFs/(PDF) Ocular Surface Microbiome in Health and Disease - 2020 - 5.pdf",
     "PDFs/Glutamine PDFs/(PDF) Acetylglutamine facilitates motor recovery after brachial plexus root avulsion in ratsby promoting motoneuronal survival and axonal remyelination - 2023.md",
     "PDFs/Microbiome PDFs/(PDF) Current Evidence on the Ocular Surface Microbiota and Related Diseases - 2020.md",
     "PDFs/Microbiome PDFs/(PDF) Current Evidence on the Ocular Surface Microbiota and Related Diseases - 2020 - microorganisms-08-01033.pdf",
-    "COVID.md",
     "PDFs/COVID PDFs/(PDF) A Tale of Two Viruses - Poliomyelitis and COVID-19 - 2021.md",
     "PDFs/COVID PDFs/(PDF) A Tale of Two Viruses - Poliomyelitis and COVID-19 - 2021 - 2010C360_GC_COVID-Polio.v2.pdf",
     "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md",
-    "Glutamine.md",
     "Nicotinamide (non-flushing).md",
-    "Nicotinic Acid (niacin).md",
     "NIR Light Therapy.md",
-    "Palmitoylethanolamide.md",
-    "Seirogan.md",
     "Spermidine.md",
     "Vitamin D.md",
     "Taurine.md",

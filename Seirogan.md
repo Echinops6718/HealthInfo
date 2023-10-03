@@ -1,4 +1,7 @@
 
+Likely effective as an alternative to antibiotics, to protect the [[Microbiome]], when experiencing minor food poisoning as per: 
+https://stephenskolnick.substack.com/p/so-you-have-to-take-antibiotics-how
+
 [[(PDF) Effect of the smell of Seirogan, a wood creosote, on dermal and intestinal mucosal immunity and allergic inflammation - 2012]]
 
 [[New views on antidiarrheal effect of wood creosote - is wood creosote really a gastrointestinal antiseptic - 2005]]
