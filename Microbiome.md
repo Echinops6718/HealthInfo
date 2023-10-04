@@ -15,9 +15,15 @@ Predigested high calorie foods, like nut and seed butter, add adipose tissue eas
 
 [[(PDF) The microbiome and human cancer - 2022]]
 
+[[(PDF) Alterations of host-gut microbiome interactions in multiple sclerosis - 2022]]
+
+[[(PDF) Gut microbiome of multiple sclerosis patients and paired household healthy controls reveal associations with disease risk and course - 2022]]
+
 [[(PDF) New Insights Into the Cancer–Microbiome–Immune Axis - Decrypting a Decade of Discoveries - 2021]]
 
 [[(PDF) Microbiome and cancer - 2021]]
+
+[[(PDF) Gut Microbiome in Progressive Multiple Sclerosis - 2021]]
 
 [[(PDF) Microbiome dysbiosis in lung cancer - from composition to therapy - 2020]]
 
@@ -60,7 +66,7 @@ https://stephenskolnick.substack.com/p/the-thousand-secret-ways-the-food
 
 https://stephenskolnick.substack.com/p/thousand-secret-ways-ii
 
-Oxytocin not only increases social bonding with in-groups, but also improves immune system response and wound healing, though likely increases social intolerance of out-groups. Ingesting probiotics containing Lactobacillus reuteri (ATCC 6475) likely upregulates endogenous oxytocin, with all of the associated benefits, though caution may be necessary to minimize increasing social prejudice and intolerance:
+Oxytocin not only increases social bonding with in-groups, but also improves immune system response and wound healing, though likely increases social intolerance of out-groups. Ingesting probiotics containing Lactobacillus reuteri (ATCC 6475) likely upregulates endogenous oxytocin, with all of the associated benefits, though caution may be necessary to minimize downsides:
 
 https://stephenskolnick.substack.com/p/the-love-bug
 
