@@ -21,6 +21,8 @@ Predigested high calorie foods, like nut and seed butter, add adipose tissue eas
 
 [[(PDF) Microbiome dysbiosis in lung cancer - from composition to therapy - 2020]]
 
+[[(PDF) The Cancer Microbiome - Distinguishing Direct and Indirect Effects Requires a Systemic View - 2020]]
+
 [[(PDF) Microbiome harbored within tumors - a new chance to revisit our understanding of cancer pathogenesis and treatment - 2020]]
 
 [[(PDF) Gut microbiome stability and resilience - elucidating the response to perturbations in order to modulate gut health - 2020]]
@@ -52,13 +54,13 @@ https://www.linkedin.com/in/stephen-skolnick-43b4b0aa/
 https://twitter.com/StephenSkolnick
 #### Steven Skolnick microbiome research articles:
 
-Glyphosate (Roundup) and dicamba damage the GI microbiome through their herbicidal/antibiotic effects, and increase the likelihood of cancers and many forms of autoimmune and chronic inflammatory illnesses. Avoid plant or animal based foods/products grown with or consuming these forms of herbicides. In North America, this would require only ingesting/wearing organic plant and animal products:
+Glyphosate (Roundup) and dicamba damage the GI microbiome through their herbicidal/antibiotic effects, and increase the likelihood of cancers and many forms of autoimmune and chronic inflammatory illnesses. Avoid plant or animal based foods/products grown with, or consuming, these forms of herbicides. In North America, this would require only ingesting/wearing organic plant and animal products:
 
 https://stephenskolnick.substack.com/p/the-thousand-secret-ways-the-food
 
 https://stephenskolnick.substack.com/p/thousand-secret-ways-ii
 
-Oxytocin not only increases social bonding with in-groups, but also improves immune system response and wound healing, though likely increases social intolerance of out-groups. Ingesting probiotics containing Lactobacillus reuteri (ATCC 6475) likely upregulates endogenous oxytocin, with all of the associated benefits, though caution may be necessary to minimize increasing social intolerance:
+Oxytocin not only increases social bonding with in-groups, but also improves immune system response and wound healing, though likely increases social intolerance of out-groups. Ingesting probiotics containing Lactobacillus reuteri (ATCC 6475) likely upregulates endogenous oxytocin, with all of the associated benefits, though caution may be necessary to minimize increasing social prejudice and intolerance:
 
 https://stephenskolnick.substack.com/p/the-love-bug
 
@@ -70,7 +72,7 @@ Antibiotics damage the microbiome in potentially non-reversible ways that increa
 
 https://stephenskolnick.substack.com/p/so-you-have-to-take-antibiotics-how
 
-Type 1 diabetes may be strongly associated with Legionella growth in inadequately heated or cooled plumbing. Children and the elderly appear to be the most at risk, potentially due to lower immune system/microbiome resiliency:
+Type 1 diabetes may be associated with Legionella growth in inadequately heated or cooled plumbing. Children and immunocompromised people appear to be the most at risk, potentially due to lower immune system/microbiome resiliency:
 
 https://stephenskolnick.substack.com/p/on-the-origins-of-type-1-diabetes
 
