@@ -1,5 +1,6 @@
 
-Likely effective as an alternative to antibiotics, to protect the [[Microbiome]], when experiencing minor food poisoning as per: 
+Likely effective as an alternative to antibiotics, to protect the [[Microbiome]], when experiencing minor to moderate food poisoning: 
+
 https://stephenskolnick.substack.com/p/so-you-have-to-take-antibiotics-how
 
 [[(PDF) Effect of the smell of Seirogan, a wood creosote, on dermal and intestinal mucosal immunity and allergic inflammation - 2012]]
