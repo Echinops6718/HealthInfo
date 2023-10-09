@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microbiome.md",
+                "file": "Folic Acid.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiome.md",
+                "file": "Folic Acid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiome.md",
+                "file": "Folic Acid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiome.md"
+                "file": "Folic Acid.md"
               }
             }
           }
@@ -161,41 +161,42 @@
   },
   "active": "9947e909e0ddf395",
   "lastOpenFiles": [
+    "Glutamine.md",
+    "Folic Acid.md",
+    "Microbiome.md",
+    "Nicotinic Acid (niacin).md",
+    "Nicotinamide (non-flushing).md",
+    "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md",
+    "Taurine.md",
+    "Acetyl-L-Carnitine.md",
+    "Autophagy.md",
+    "Vitamin D.md",
+    "PDFs/Taurine PDFs/(PDF) Increased Glutamate and Homocysteine and Decreased Glutamine Levels in Autism - A Review and Strategies for FutureStudies of Amino Acids in Autism - 2013.md",
+    "PDFs/Taurine PDFs/(PDF) Role of taurine in the central nervous system - 2009.md",
+    "PDFs/Taurine PDFs/(PDF) Taurine and inflammatory diseases - 2014.md",
+    "PDFs/(PDF) Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020.md",
+    "Non-PDF links/Taurine - The comeback of a neutraceutical in the prevention of retinal degenerations - 2014.md",
+    "PDFs/Folic Acid PDFs/(PDF) The Role of Folic Acid in SARS-CoV-2 Infection - An Intriguing Linkage under Investigation - 2023.md",
+    "PDFs/Folic Acid PDFs/(PDF) Folic acid - importance for human health and its role in COVID-19 therapy - 2023.md",
     "PDFs/Microbiome PDFs/(PDF) Gut microbiome of multiple sclerosis patients and paired household healthy controls reveal associations with disease risk and course - 2022.md",
     "PDFs/Microbiome PDFs/(PDF) Gut microbiome of multiple sclerosis patients and paired household healthy controls reveal associations with disease risk and course - 2022 - PIIS0092867422011151.pdf",
-    "Microbiome.md",
     "PDFs/Microbiome PDFs/(PDF) Gut Microbiome in Progressive Multiple Sclerosis - 2021.md",
     "PDFs/Microbiome PDFs/(PDF) Gut Microbiome in Progressive Multiple Sclerosis - 2021 - nihms-1696060.pdf",
     "PDFs/Microbiome PDFs/(PDF) Alterations of host-gut microbiome interactions in multiple sclerosis - 2022.md",
     "PDFs/Microbiome PDFs/(PDF) Alterations of host-gut microbiome interactions in multiple sclerosis - 2022 - PIIS2352396421005922.pdf",
     "COVID.md",
     "PDFs/Microbiome PDFs/(PDF) Host-diet-gut microbiome interactions influence human energy balance - a randomized clinical trial - 2023.md",
-    "Folic Acid.md",
-    "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md",
     "PDFs/Tiger Milk Mushroom PDFs/(PDF) Effect of tiger milk mushroom (Lignosus rhinocerus) supplementation on respiratory health, immunity and antioxidant status - an open-label prospective study - 2021.md",
     "PDFs/Tiger Milk Mushroom PDFs/(PDF) Neuroprotective Effects of Extracts from Tiger Milk Mushroom Lignosus rhinocerus Against Glutamate-Induced Toxicity in HT22 Hippocampal Neuronal Cells and Neurodegenerative Diseases in Caenorhabditis elegans - 2021.md",
-    "Taurine.md",
-    "Glutamine.md",
-    "Nicotinic Acid (niacin).md",
     "PDFs/Microbiome PDFs/(PDF) The Cancer Microbiome - Distinguishing Direct and Indirect Effects Requires a Systemic View - 2020.md",
     "PDFs/Microbiome PDFs/(PDF) The Cancer Microbiome - Distinguishing Direct and Indirect Effects Requires a Systemic View - 2020 - PIIS2405803320300170.pdf",
-    "Nicotinamide (non-flushing).md",
     "Seirogan.md",
-    "PDFs/Microbiome PDFs/(PDF) Microbiome harbored within tumors - a new chance to revisit our understanding of cancer pathogenesis and treatment - 2020.md",
     "PDFs/Microbiome PDFs/(PDF) Microbiome harbored within tumors - a new chance to revisit our understanding of cancer pathogenesis and treatment - 2020 - s41392-020-00244-1.pdf",
-    "PDFs/Microbiome PDFs/(PDF) Transmission of human-associated microbiota along family and social networks - 2019.md",
     "PDFs/Microbiome PDFs/(PDF) Transmission of human-associated microbiota along family and social networks - 2019 - s41564-019-0409-6.pdf",
-    "PDFs/Microbiome PDFs/(PDF) The person-to-person transmission landscape of the gut and oral microbiomes - 2023.md",
     "PDFs/Microbiome PDFs/(PDF) The person-to-person transmission landscape of the gut and oral microbiomes - 2023 - s41586-022-05620-1.pdf",
-    "PDFs/Microbiome PDFs/(PDF) Gut microbiome stability and resilience - elucidating the response to perturbations in order to modulate gut health - 2020.md",
     "PDFs/Microbiome PDFs/(PDF) Gut microbiome stability and resilience - elucidating the response to perturbations in order to modulate gut health - 2020 - 595.full.pdf",
-    "PDFs/Microbiome PDFs/(PDF) Microbiome dysbiosis in lung cancer - from composition to therapy - 2020.md",
     "PDFs/Microbiome PDFs/(PDF) Microbiome dysbiosis in lung cancer - from composition to therapy - 2020 - s41698-020-00138-z.pdf",
-    "PDFs/Microbiome PDFs/(PDF) International Cancer Microbiome Consortium consensus statement on the role of the human microbiome in carcinogenesis - 2019.md",
     "PDFs/Microbiome PDFs/(PDF) International Cancer Microbiome Consortium consensus statement on the role of the human microbiome in carcinogenesis - 2019 - gutjnl-2019-318556.pdf",
-    "PDFs/Niacin PDFs/(PDF) Activation of Gpr109a, Receptor for Niacin and the Commensal Metabolite Butyrate, Suppresses Colonic Inflammation and Carcinogenesis - 2014.md",
-    "PDFs/Microbiome PDFs/(PDF) The microbiome and human cancer - 2022.md",
-    "PDFs/Microbiome PDFs/(PDF) New Insights Into the Cancer–Microbiome–Immune Axis - Decrypting a Decade of Discoveries - 2021.md",
     "Untitled.canvas"
   ]
 }

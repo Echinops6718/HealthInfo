@@ -1,6 +1,6 @@
 1g to 2g of taurine supplemented per day likely reduces age related illness and loss of function.
 
-May reduce autism symptoms.
+May improve post-concussion and post-stroke recovery, treat neurodegenerative illnesses like multiple sclerosis, reduce symptoms of autism, and retinal diseases like macular degeneration and glaucoma.
 
 #supplement #anti-aging #autism-treatment #glaucoma-protective #multiple-sclerosis-treatment #neuroprotective #retina-protective 
 

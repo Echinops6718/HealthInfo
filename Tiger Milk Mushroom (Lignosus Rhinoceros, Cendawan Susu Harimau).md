@@ -1,4 +1,8 @@
 
+Traditionally used to treat lung and lymph conditions, including cancers and viral infections.
+
+May protect against [[COVID]] infection and injuries.
+
 #supplement #neuroprotective #anti-cancer #anti-inflammatory #lung-protective 
 
 [[(PDF) Neuroprotective Effects of Extracts from Tiger Milk Mushroom Lignosus rhinocerus Against Glutamate-Induced Toxicity in HT22 Hippocampal Neuronal Cells and Neurodegenerative Diseases in Caenorhabditis elegans - 2021]]

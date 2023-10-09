@@ -1,4 +1,6 @@
 
+The folinic acid form may be easier on the body, especially for those with methylation challenges.
+
 Reduces risk of stroke, gum disease, anemia, malaria symptoms, liver damage, and cancer.
 
 Likely reduces risk of contracting [[COVID]] as well as induced injuries and mortality.

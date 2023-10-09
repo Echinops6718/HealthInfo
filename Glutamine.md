@@ -1,4 +1,3 @@
-#supplement #autism-treatment #neuroprotective #cardioprotective #Alzheimers-protective
 
 The acetyl-l-glutamine form may be more effective and neuroprotective. 
 
@@ -7,6 +6,8 @@ Likely reduces risk of [[COVID]] induced injuries.
 Likely synergistic in effect when combined with [[Nicotinic Acid (niacin)]].
 
 May reduce autism symptoms.
+
+#supplement #autism-treatment #neuroprotective #cardioprotective #Alzheimers-protective
 
 ## Benefits:
 
