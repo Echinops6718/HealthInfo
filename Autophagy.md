@@ -1,8 +1,9 @@
-#anti-cancer #anti-aging #neuroprotective #cardioprotective #mitochondria-support #diabetes-protective 
 
 Likely most effectively upregulated through implementation of multi-day water fasting, though intermittent fasting and certain supplements may provide overlapping benefits as well.
 
 Not only does fasting based autophagy appear to reduce cancer risk, it also reduces injury risk from chemotherapy based cancer treatments.
+
+#anti-cancer #anti-aging #neuroprotective #cardioprotective #mitochondria-support #diabetes-protective 
 
 [[(PDF) Autophagy and autophagy-related pathways in cancer - 2023]]
 

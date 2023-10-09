@@ -2,9 +2,13 @@
 
 May improve post-concussion and post-stroke recovery, treat neurodegenerative illnesses like multiple sclerosis, reduce symptoms of autism, and retinal diseases like macular degeneration and glaucoma.
 
+May reduce risk of [[COVID]] induced injuries.
+
 #supplement #anti-aging #autism-treatment #glaucoma-protective #multiple-sclerosis-treatment #neuroprotective #retina-protective 
 
 [[(PDF) Taurine deficiency as a driver of aging - 2023]]
+
+[[The Disease-Modifying Role of Taurine and Its Therapeutic Potential in Coronavirus Disease 2019 (COVID-19) - 2022]]
 
 [[(PDF) Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020]]
 

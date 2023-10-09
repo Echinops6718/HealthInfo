@@ -1,6 +1,7 @@
-#neurotoxic #accelerated-aging #multi-organ-damage
 
 COVID appears to be a lifelong chronic inflammatory illness potentially affecting all organ systems, with similar vulnerabilities to how oral herpes and chickenpox as endemic viruses remain mostly asymptomatic after initial infection in the majority of the population until geriatric years, or becoming immunocompromised.
+
+#neurotoxic #accelerated-aging #multi-organ-damage
 
 [[(PDF) Long COVID - major findings, mechanisms and recommendations - 2023]]
 
