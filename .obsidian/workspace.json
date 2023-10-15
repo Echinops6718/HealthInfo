@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Autophagy.md",
+                "file": "Microbiome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea244a17ec5fd0be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NIR Light Therapy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autophagy.md",
+                "file": "NIR Light Therapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autophagy.md",
+                "file": "NIR Light Therapy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autophagy.md"
+                "file": "NIR Light Therapy.md"
               }
             }
           }
@@ -159,15 +171,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9947e909e0ddf395",
+  "active": "ea244a17ec5fd0be",
   "lastOpenFiles": [
+    "PDFs/NIR Light Therapy PDFs/(PDF) A Preliminary Study of the Safety of Red Light Phototherapy of Tissues Harboring Cancer - 2012.md",
+    "PDFs/NIR Light Therapy PDFs/(PDF) A Preliminary Study of the Safety of Red Light Phototherapy of Tissues Harboring Cancer - 2012 - pho.2011.3186.pdf",
+    "NIR Light Therapy.md",
+    "PDFs/NIR Light Therapy PDFs/(PDF) Biological effects and medical applications of infrared radiation - 2017.md",
+    "PDFs/NIR Light Therapy PDFs/(PDF) Biological effects and medical applications of infrared radiation - 2017 - nihms870595.pdf",
+    "PDFs/NIR Light Therapy PDFs/(PDF) A Controlled Trial to Determine the Efficacy of Red and Near-Infrared Light Treatment in Patient Satisfaction, Reduction of Fine Lines, Wrinkles, Skin Roughness, and Intradermal Collagen Density Increase - 2013.md",
+    "PDFs/NIR Light Therapy PDFs/(PDF) A Controlled Trial to Determine the Efficacy of Red and Near-Infrared Light Treatment in Patient Satisfaction, Reduction of Fine Lines, Wrinkles, Skin Roughness, and Intradermal Collagen Density Increase - 2013 - pho.2013.3616.pdf",
+    "PDFs/NIR Light Therapy PDFs/(PDF) Green Tea and Red Light—A Powerful Duo in Skin Rejuvenation - 2009.md",
+    "PDFs/NIR Light Therapy PDFs/(PDF) Green Tea and Red Light—A Powerful Duo in Skin Rejuvenation - 2009 - sommer2009.pdf",
+    "PDFs/NIR Light Therapy PDFs/(PDF) Low-level red plus near infrared lights combination induces expressions of collagen and elastin in human skin in vitro - 2021.md",
+    "PDFs/NIR Light Therapy PDFs/(PDF) Low-level red plus near infrared lights combination induces expressions of collagen and elastin in human skin in vitro - 2021 - li2021.pdf",
+    "Autophagy.md",
     "Folic Acid.md",
     "Taurine.md",
     "Sun Exposure.md",
     "Spermidine.md",
     "Seirogan.md",
     "Palmitoylethanolamide.md",
-    "NIR Light Therapy.md",
     "Nicotinic Acid (niacin).md",
     "Nicotinamide (non-flushing).md",
     "Microbiome.md",
@@ -185,18 +208,6 @@
     "PDFs/Palmitoylethanolamide PDFs/(PDF) Could Palmitoylethanolamide Be an Effective Treatment for Long-COVID-19 - Hypothesis and Insights in Potential Mechanisms of Action and Clinical Applications - 2022 - icns_19_1-3_19.pdf",
     "PDFs/Palmitoylethanolamide PDFs/(PDF) Palmitoylethanolamide Reduces Proinflammatory Markers in Unvaccinated Adults Recently Diagnosed with COVID-19 - A Randomized Controlled Trial - 2022.md",
     "PDFs/Palmitoylethanolamide PDFs/(PDF) Palmitoylethanolamide Reduces Proinflammatory Markers in Unvaccinated Adults Recently Diagnosed with COVID-19 - A Randomized Controlled Trial - 2022 - main.pdf",
-    "PDFs/Palmitoylethanolamide PDFs/(PDF) The Use of Palmitoylethanolamide in the Treatment of Long COVID - A Real-Life Retrospective Cohort Study - 2022.md",
-    "PDFs/Palmitoylethanolamide PDFs/(PDF) The Use of Palmitoylethanolamide in the Treatment of Long COVID - A Real-Life Retrospective Cohort Study - 2022 - medsci-10-00037.pdf",
-    "Cold Therapy.md",
-    "Autophagy.md",
-    "Acetyl-L-Carnitine.md",
-    "Vitamin D.md",
-    "PDFs/Taurine PDFs/(PDF) Increased Glutamate and Homocysteine and Decreased Glutamine Levels in Autism - A Review and Strategies for FutureStudies of Amino Acids in Autism - 2013.md",
-    "PDFs/Taurine PDFs/(PDF) Role of taurine in the central nervous system - 2009.md",
-    "PDFs/Microbiome PDFs/(PDF) Gut microbiome of multiple sclerosis patients and paired household healthy controls reveal associations with disease risk and course - 2022 - PIIS0092867422011151.pdf",
-    "PDFs/Microbiome PDFs/(PDF) Gut Microbiome in Progressive Multiple Sclerosis - 2021 - nihms-1696060.pdf",
-    "PDFs/Microbiome PDFs/(PDF) Alterations of host-gut microbiome interactions in multiple sclerosis - 2022 - PIIS2352396421005922.pdf",
-    "PDFs/Microbiome PDFs/(PDF) The Cancer Microbiome - Distinguishing Direct and Indirect Effects Requires a Systemic View - 2020 - PIIS2405803320300170.pdf",
     "Untitled.canvas"
   ]
 }
