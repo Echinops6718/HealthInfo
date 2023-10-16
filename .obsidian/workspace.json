@@ -35,12 +35,8 @@
             "id": "ea244a17ec5fd0be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NIR Light Therapy.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NIR Light Therapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NIR Light Therapy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NIR Light Therapy.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -173,8 +165,12 @@
   },
   "active": "ea244a17ec5fd0be",
   "lastOpenFiles": [
-    "PDFs/NIR Light Therapy PDFs/(PDF) Photodynamic Therapy for the Prevention of SARS-CoV-2 Infection in Dental Office - Could be Possible - 2020.md",
+    "Niacin.md",
+    "Microbiome.md",
+    "Nicotinic Acid (niacin).md",
     "NIR Light Therapy.md",
+    "Nicotinamide (non-flushing).md",
+    "PDFs/NIR Light Therapy PDFs/(PDF) Photodynamic Therapy for the Prevention of SARS-CoV-2 Infection in Dental Office - Could be Possible - 2020.md",
     "PDFs/NIR Light Therapy PDFs/(PDF) Photodynamic Therapy for the Prevention of SARS-CoV-2 Infection in Dental Office - Could be Possible - 2020 - 902ad3d62e68b3ab6146373a0efd6f3a7752.pdf",
     "PDFs/NIR Light Therapy PDFs/(PDF) A Potential Role for Photobiomodulation Therapy in Disease Treatment and Prevention in the Era of COVID-19 - 2020.md",
     "PDFs/NIR Light Therapy PDFs/(PDF) A Potential Role for Photobiomodulation Therapy in Disease Treatment and Prevention in the Era of COVID-19 - 2020 - 4fbfe033576720049286e60f59214829ebe5.pdf",
@@ -205,9 +201,6 @@
     "Taurine.md",
     "Spermidine.md",
     "Seirogan.md",
-    "Nicotinic Acid (niacin).md",
-    "Nicotinamide (non-flushing).md",
-    "Microbiome.md",
     "Untitled.canvas"
   ]
 }

@@ -47,7 +47,7 @@ Apples have a complete symbiotic microbiome unto themselves, which appears to be
 
 [[(PDF) An Apple a Day - Which Bacteria Do We Eat With Organic and Conventional Apples - 2019]]
 
-[[Niacin]] supplementation likely prevents cancer in part through improving GI microbiome butyrate fermentation:
+[[Nicotinic Acid (niacin)]] supplementation likely prevents cancer in part through improving GI microbiome butyrate fermentation:
  
 [[(PDF) Activation of Gpr109a, Receptor for Niacin and the Commensal Metabolite Butyrate, Suppresses Colonic Inflammation and Carcinogenesis - 2014]]
 
