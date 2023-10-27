@@ -35,8 +35,12 @@
             "id": "ea244a17ec5fd0be",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md"
+              }
             }
           }
         ]
@@ -165,42 +173,41 @@
   },
   "active": "ea244a17ec5fd0be",
   "lastOpenFiles": [
-    "Niacin.md",
+    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Nutrient composition, antioxidant properties, and anti-proliferative activity of Lignosus rhinocerus Cooke sclerotium - 2013.md",
+    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Nutrient composition, antioxidant properties, and anti-proliferative activity of Lignosus rhinocerus Cooke sclerotium - 2013 - 25.pdf",
+    "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md",
+    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Anti-inflammatory effect of the sclerotium of Lignosus rhinocerotis (Cooke) Ryvarden, the Tiger Milk mushroom - 2014.md",
+    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Anti-inflammatory effect of the sclerotium of Lignosus rhinocerotis (Cooke) Ryvarden, the Tiger Milk mushroom - 2014 - 12906_2013_Article_1930.pdf",
+    "PDFs/Tiger Milk Mushroom PDFs/(PDF) A Status Review of the Bioactive Activities of Tiger Milk Mushroom Lignosus rhinocerotis (Cooke) Ryvarden - 2017.md",
+    "PDFs/Tiger Milk Mushroom PDFs/(PDF) A Status Review of the Bioactive Activities of Tiger Milk Mushroom Lignosus rhinocerotis (Cooke) Ryvarden - 2017 - fphar-08-00998.pdf",
+    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Preclinical toxicological evaluations of the sclerotium of Lignosus rhinocerus (Cooke), the Tiger Milk mushroom - 2013.md",
+    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Preclinical toxicological evaluations of the sclerotium of Lignosus rhinocerus (Cooke), the Tiger Milk mushroom - 2013 - 24.pdf",
+    "PDFs/Tiger Milk Mushroom PDFs/(PDF) The genome of the Tiger Milk mushroom, Lignosus rhinocerotis, provides insights into the genetic basis of its medicinal properties - 2014.md",
+    "PDFs/Tiger Milk Mushroom PDFs/(PDF) The genome of the Tiger Milk mushroom, Lignosus rhinocerotis, provides insights into the genetic basis of its medicinal properties - 2014 - 12864_2014_Article_6333.pdf",
     "Microbiome.md",
-    "Nicotinic Acid (niacin).md",
+    "PDFs/Tiger Milk Mushroom PDFs/(PDF) The Wound Healing Potential of Lignosus rhinocerus and Other Ethno-myco Wound Healing Agents - 2023.md",
+    "PDFs/Tiger Milk Mushroom PDFs/(PDF) The Wound Healing Potential of Lignosus rhinocerus and Other Ethno-myco Wound Healing Agents - 2023 - TMYB_51_2164641.pdf",
+    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Extracts of the Tiger Milk Mushroom (Lignosus rhinocerus) Enhance Stress Resistance and Extend Lifespan in Caenorhabditis elegans via the DAF-16 - FoxO Signaling Pathway - 2021.md",
+    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Extracts of the Tiger Milk Mushroom (Lignosus rhinocerus) Enhance Stress Resistance and Extend Lifespan in Caenorhabditis elegans via the DAF-16 - FoxO Signaling Pathway - 2021 - pharmaceuticals-14-00093.pdf",
+    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Lignosus rhinocerotis (Cooke) Ryvarden mimics the neuritogenic activity of nerve growth factor via MEK-ERK1-2 signaling pathway in PC-12 cells - 2015 - srep16349.pdf",
+    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Lignosus rhinocerus (Cooke) Ryvarden - A Medicinal Mushroom That Stimulates Neurite Outgrowth in PC-12 Cells - 2012 - ECAM2012-320308.pdf",
+    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Lignosus rhinocerus (Cooke) Ryvarden - A Medicinal Mushroom That Stimulates Neurite Outgrowth in PC-12 Cells - 2012.md",
+    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Effect of tiger milk mushroom (Lignosus rhinocerus) supplementation on respiratory health, immunity and antioxidant status - an open-label prospective study - 2021.md",
+    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Lignosus rhinocerus attenuates non-alcoholic fatty liver induced by plant-based high-fat diet in hamster - 2022.md",
+    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Lignosus rhinocerus attenuates non-alcoholic fatty liver induced by plant-based high-fat diet in hamster - 2022 - 1-s2.0-S0717345822000215-main.pdf",
+    "Glutamine.md",
+    "Folic Acid.md",
+    "COVID.md",
+    "Cold Therapy.md",
+    "Acetyl-L-Carnitine.md",
+    "Autophagy.md",
     "NIR Light Therapy.md",
+    "Nicotinic Acid (niacin).md",
+    "PDFs/COVID PDFs/(PDF) Long COVID - major findings, mechanisms and recommendations - 2023.md",
+    "PDFs/COVID PDFs/(PDF).md",
+    "Niacin.md",
     "Nicotinamide (non-flushing).md",
     "PDFs/NIR Light Therapy PDFs/(PDF) Photodynamic Therapy for the Prevention of SARS-CoV-2 Infection in Dental Office - Could be Possible - 2020.md",
-    "PDFs/NIR Light Therapy PDFs/(PDF) Photodynamic Therapy for the Prevention of SARS-CoV-2 Infection in Dental Office - Could be Possible - 2020 - 902ad3d62e68b3ab6146373a0efd6f3a7752.pdf",
-    "PDFs/NIR Light Therapy PDFs/(PDF) A Potential Role for Photobiomodulation Therapy in Disease Treatment and Prevention in the Era of COVID-19 - 2020.md",
-    "PDFs/NIR Light Therapy PDFs/(PDF) A Potential Role for Photobiomodulation Therapy in Disease Treatment and Prevention in the Era of COVID-19 - 2020 - 4fbfe033576720049286e60f59214829ebe5.pdf",
-    "PDFs/NIR Light Therapy PDFs/(PDF) Light as a Cure in COVID-19 - A Challenge for Medicine - 2022.md",
-    "PDFs/NIR Light Therapy PDFs/(PDF) Light as a Cure in COVID-19 - A Challenge for Medicine - 2022 - photonics-09-00686.pdf",
-    "PDFs/NIR Light Therapy PDFs/(PDF) Cardiopulmonary and hematological effects of infrared LED photobiomodulation in the treatment of SARS-COV2 - 2023.md",
-    "PDFs/NIR Light Therapy PDFs/(PDF) Cardiopulmonary and hematological effects of infrared LED photobiomodulation in the treatment of SARS-COV2 - 2023 - main.pdf",
-    "Sun Exposure.md",
-    "PDFs/NIR Light Therapy PDFs/(PDF) The Effectiveness of Photobiomudulation Therapy (PBMT) in COVID-19 Infection - 2020.md",
-    "PDFs/NIR Light Therapy PDFs/(PDF) The Effectiveness of Photobiomudulation Therapy (PBMT) in COVID-19 Infection - 2020 - jlms-11-S23.pdf",
-    "PDFs/NIR Light Therapy PDFs/(PDF) Photobiomodulation Therapy as a Possible New Approach in COVID-19 - A Systematic Review - 2021.md",
-    "PDFs/NIR Light Therapy PDFs/(PDF) Photobiomodulation Therapy as a Possible New Approach in COVID-19 - A Systematic Review - 2021 - life-11-00580.pdf",
-    "Palmitoylethanolamide.md",
-    "PDFs/NIR Light Therapy PDFs/(PDF) Therapeutic application of light and electromagnetic fields to reduce hyper-inflammation triggered by COVID-19 - 2021.md",
-    "PDFs/NIR Light Therapy PDFs/(PDF) Therapeutic application of light and electromagnetic fields to reduce hyper-inflammation triggered by COVID-19 - 2021 - KCIB_14_1911413.pdf",
-    "PDFs/NIR Light Therapy PDFs/(PDF) Infrared light therapy relieves TLR-4 dependent hyper-inflammation of the type induced by COVID-19 - 2021.md",
-    "PDFs/NIR Light Therapy PDFs/(PDF) Light as a potential treatment for pandemic coronavirus infections - A perspective - 2020 - main.pdf",
-    "PDFs/NIR Light Therapy PDFs/(PDF) Light as a potential treatment for pandemic coronavirus infections - A perspective  - 2020.md",
-    "PDFs/NIR Light Therapy PDFs/(PDF) Infrared light therapy relieves TLR-4 dependent hyper-inflammation of the type induced by COVID-19 - 2021 - KCIB_14_1965718.pdf",
-    "PDFs/NIR Light Therapy PDFs/(PDF) A Preliminary Study of the Safety of Red Light Phototherapy of Tissues Harboring Cancer - 2012.md",
-    "PDFs/NIR Light Therapy PDFs/(PDF) A Preliminary Study of the Safety of Red Light Phototherapy of Tissues Harboring Cancer - 2012 - pho.2011.3186.pdf",
-    "PDFs/NIR Light Therapy PDFs/(PDF) Biological effects and medical applications of infrared radiation - 2017.md",
-    "PDFs/NIR Light Therapy PDFs/(PDF) A Controlled Trial to Determine the Efficacy of Red and Near-Infrared Light Treatment in Patient Satisfaction, Reduction of Fine Lines, Wrinkles, Skin Roughness, and Intradermal Collagen Density Increase - 2013.md",
-    "PDFs/NIR Light Therapy PDFs/(PDF) Green Tea and Red Light—A Powerful Duo in Skin Rejuvenation - 2009.md",
-    "PDFs/NIR Light Therapy PDFs/(PDF) Low-level red plus near infrared lights combination induces expressions of collagen and elastin in human skin in vitro - 2021.md",
-    "Autophagy.md",
-    "Folic Acid.md",
-    "Taurine.md",
-    "Spermidine.md",
-    "Seirogan.md",
     "Untitled.canvas"
   ]
 }
