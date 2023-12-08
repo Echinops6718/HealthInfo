@@ -7,7 +7,7 @@ https://stephenskolnick.substack.com/p/so-you-have-to-take-antibiotics-how
 
 [[New views on antidiarrheal effect of wood creosote - is wood creosote really a gastrointestinal antiseptic - 2005]]
 
-[[Multicenter, double-blind, randomized comparison of wood creosote, the principal active ingredient of Seirogan, an herbal antidiarrheal medication, and loperamide in adults with acute nonspecific diarrhea - 2004]]
+[[Comparison of wood creosote, the principal active ingredient of Seirogan, an herbal antidiarrheal medication, and loperamide in adults with acute nonspecific diarrhea - 2004]]
 
 [[Multiple-dose escalation, safety, and tolerability study of wood creosote, the principal active ingredient of seirogan, an herbal antidiarrheal medication, in healthy subjects - 2003]]
 

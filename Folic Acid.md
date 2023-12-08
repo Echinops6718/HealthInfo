@@ -21,7 +21,7 @@ May reduce symptoms of autism and schizophrenia.
 
 [[(PDF) Effects of folic acid deficiency on genetic damage in colorectal cancer cells - 2023]]
 
-[[(PDF) Associations of Serum Folate and Homocysteine Concentrations with All-Cause, Cardiovascular Disease, and Cancer Mortality in Men and Women in Korea - the Cardiovascular Disease Association Study - 2023]]
+[[(PDF) Associations of Serum Folate and Homocysteine Concentrations with All-Cause, Cardiovascular Disease, and Cancer Mortality in Men and Women in Korea - 2023]]
 
 [[Folinic Acid - 2022]]
 

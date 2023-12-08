@@ -9,9 +9,9 @@ May protect against [[COVID]] infection and injuries.
 
 [[(PDF) Lignosus rhinocerus attenuates non-alcoholic fatty liver induced by plant-based high-fat diet in hamster - 2022]]
 
-[[(PDF) Neuroprotective Effects of Extracts from Tiger Milk Mushroom Lignosus rhinocerus Against Glutamate-Induced Toxicity in HT22 Hippocampal Neuronal Cells and Neurodegenerative Diseases in Caenorhabditis elegans - 2021]]
+[[(PDF) Neuroprotective Effects of Extracts from Tiger Milk Mushroom Against Glutamate-Induced Toxicity in HT22 Hippocampal Neuronal Cells and Neurodegenerative Diseases in Caenorhabditis elegans - 2021]]
 
-[[(PDF) Extracts of the Tiger Milk Mushroom (Lignosus rhinocerus) Enhance Stress Resistance and Extend Lifespan in Caenorhabditis elegans via the DAF-16 - FoxO Signaling Pathway - 2021]]
+[[(PDF) Extracts of the Tiger Milk Mushroom Enhance Stress Resistance and Extend Lifespan in Caenorhabditis elegans via the DAF-16 - FoxO Signaling Pathway - 2021]]
 
 [[(PDF) Effect of tiger milk mushroom (Lignosus rhinocerus) supplementation on respiratory health, immunity and antioxidant status - an open-label prospective study - 2021]]
 

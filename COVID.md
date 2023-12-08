@@ -17,7 +17,7 @@ COVID will have a long tail in public health with 1 in 4 people likely having re
 
 [[COVID and the Heart - It Spares No One - 2022]]
 
-[[(PDF) Saliva antibody-fingerprint of reactivated latent viruses after mild asymptomatic COVID-19 is unique in patients with myalgic-encephalomyelitis - chronic fatigue syndrome - 2022]]
+[[(PDF) Saliva antibody-fingerprint of reactivated latent viruses after mild asymptomatic COVID-19 is unique in patients with ME - CFS - 2022]]
 
 [[Evidence for Biological Age Acceleration and Telomere Shortening in COVID-19 Survivors - 2021]]
 
