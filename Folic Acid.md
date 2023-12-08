@@ -23,6 +23,8 @@ May reduce symptoms of autism and schizophrenia.
 
 [[(PDF) Associations of Serum Folate and Homocysteine Concentrations with All-Cause, Cardiovascular Disease, and Cancer Mortality in Men and Women in Korea - the Cardiovascular Disease Association Study - 2023]]
 
+[[Folinic Acid - 2022]]
+
 [[(PDF) Folic Acid as the Adjuvant Therapy for Chronic Schizophrenia - A Comprehensive Study on Glutathione Reductase - 2022]]
 
 [[(PDF) Effects of Folic Acid Supplementation on Oxidative Stress Markers - A Systematic Review and Meta-Analysis of Randomized Controlled Trials - 2021]]
