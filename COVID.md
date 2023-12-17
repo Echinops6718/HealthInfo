@@ -1,9 +1,17 @@
 
 COVID appears to be a lifelong chronic inflammatory illness potentially affecting all organ systems, with similar vulnerabilities to how oral herpes and chickenpox as endemic viruses remain mostly asymptomatic after initial infection in the majority of the population until geriatric years, or becoming immunocompromised.
 
+Multi-organ system injuries appear to be cumulative for each COVID infection regardless of whether it's symptomatic. These injuries appear to cause accelerated ageing and permanent systemic damage that cumulatively increases the likelihood of hospitalization and long term disability with each subsequent infection.
+
 #neurotoxic #accelerated-aging #multi-organ-damage
 
 [[(PDF) Long COVID - major findings, mechanisms and recommendations - 2023]]
+
+[[(PDF) Post-COVID exercise intolerance is associated with capillary alterations and immune dysregulations in skeletal muscles - 2023]]
+
+The risk of long term COVID symptoms is cumulative, and increases with increasing number of infections. By 3+ infections, 37.9% of Canadians report long term symptoms - or about 1 in every 2.6 people:
+
+[[(PDF) Experiences of Canadians with long-term symptoms following COVID-19 - 2023]]
 
 [[(PDF) The effects of COVID-19 on cognitive performance in a community-based cohort - a COVID symptom study biobank prospective cohort study - 2023]]
 

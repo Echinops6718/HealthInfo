@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "cbc737e07cfe961f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COVID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ea244a17ec5fd0be",
             "type": "leaf",
             "state": {
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1411.5
+    "width": 1141.5
   },
   "right": {
     "id": "a874df288f8a6ab0",
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acetyl-L-Carnitine.md",
+                "file": "COVID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Acetyl-L-Carnitine.md",
+                "file": "COVID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Acetyl-L-Carnitine.md"
+                "file": "COVID.md"
               }
             }
           }
@@ -155,8 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9947e909e0ddf395",
+  "active": "cbc737e07cfe961f",
   "lastOpenFiles": [
+    "PDFs/COVID PDFs/(PDF) Post-COVID exercise intolerance is associated with capillary alterations and immune dysregulations in skeletal muscles - 2023.md",
+    "PDFs/COVID PDFs/(PDF) Post-COVID exercise intolerance is associated with capillary alterations and immune dysregulations in skeletal muscles - 2023 - s40478-023-01662-2.pdf",
+    "COVID.md",
+    "PDFs/COVID PDFs/(PDF) Experiences of Canadians with long-term symptoms following COVID-19 - 2023.md",
+    "PDFs/COVID PDFs/(PDF) Experiences of Canadians with long-term symptoms following COVID-19 - 2023 - 00015-eng.pdf",
     "Acetyl-L-Carnitine.md",
     "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Clinical Evidence of Acetyl-L-Carnitine Efficacy in the Treatment of Acute Ischemic Stroke - A Pilot Clinical Trial - 2022.md",
     "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Clinical Evidence of Acetyl-L-Carnitine Efficacy in the Treatment of Acute Ischemic Stroke - A Pilot Clinical Trial - 2022 - OMCL2022-2493053.pdf",
@@ -178,9 +196,7 @@
     "PDFs/Acetyl-L-Carnitine PDFs/(PDF) An acetyl-L-carnitine switch on mitochondrial dysfunction and rescue in the metabolomics study on aluminum oxide nanoparticles  - 2016.md",
     "PDFs/Acetyl-L-Carnitine PDFs/(PDF) An acetyl-L-carnitine switch on mitochondrial dysfunction and rescue in the metabolomics study on aluminum oxide nanoparticles - 2016 - 12989_2016_Article_115.pdf",
     "PDFs/Acetyl-L-Carnitine PDFs/(PDF) L-Carnitine and Acylcarnitines - Mitochondrial Biomarkers for Precision Medicine - 2021.md",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) L-Carnitine and Acylcarnitines - Mitochondrial Biomarkers for Precision Medicine - 2021 - metabolites-11-00051.pdf",
     "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Preventive Role of L-Carnitine and Balanced Diet in Alzheimer’s Disease - 2020.md",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Preventive Role of L-Carnitine and Balanced Diet in Alzheimer’s Disease - 2020 - nutrients-12-01987.pdf",
     "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Acetyl-L-carnitine for dementia - 2003.md",
     "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Acetyl-L-Carnitine in Dementia and Other Cognitive Disorders - A Critical Update - 2020.md",
     "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Carnitine for fatigue in multiple sclerosis - 2012.md",
@@ -189,9 +205,6 @@
     "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Acetyl-L-Carnitine downregulates invasion and angiogenesis pathways in prostate cancer cells - 2019.md",
     "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Ameliorating Hypertension and Insulin Resistance in Subjects at Increased Cardiovascular Risk - 2009.md",
     "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Acetyl-L -carnitine is an anti-angiogenic agent targeting the VEGFR2 and CXCR4 pathways - 2018.md",
-    "Taurine.md",
-    "Cold Therapy.md",
-    "Glutamine.md",
     "Untitled.canvas"
   ]
 }
