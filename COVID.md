@@ -23,6 +23,10 @@ COVID will have a long tail in public health with 1 in 4 people likely having re
 
 [[(PDF) SARS-CoV-2 infection and persistence in the human body and brain at autopsy - 2022]]
 
+[[(PDF) Risks and burdens of incident diabetes in long COVID - a cohort study - 2022]]
+
+[[(PDF) Diabetes after SARS-CoV-2 infection - 2022]]
+
 [[COVID and the Heart - It Spares No One - 2022]]
 
 [[(PDF) Saliva antibody-fingerprint of reactivated latent viruses after mild asymptomatic COVID-19 is unique in patients with ME - CFS - 2022]]
