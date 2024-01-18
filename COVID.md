@@ -13,6 +13,8 @@ The risk of long term COVID symptoms is cumulative, and increases with increasin
 
 [[(PDF) Experiences of Canadians with long-term symptoms following COVID-19 - 2023]]
 
+[[(PDF) Possible cancer-causing capacity of COVID-19 - Is SARS-CoV-2 an oncogenic agent - 2023]]
+
 [[(PDF) The effects of COVID-19 on cognitive performance in a community-based cohort - a COVID symptom study biobank prospective cohort study - 2023]]
 
 [[(PDF) Association of COVID-19 Vaccination With Risk for Incident Diabetes After COVID-19 Infection - 2023]]
