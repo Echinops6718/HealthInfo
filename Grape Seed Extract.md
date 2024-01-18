@@ -3,7 +3,9 @@ Provides broad neuroprotective effects. Reduces inflammation, cancer risk, Alzhe
 
 Reduces sequela of kidney and liver injuries, dissolves kidney stones, and may regenerate kidney filtration capability even in advanced kidney disease.
 
-May prevent and treat a wide variety of cancers, as well as strokes and resulting brain ischemia.
+May improve blood circulation, as well as improving prevention and treatment of strokes and resulting brain ischemia.
+
+Likely improves bone and collagen strength.
 
 Likely improves GI epithelial barrier integrity and [[Microbiome]] health.
 
