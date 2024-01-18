@@ -1,0 +1,4 @@
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7990077/
+
+![[(PDF) A PILOT STUDY OF A GRAPE SEED PROCYANIDIN EXTRACT FOR LUNG CANCER CHEMOPREVENTION - 2019 - nihms-1530402.pdf]]

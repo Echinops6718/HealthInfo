@@ -41,7 +41,7 @@ High dosage of NIR light therapy for long periods of time is likely contraindica
 
 [[(PDF) Low-level laser (light) therapy (LLLT) in skin  stimulating, healing, restoring - 2014]]
 
-[[(PDF) A Controlled Trial to Determine the Efficacy of Red and Near-Infrared Light Treatment in Patient Satisfaction, Reduction of Fine Lines, Wrinkles, Skin Roughness, and Intradermal Collagen Density Increase - 2013]]
+[[(PDF) Red and Near-Infrared Light Treatment in Patient Satisfaction, Reduction of Fine Lines, Wrinkles, Skin Roughness, and Intradermal Collagen Density Increase - 2013]]
 
 [[(PDF) A Preliminary Study of the Safety of Red Light Phototherapy of Tissues Harboring Cancer - 2012]]
 

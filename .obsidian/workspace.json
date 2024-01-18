@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "436cc124baa287a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grape Seed Extract.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ea244a17ec5fd0be",
             "type": "leaf",
             "state": {
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#autism-treatment",
+                "query": "tag:#hepatoprotective",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1141.5
+    "width": 947.5
   },
   "right": {
     "id": "a874df288f8a6ab0",
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COVID.md",
+                "file": "Grape Seed Extract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COVID.md",
+                "file": "Grape Seed Extract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COVID.md"
+                "file": "Grape Seed Extract.md"
               }
             }
           }
@@ -168,43 +180,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbc737e07cfe961f",
+  "active": "436cc124baa287a8",
   "lastOpenFiles": [
-    "PDFs/COVID PDFs/(PDF) Risks and burdens of incident diabetes in long COVID - a cohort study - 2022.md",
-    "PDFs/COVID PDFs/(PDF) Risks and burdens of incident diabetes in long COVID - a cohort study - 2022 - PIIS2213858722000444.pdf",
-    "COVID.md",
-    "Non-PDF links/COVID non-PDF links/COVID and the Heart - It Spares No One - 2022.md",
-    "PDFs/COVID PDFs/(PDF) Diabetes after SARS-CoV-2 infection - 2022.md",
-    "PDFs/COVID PDFs/(PDF) Diabetes after SARS-CoV-2 infection - 2022 - PIIS2213858722003242.pdf",
-    "PDFs/COVID PDFs/(PDF) Post-COVID exercise intolerance is associated with capillary alterations and immune dysregulations in skeletal muscles - 2023.md",
-    "PDFs/COVID PDFs/(PDF) Post-COVID exercise intolerance is associated with capillary alterations and immune dysregulations in skeletal muscles - 2023 - s40478-023-01662-2.pdf",
-    "PDFs/COVID PDFs/(PDF) Experiences of Canadians with long-term symptoms following COVID-19 - 2023.md",
-    "PDFs/COVID PDFs/(PDF) Experiences of Canadians with long-term symptoms following COVID-19 - 2023 - 00015-eng.pdf",
-    "Acetyl-L-Carnitine.md",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Clinical Evidence of Acetyl-L-Carnitine Efficacy in the Treatment of Acute Ischemic Stroke - A Pilot Clinical Trial - 2022.md",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Clinical Evidence of Acetyl-L-Carnitine Efficacy in the Treatment of Acute Ischemic Stroke - A Pilot Clinical Trial - 2022 - OMCL2022-2493053.pdf",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Chronic Oral L-Carnitine Supplementation Drives Marked Plasma TMAO Elevations in Patients with Organic Acidemias - 2016.md",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Chronic Oral L-Carnitine Supplementation Drives Marked Plasma TMAO Elevations in Patients with Organic Acidemias - 2016 - Chapter_539.pdf",
+    "Sun Exposure.md",
+    "Grape Seed Extract.md",
+    "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) The natural tannins oligomeric proanthocyanidins and punicalagin are potent inhibitors of infection by SARS-CoV-2 - 2023.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) The natural tannins oligomeric proanthocyanidins and punicalagin are potent inhibitors of infection by SARS-CoV-2 - 2023 - elife-84899.pdf",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Antimicrobial efficacy of grape seed extract in terminating the ramifications of plaque microorganisms - 2022.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Antimicrobial efficacy of grape seed extract in terminating the ramifications of plaque microorganisms - 2022 - cm-95-185.pdf",
     "Nicotinic Acid (niacin).md",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Microbiome-derived carnitine mimics as previously unknown mediators of gut-brain axis communication - 2020.md",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Microbiome-derived carnitine mimics as previously unknown mediators of gut-brain axis communication - 2020 - sciadv.aax6328.pdf",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Anti-Inflammatory and Antioxidant Effects of Acetyl-L-Carnitine on Atherosclerotic Rats - 2020.md",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Intestinal microbiota metabolism of L-carnitine, a nutrient in red meat, promotes atherosclerosis - 2013.md",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Intestinal microbiota metabolism of L-carnitine, a nutrient in red meat, promotes atherosclerosis - 2013 - nihms-450760.pdf",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) The carnitine system and cancer metabolic plasticity - 2018.md",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Acetyl-L-carnitine increases mitochondrial protein acetylation in the aged rat heart - 2015.md",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Acetyl-L-carnitine increases mitochondrial protein acetylation in the aged rat heart - 2015 - nihms666684.pdf",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) ACETYL-L-CARNITINE AMELIORATES MITOCHONDRIAL DYSFUNCTION FOLLOWING CONTUSION SPINAL CORD INJURY - 2010.md",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) ACETYL-L-CARNITINE AMELIORATES MITOCHONDRIAL DYSFUNCTION FOLLOWING CONTUSION SPINAL CORD INJURY - 2010 - nihms198132.pdf",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) The Role of L-Carnitine in Mitochondria, Prevention of Metabolic Inflexibility and Disease Initiation - 2022.md",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) An acetyl-L-carnitine switch on mitochondrial dysfunction and rescue in the metabolomics study on aluminum oxide nanoparticles  - 2016.md",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) L-Carnitine and Acylcarnitines - Mitochondrial Biomarkers for Precision Medicine - 2021.md",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Preventive Role of L-Carnitine and Balanced Diet in Alzheimer’s Disease - 2020.md",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Acetyl-L-carnitine for dementia - 2003.md",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Acetyl-L-Carnitine in Dementia and Other Cognitive Disorders - A Critical Update - 2020.md",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Carnitine for fatigue in multiple sclerosis - 2012.md",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Effects of Acetyl-L-Carnitine on Oxidative Stress in Amyotrophic Lateral Sclerosis Patients - 2023.md",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) ALS Untangled - Carnitine supplements - 2020.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed extract for reduction of renal disturbances following reperfusion in rats - 2013.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed extract for reduction of renal disturbances following reperfusion in rats - 2013 - 822-4485-1-PB.pdf",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Protective Effects of Grape Seed Proanthocyanidins on the Kidneys of Diabetic Rats through the Nrf2 Signalling Pathway - 2020.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Protective Effects of Grape Seed Proanthocyanidins on the Kidneys of Diabetic Rats through the Nrf2 Signalling Pathway - 2020 - ECAM.pdf",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Effects of Polyphenols from Grape Seeds on Renal Lithiasis - 2015.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Effects of Polyphenols from Grape Seeds on Renal Lithiasis - 2015 - OMCL2015-813737.pdf",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Evaluation of Anti-Candida Activity of Vitis vinifera L. Seed Extracts Obtained from Wine and Table Cultivars - 2014.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Evaluation of Anti-Candida Activity of Vitis vinifera L. Seed Extracts Obtained from Wine and Table Cultivars - 2014 - BMRI2014-127021.pdf",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed powder improves renal failure of chronic kidney disease patients - 2016.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed powder improves renal failure of chronic kidney disease patients - 2016 - EXCLI-15-424.pdf",
+    "PDFs/Grape Seed Extract PDFs/(PDF) GSPE Ameliorates Cardiac Remodelling After Myocardial Infarction Through PI3K AKT Pathway in Mice - 2020.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed proanthocyanidin extract protects human lens epithelial cells from oxidative stress via reducing NF-кB and MAPK protein expression - 2011.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) GSPE Ameliorates Cardiac Remodelling After Myocardial Infarction Through PI3K AKT Pathway in Mice - 2020 - fphar-11-585984.pdf",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Grape Seed Proanthocyanidin Extract Inhibits Human Esophageal Squamous Cancerous Cell Line ECA109 via the NF- κ B Signaling Pathway - 2018.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed extract alleviates radiation-induced damages in human blood lymphocytes - 2020.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed extract alleviates radiation-induced damages in human blood lymphocytes - 2020 - AJP-10-398.pdf",
+    "PDFs/Grape Seed Extract PDFs/(PDF) The benefits of grape seed extract in neurological disorders and brain aging - 2023.md",
+    "Nicotinamide (non-flushing).md",
+    "Microbiome.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Proanthocyanidin-Rich Grape Seed Extract Reduces Inflammation and Oxidative Stress and Restores Tight Junction Barrier Function in Caco-2 Colon Cells - 2020.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Proanthocyanidin-Rich Grape Seed Extract Reduces Inflammation and Oxidative Stress and Restores Tight Junction Barrier Function in Caco-2 Colon Cells - 2020 - nutrients-12-01623.pdf",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Antioxidant effect of grape seed extract corrects experimental autoimmune encephalomyelitis behavioral dysfunctions, demyelination, and glial activation - 2022.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Grape Stem Extracts with Potential Anticancer and Antioxidant Properties - 2021.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Differential Effects of Grape Seed Extract against Human Colorectal Cancer Cell Lines - The Intricate Role of Death Receptors and Mitochondria - 2013.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Health Effects of Grape Seed and Skin Extracts and Their Influence on Biochemical Markers - 2020.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed extract inhibits advanced human prostate tumor growth and angiogenesis and upregulates insulin-like growth factor binding protein-3 - 2004.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) GSE Dose-Responsively Decreases Disease Severity in a Rat Model of Mucositis; Concomitantly Enhancing Chemotherapeutic Effectiveness in Colon Cancer Cells - 2014.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Mast cells and pro-inflammatory cytokines roles in assessment of GSE anti-inflammatory activity in rat model of carrageenan-induced paw edema - 2018.md",
     "Untitled.canvas"
   ]
 }
