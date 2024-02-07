@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COVID.md",
+                "file": "Grape Seed Extract.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COVID.md",
+                "file": "Grape Seed Extract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COVID.md",
+                "file": "Grape Seed Extract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COVID.md"
+                "file": "Grape Seed Extract.md"
               }
             }
           }
@@ -190,6 +190,12 @@
   },
   "active": "5051c59a612f79a9",
   "lastOpenFiles": [
+    "Vitamin D.md",
+    "PDFs/(PDF) The Big Vitamin D Mistake - 2017.md",
+    "Autophagy.md",
+    "PDFs/Autophagy PDFs/(PDF) The Effects of Intermittent Fasting on Brain and Cognitive Function - 2021.md",
+    "PDFs/Autophagy PDFs/(PDF) The Effects of Intermittent Fasting on Brain and Cognitive Function - 2021 - nutrients-13-03166.pdf",
+    "COVID.md",
     "PDFs/COVID PDFs/(PDF) Possible cancer-causing capacity of COVID-19 - Is SARS-CoV-2 an oncogenic agent - 2023.md",
     "PDFs/COVID PDFs/(PDF) Possible cancer-causing capacity of COVID-19 - Is SARS-CoV-2 an oncogenic agent - 2023 - main.pdf",
     "Grape Seed Extract.md",
@@ -216,15 +222,10 @@
     "PDFs/Grape Seed Extract PDFs/(PDF) GSPE Ameliorates Cardiac Remodelling After Myocardial Infarction Through PI3K AKT Pathway in Mice - 2020 - fphar-11-585984.pdf",
     "PDFs/Grape Seed Extract PDFs/(PDF) Grape Seed Proanthocyanidin Extract Inhibits Human Esophageal Squamous Cancerous Cell Line ECA109 via the NF- κ B Signaling Pathway - 2018.md",
     "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed extract alleviates radiation-induced damages in human blood lymphocytes - 2020.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed extract alleviates radiation-induced damages in human blood lymphocytes - 2020 - AJP-10-398.pdf",
     "PDFs/Grape Seed Extract PDFs/(PDF) The benefits of grape seed extract in neurological disorders and brain aging - 2023.md",
     "Nicotinamide (non-flushing).md",
     "Microbiome.md",
     "PDFs/Grape Seed Extract PDFs/(PDF) Proanthocyanidin-Rich Grape Seed Extract Reduces Inflammation and Oxidative Stress and Restores Tight Junction Barrier Function in Caco-2 Colon Cells - 2020.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Antioxidant effect of grape seed extract corrects experimental autoimmune encephalomyelitis behavioral dysfunctions, demyelination, and glial activation - 2022.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Grape Stem Extracts with Potential Anticancer and Antioxidant Properties - 2021.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Differential Effects of Grape Seed Extract against Human Colorectal Cancer Cell Lines - The Intricate Role of Death Receptors and Mitochondria - 2013.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Health Effects of Grape Seed and Skin Extracts and Their Influence on Biochemical Markers - 2020.md",
     "Untitled.canvas"
   ]
 }

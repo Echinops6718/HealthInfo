@@ -1,5 +1,5 @@
 
-Provides broad neuroprotective effects. Reduces inflammation, cancer risk, Alzheimer's risk, Parkinson's risk, retinal injury and disease risk, pulmonary hypertension risk, and ionizing radiation induced DNA damage.
+Provides broad neuroprotective effects. Reduces inflammation, cancer risk, Alzheimer's risk, Parkinson's risk, retinal injury and disease risk, pulmonary hypertension risk, gum infections, and ionizing radiation induced DNA damage.
 
 Reduces sequela of kidney and liver injuries, dissolves kidney stones, and may regenerate kidney filtration capability even in advanced kidney disease.
 
@@ -11,7 +11,7 @@ Likely improves GI epithelial barrier integrity and [[Microbiome]] health.
 
 Antibacterial and antiviral, and may protect against [[COVID]] infection and injuries.
 
-Should likely be avoided if taking pharmaceutical blood thinners or blood pressure medication due to risk of potentiating effects. 
+Should likely be avoided if taking pharmaceutical blood thinners or blood pressure medication due to risk of potentiating effects. May cause bleeding complications if supplementing prior to surgery.
 
 #accelerate-wound-healing #Alzheimers-protective #anti-aging #anti-cancer #anti-inflammatory #autism-treatment  #cardioprotective #diabetes-protective #hepatoprotective #ionizing-radiation-protective #neuroprotective #renalprotective #retina-protective #skin-protective #supplement 
 

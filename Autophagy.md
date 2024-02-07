@@ -7,6 +7,8 @@ Not only does fasting based autophagy appear to reduce cancer risk, it also redu
 
 [[(PDF) Autophagy and autophagy-related pathways in cancer - 2023]]
 
+[[(PDF) The Effects of Intermittent Fasting on Brain and Cognitive Function - 2021]]
+
 [[Spermidine, an autophagy inducer, as a therapeutic strategy in neurological disorders - 2020]]
 
 [[(PDF) Autophagy in Cardiovascular Aging - 2018]]
