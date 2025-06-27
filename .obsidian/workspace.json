@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lactoferrin.md",
+                "file": "Acetyl-L-Carnitine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lactoferrin"
+              "title": "Acetyl-L-Carnitine"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lactoferrin.md",
+                "file": "Acetyl-L-Carnitine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lactoferrin"
+              "title": "Backlinks for Acetyl-L-Carnitine"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lactoferrin.md",
+                "file": "Acetyl-L-Carnitine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lactoferrin"
+              "title": "Outgoing links from Acetyl-L-Carnitine"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lactoferrin.md",
+                "file": "Acetyl-L-Carnitine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lactoferrin"
+              "title": "Outline of Acetyl-L-Carnitine"
             }
           }
         ],
@@ -171,41 +171,41 @@
   },
   "active": "e76e57e7ec5e2579",
   "lastOpenFiles": [
-    "PDFs/Lactoferrin PDFs/Enteric lactoferrin attenuates the development of high-fat and high-cholesterol diet-induced hypercholesterolemia and atherosclerosis in Microminipigs - 2015.pdf",
-    "Lactoferrin.md",
-    "PDFs/Lactoferrin PDFs/Lactoferrin - A Natural Glycoprotein Involved in Iron and Inflammatory Homeostasis - 2017 - Rosa_Lactoferrin_2017.pdf",
-    "PDFs/Lactoferrin PDFs/A Review on Lactoferrin and Central Nervous System Diseases - 2021 - cells-10-01810.pdf",
-    "PDFs/Lactoferrin PDFs/Lactoferrin as a Natural Immune Modulator - 2010 - nihms222034.pdf",
-    "PDFs/Lactoferrin PDFs/Antimicrobial properties of lactoferrin - 2009 - 379.-Jenssen-2009.pdf",
-    "PDFs/Lactoferrin PDFs/Lactoferrin and lactoferricin inhibit Herpes simplex 1 and 2 infection and exhibit synergy when combined with acyclovir - 2003 - ANDERSENJeanetteHammer.pdf",
-    "PDFs/Lactoferrin PDFs/An Overview on The Antiviral Activity of Lactoferrin - 2009 - 46-2_06.pdf",
-    "Non-PDF links/Niacin non-PDF links/The Promise of Niacin in Neurology - 2023.md",
-    "Nicotinic Acid (niacin).md",
-    "COVID.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/Intestinal microbiota metabolism of L-carnitine, a nutrient in red meat, promotes atherosclerosis - 2013 - nihms-450760.pdf",
     "Acetyl-L-Carnitine.md",
-    "Whey Protein.md",
-    "PDFs/Lactoferrin PDFs/Therapeutic Effects of Lactoferrin in Ocular Diseases_ From Dry Eye Disease to Infections - 2020 - ijms-21-06668.pdf",
-    "PDFs/Lactoferrin PDFs/Therapeutic Effects of Lactoferrin in Ocular Diseases_ From Dry Eye Disease to Infections - ijms-21-06668.pdf",
-    "Taurine.md",
-    "Sun Exposure.md",
-    "Folic Acid.md",
-    "PDFs/COVID PDFs/Persistence of spike protein at the skull-meninges-brain axis may contribute to the neurological sequelae of COVID-19 - 2024 - PIIS1931312824004384.pdf",
-    "PDFs/COVID PDFs/(PDF) SARS-CoV-2 Omicron variant is more stable than the ancestral strain on various surfaces - 2022.md",
-    "PDFs/COVID PDFs/(PDF) Differences in environmental stability among SARS-CoV-2 variants of concern - Omicron has higher stability - 2022.md",
-    "PDFs/COVID PDFs/(PDF) A Tale of Two Viruses - Poliomyelitis and COVID-19 - 2021.md",
-    "Non-PDF links/COVID non-PDF links/Evidence for Biological Age Acceleration and Telomere Shortening in COVID-19 Survivors - 2021.md",
-    "PDFs/COVID PDFs/(PDF) Saliva antibody-fingerprint of reactivated latent viruses after mild asymptomatic COVID-19 is unique in patients with ME - CFS - 2022.md",
-    "PDFs/COVID PDFs/(PDF) Diabetes after SARS-CoV-2 infection - 2022.md",
-    "PDFs/COVID PDFs/(PDF) Risks and burdens of incident diabetes in long COVID - a cohort study - 2022.md",
-    "PDFs/COVID PDFs/(PDF) SARS-CoV-2 infection and persistence in the human body and brain at autopsy - 2022.md",
-    "PDFs/COVID PDFs/(PDF) SARS-CoV-2 spike protein activates human endogenous retroviruses in blood cells - 2022.md",
-    "PDFs/COVID PDFs/(PDF) Association of COVID-19 Vaccination With Risk for Incident Diabetes After COVID-19 Infection - 2023.md",
-    "PDFs/COVID PDFs/(PDF) The effects of COVID-19 on cognitive performance in a community-based cohort - a COVID symptom study biobank prospective cohort study - 2023.md",
-    "PDFs/COVID PDFs/(PDF) Possible cancer-causing capacity of COVID-19 - Is SARS-CoV-2 an oncogenic agent - 2023.md",
-    "PDFs/COVID PDFs/(PDF) Experiences of Canadians with long-term symptoms following COVID-19 - 2023.md",
-    "PDFs/COVID PDFs/(PDF) Post-COVID exercise intolerance is associated with capillary alterations and immune dysregulations in skeletal muscles - 2023.md",
-    "PDFs/COVID PDFs/(PDF) Long COVID - major findings, mechanisms and recommendations - 2023.md",
-    "Non-PDF links/COVID non-PDF links/COVID and the Heart - It Spares No One - 2022.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Intestinal microbiota metabolism of L-carnitine, a nutrient in red meat, promotes atherosclerosis - 2013.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/Chronic Oral L-Carnitine Supplementation Drives Marked Plasma TMAO Elevations in Patients with Organic Acidemias - 2016 - Chapter_539.pdf",
+    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Chronic Oral L-Carnitine Supplementation Drives Marked Plasma TMAO Elevations in Patients with Organic Acidemias - 2016.md",
+    "Non-PDF links/Acetyl-L-Carnitine non-PDF links/Neurodegeneration from mitochondrial insufficiency - nutrients, stem cells, growth factors, and prospects for brain rebuilding using integrative management - 2005.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/Acetyl-L-carnitine for dementia - 2003 - CD003158.pdf",
+    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Acetyl-L-carnitine for dementia - 2003.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/Ameliorating Hypertension and Insulin Resistance in Subjects at Increased Cardiovascular Risk - 2009 - HYPERTENSIONAHA.109.132522.pdf",
+    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Ameliorating Hypertension and Insulin Resistance in Subjects at Increased Cardiovascular Risk - 2009.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/ACETYL-L-CARNITINE AMELIORATES MITOCHONDRIAL DYSFUNCTION FOLLOWING CONTUSION SPINAL CORD INJURY - 2010 - nihms198132.pdf",
+    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) ACETYL-L-CARNITINE AMELIORATES MITOCHONDRIAL DYSFUNCTION FOLLOWING CONTUSION SPINAL CORD INJURY - 2010.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/Carnitine for fatigue in multiple sclerosis - 2012 - CD007280.pdf",
+    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Carnitine for fatigue in multiple sclerosis - 2012.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/Acetyl-L-carnitine increases mitochondrial protein acetylation in the aged rat heart - 2015 - nihms666684.pdf",
+    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Acetyl-L-carnitine increases mitochondrial protein acetylation in the aged rat heart - 2015.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/An acetyl-L-carnitine switch on mitochondrial dysfunction and rescue in the metabolomics study on aluminum oxide nanoparticles - 2016 - 12989_2016_Article_115.pdf",
+    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) An acetyl-L-carnitine switch on mitochondrial dysfunction and rescue in the metabolomics study on aluminum oxide nanoparticles  - 2016.md",
+    "Non-PDF links/Acetyl-L-Carnitine non-PDF links/ALCAR promote adult hippocampal neurogenesis by regulating cell-survival and cell death-related signals in rat model of Parkinson's disease like-phenotypes - 2017.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/The carnitine system and cancer metabolic plasticity - 2018 - 41419_2018_Article_313.pdf",
+    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) The carnitine system and cancer metabolic plasticity - 2018.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/Acetyl-L -carnitine is an anti-angiogenic agent targeting the VEGFR2 and CXCR4 pathways - 2018 - 1-s2.0-S0304383518302799-main.pdf",
+    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Acetyl-L -carnitine is an anti-angiogenic agent targeting the VEGFR2 and CXCR4 pathways - 2018.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Acetyl-L-Carnitine downregulates invasion and angiogenesis pathways in prostate cancer cells - 2019.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) ALS Untangled - Carnitine supplements - 2020.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Preventive Role of L-Carnitine and Balanced Diet in Alzheimer’s Disease - 2020.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Acetyl-L-Carnitine in Dementia and Other Cognitive Disorders - A Critical Update - 2020.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Anti-Inflammatory and Antioxidant Effects of Acetyl-L-Carnitine on Atherosclerotic Rats - 2020.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Microbiome-derived carnitine mimics as previously unknown mediators of gut-brain axis communication - 2020.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Can l-carnitine reduce post-COVID-19 fatigue - 2021.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Carnitine and COVID-19 Susceptibility and Severity - A Mendelian Randomization Study - 2021.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) L-Carnitine and Acylcarnitines - Mitochondrial Biomarkers for Precision Medicine - 2021.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Clinical Evidence of Acetyl-L-Carnitine Efficacy in the Treatment of Acute Ischemic Stroke - A Pilot Clinical Trial - 2022.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Effects of L-carnitine supplementation in patients with mild-to-moderate COVID-19 disease - a pilot study - 2022.md",
+    "PDFs/Acetyl-L-Carnitine PDFs/The Role of L-Carnitine in Mitochondria, Prevention of Metabolic Inflexibility and Disease Initiation - 2022.md",
     "Untitled.canvas"
   ]
 }

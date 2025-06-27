@@ -8,6 +8,8 @@ Lf may prevent liver damage caused by various forms of hepatitis, age related he
 
 Because Lf can cross the blood brain barrier, this supplement can potentially treat bacterial and viral infections affecting the brain and spinal cord.
 
+Naturally occurring Lf likely retains effectiveness after being digested, though most currently available supplements for Lf as of 2025 are likely composed of appo-lactoferrin. Although appo-lactoferrin is likely more able to break down biofilms, it's likely more fully degraded in the upper small intestine, and low stomach pH during meals may make it more likely to be degraded as well.
+
 Goat and bovine [[Whey Protein]] can provide effective bioavailable sourcing of Lf, though only undenatured and cold-processed whey may retain enough Lf to have a beneficial effect.
 
 Goat and bovine Lf each have overlapping medicinal properties, though each has different strengths of prevention and treatment for different pathogens and conditions.
@@ -44,8 +46,14 @@ Full PDF: [[Therapeutic Effects of Lactoferrin in Ocular Diseases_ From Dry Eye 
 https://pubmed.ncbi.nlm.nih.gov/28914813/
 Full PDF: [[Lactoferrin - A Natural Glycoprotein Involved in Iron and Inflammatory Homeostasis - 2017 - Rosa_Lactoferrin_2017.pdf]]
 
+https://www.semanticscholar.org/paper/Lactoferrin-interacts-with-bile-acids-and-increases-Nakamura-Morishita/4e3b5d3dab2f60d7ffe8eb17f8f2cf4e5f7bf3f8
+Full PDF: [[Lactoferrin interacts with bile acids and increases fecal cholesterol excretion in rats - 2017 - bcb-2016-0052.pdf]]
+
 https://academic.oup.com/bbb/article-abstract/80/2/295/5955897
 Full PDF: [[Enteric lactoferrin attenuates the development of high-fat and high-cholesterol diet-induced hypercholesterolemia and atherosclerosis in Microminipigs - 2015.pdf]]
+
+https://pubmed.ncbi.nlm.nih.gov/21935933/
+Full PDF: [[Apo- and holo-lactoferrin are both internalized by lactoferrin receptor via clathrin-mediated endocytosis but differentially affect ERK-signaling and cell proliferation in Caco-2 cells - 2011 - nihms275082.pdf]]
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC2915836/
 Full PDF: [[Lactoferrin as a Natural Immune Modulator - 2010 - nihms222034.pdf]]
