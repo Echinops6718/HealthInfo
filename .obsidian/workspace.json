@@ -4,63 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3145977120fbf491",
+        "id": "fa009afd41abdfb4",
         "type": "tabs",
         "children": [
           {
-            "id": "9947e909e0ddf395",
+            "id": "e76e57e7ec5e2579",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acetyl-L-Carnitine.md",
+                "file": "Lactoferrin.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "cbc737e07cfe961f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COVID.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "436cc124baa287a8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5051c59a612f79a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grape Seed Extract.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea244a17ec5fd0be",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              },
+              "icon": "lucide-file",
+              "title": "Lactoferrin"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -95,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -103,14 +69,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 947.5
+    "width": 512.5
   },
   "right": {
     "id": "a874df288f8a6ab0",
@@ -126,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grape Seed Extract.md",
+                "file": "Lactoferrin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lactoferrin"
             }
           },
           {
@@ -143,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grape Seed Extract.md",
+                "file": "Lactoferrin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lactoferrin"
             }
           },
           {
@@ -156,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -166,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grape Seed Extract.md"
-              }
+                "file": "Lactoferrin.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lactoferrin"
             }
           }
         ],
@@ -188,44 +169,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5051c59a612f79a9",
+  "active": "e76e57e7ec5e2579",
   "lastOpenFiles": [
-    "Vitamin D.md",
-    "PDFs/(PDF) The Big Vitamin D Mistake - 2017.md",
-    "Autophagy.md",
-    "PDFs/Autophagy PDFs/(PDF) The Effects of Intermittent Fasting on Brain and Cognitive Function - 2021.md",
-    "PDFs/Autophagy PDFs/(PDF) The Effects of Intermittent Fasting on Brain and Cognitive Function - 2021 - nutrients-13-03166.pdf",
-    "COVID.md",
-    "PDFs/COVID PDFs/(PDF) Possible cancer-causing capacity of COVID-19 - Is SARS-CoV-2 an oncogenic agent - 2023.md",
-    "PDFs/COVID PDFs/(PDF) Possible cancer-causing capacity of COVID-19 - Is SARS-CoV-2 an oncogenic agent - 2023 - main.pdf",
-    "Grape Seed Extract.md",
-    "NIR Light Therapy.md",
-    "Sun Exposure.md",
-    "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) The natural tannins oligomeric proanthocyanidins and punicalagin are potent inhibitors of infection by SARS-CoV-2 - 2023.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) The natural tannins oligomeric proanthocyanidins and punicalagin are potent inhibitors of infection by SARS-CoV-2 - 2023 - elife-84899.pdf",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Antimicrobial efficacy of grape seed extract in terminating the ramifications of plaque microorganisms - 2022.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Antimicrobial efficacy of grape seed extract in terminating the ramifications of plaque microorganisms - 2022 - cm-95-185.pdf",
+    "PDFs/Lactoferrin PDFs/Enteric lactoferrin attenuates the development of high-fat and high-cholesterol diet-induced hypercholesterolemia and atherosclerosis in Microminipigs - 2015.pdf",
+    "Lactoferrin.md",
+    "PDFs/Lactoferrin PDFs/Lactoferrin - A Natural Glycoprotein Involved in Iron and Inflammatory Homeostasis - 2017 - Rosa_Lactoferrin_2017.pdf",
+    "PDFs/Lactoferrin PDFs/A Review on Lactoferrin and Central Nervous System Diseases - 2021 - cells-10-01810.pdf",
+    "PDFs/Lactoferrin PDFs/Lactoferrin as a Natural Immune Modulator - 2010 - nihms222034.pdf",
+    "PDFs/Lactoferrin PDFs/Antimicrobial properties of lactoferrin - 2009 - 379.-Jenssen-2009.pdf",
+    "PDFs/Lactoferrin PDFs/Lactoferrin and lactoferricin inhibit Herpes simplex 1 and 2 infection and exhibit synergy when combined with acyclovir - 2003 - ANDERSENJeanetteHammer.pdf",
+    "PDFs/Lactoferrin PDFs/An Overview on The Antiviral Activity of Lactoferrin - 2009 - 46-2_06.pdf",
+    "Non-PDF links/Niacin non-PDF links/The Promise of Niacin in Neurology - 2023.md",
     "Nicotinic Acid (niacin).md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed extract for reduction of renal disturbances following reperfusion in rats - 2013.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed extract for reduction of renal disturbances following reperfusion in rats - 2013 - 822-4485-1-PB.pdf",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Protective Effects of Grape Seed Proanthocyanidins on the Kidneys of Diabetic Rats through the Nrf2 Signalling Pathway - 2020.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Protective Effects of Grape Seed Proanthocyanidins on the Kidneys of Diabetic Rats through the Nrf2 Signalling Pathway - 2020 - ECAM.pdf",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Effects of Polyphenols from Grape Seeds on Renal Lithiasis - 2015.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Effects of Polyphenols from Grape Seeds on Renal Lithiasis - 2015 - OMCL2015-813737.pdf",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Evaluation of Anti-Candida Activity of Vitis vinifera L. Seed Extracts Obtained from Wine and Table Cultivars - 2014.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Evaluation of Anti-Candida Activity of Vitis vinifera L. Seed Extracts Obtained from Wine and Table Cultivars - 2014 - BMRI2014-127021.pdf",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed powder improves renal failure of chronic kidney disease patients - 2016.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed powder improves renal failure of chronic kidney disease patients - 2016 - EXCLI-15-424.pdf",
-    "PDFs/Grape Seed Extract PDFs/(PDF) GSPE Ameliorates Cardiac Remodelling After Myocardial Infarction Through PI3K AKT Pathway in Mice - 2020.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed proanthocyanidin extract protects human lens epithelial cells from oxidative stress via reducing NF-кB and MAPK protein expression - 2011.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) GSPE Ameliorates Cardiac Remodelling After Myocardial Infarction Through PI3K AKT Pathway in Mice - 2020 - fphar-11-585984.pdf",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Grape Seed Proanthocyanidin Extract Inhibits Human Esophageal Squamous Cancerous Cell Line ECA109 via the NF- κ B Signaling Pathway - 2018.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed extract alleviates radiation-induced damages in human blood lymphocytes - 2020.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) The benefits of grape seed extract in neurological disorders and brain aging - 2023.md",
-    "Nicotinamide (non-flushing).md",
-    "Microbiome.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Proanthocyanidin-Rich Grape Seed Extract Reduces Inflammation and Oxidative Stress and Restores Tight Junction Barrier Function in Caco-2 Colon Cells - 2020.md",
+    "COVID.md",
+    "Acetyl-L-Carnitine.md",
+    "Whey Protein.md",
+    "PDFs/Lactoferrin PDFs/Therapeutic Effects of Lactoferrin in Ocular Diseases_ From Dry Eye Disease to Infections - 2020 - ijms-21-06668.pdf",
+    "PDFs/Lactoferrin PDFs/Therapeutic Effects of Lactoferrin in Ocular Diseases_ From Dry Eye Disease to Infections - ijms-21-06668.pdf",
+    "Taurine.md",
+    "Sun Exposure.md",
+    "Folic Acid.md",
+    "PDFs/COVID PDFs/Persistence of spike protein at the skull-meninges-brain axis may contribute to the neurological sequelae of COVID-19 - 2024 - PIIS1931312824004384.pdf",
+    "PDFs/COVID PDFs/(PDF) SARS-CoV-2 Omicron variant is more stable than the ancestral strain on various surfaces - 2022.md",
+    "PDFs/COVID PDFs/(PDF) Differences in environmental stability among SARS-CoV-2 variants of concern - Omicron has higher stability - 2022.md",
+    "PDFs/COVID PDFs/(PDF) A Tale of Two Viruses - Poliomyelitis and COVID-19 - 2021.md",
+    "Non-PDF links/COVID non-PDF links/Evidence for Biological Age Acceleration and Telomere Shortening in COVID-19 Survivors - 2021.md",
+    "PDFs/COVID PDFs/(PDF) Saliva antibody-fingerprint of reactivated latent viruses after mild asymptomatic COVID-19 is unique in patients with ME - CFS - 2022.md",
+    "PDFs/COVID PDFs/(PDF) Diabetes after SARS-CoV-2 infection - 2022.md",
+    "PDFs/COVID PDFs/(PDF) Risks and burdens of incident diabetes in long COVID - a cohort study - 2022.md",
+    "PDFs/COVID PDFs/(PDF) SARS-CoV-2 infection and persistence in the human body and brain at autopsy - 2022.md",
+    "PDFs/COVID PDFs/(PDF) SARS-CoV-2 spike protein activates human endogenous retroviruses in blood cells - 2022.md",
+    "PDFs/COVID PDFs/(PDF) Association of COVID-19 Vaccination With Risk for Incident Diabetes After COVID-19 Infection - 2023.md",
+    "PDFs/COVID PDFs/(PDF) The effects of COVID-19 on cognitive performance in a community-based cohort - a COVID symptom study biobank prospective cohort study - 2023.md",
+    "PDFs/COVID PDFs/(PDF) Possible cancer-causing capacity of COVID-19 - Is SARS-CoV-2 an oncogenic agent - 2023.md",
+    "PDFs/COVID PDFs/(PDF) Experiences of Canadians with long-term symptoms following COVID-19 - 2023.md",
+    "PDFs/COVID PDFs/(PDF) Post-COVID exercise intolerance is associated with capillary alterations and immune dysregulations in skeletal muscles - 2023.md",
+    "PDFs/COVID PDFs/(PDF) Long COVID - major findings, mechanisms and recommendations - 2023.md",
+    "Non-PDF links/COVID non-PDF links/COVID and the Heart - It Spares No One - 2022.md",
     "Untitled.canvas"
   ]
 }
