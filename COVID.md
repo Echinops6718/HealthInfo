@@ -62,12 +62,12 @@ Full PDF: [[A Tale of Two Viruses - Poliomyelitis and COVID-19 - 2021 - 2010C360
 
 #### Fomites (surface contagion):
 
-1. https://www.cnn.com/2022/03/18/health/omicron-surfaces-studies/index.html
-2. https://www.biorxiv.org/content/10.1101/2022.01.18.476607v2.full
+https://www.cnn.com/2022/03/18/health/omicron-surfaces-studies/index.html
+
+https://www.biorxiv.org/content/10.1101/2022.01.18.476607v2.full
 Full PDF: [[Differences in environmental stability among SARS-CoV-2 variants of concern - Omicron has higher stability - 2022 - 01.18.476607v2.full.pdf]]
 
-3. https://www.cnn.com/2022/03/18/health/omicron-surfaces-studies/index.html
-4. https://www.biorxiv.org/content/10.1101/2022.03.09.483703v1
+https://www.biorxiv.org/content/10.1101/2022.03.09.483703v1
 Full PDF: [[SARS-CoV-2 Omicron variant is more stable than the ancestral strain on various surfaces - 2022 - 03.09.483703v1.full.pdf]]
 
 #### Incubation/Contagion:

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Autophagy.md",
+                "file": "COVID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Autophagy"
+              "title": "COVID"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autophagy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Autophagy"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autophagy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Autophagy"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autophagy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Autophagy"
+              "title": "Outline"
             }
           }
         ],
@@ -171,8 +168,9 @@
   },
   "active": "e76e57e7ec5e2579",
   "lastOpenFiles": [
-    "Non-PDF links/Caloric restriction and the precision-control of autophagy - A strategy for delaying neurodegenerative disease progression - 2016.md",
+    "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md",
     "Autophagy.md",
+    "Non-PDF links/Caloric restriction and the precision-control of autophagy - A strategy for delaying neurodegenerative disease progression - 2016.md",
     "PDFs/Autophagy PDFs/The Roles of Autophagy in Cancer - 2018 - ijms-19-03466.pdf",
     "PDFs/Autophagy PDFs/(PDF) The Roles of Autophagy in Cancer - 2018.md",
     "PDFs/Autophagy PDFs/Autophagy and intermittent fasting - the connection for cancer therapy - 2018 - cln-73-814s.pdf",
@@ -206,7 +204,6 @@
     "PDFs/Acetyl-L-Carnitine PDFs/(PDF) Acetyl-L-carnitine increases mitochondrial protein acetylation in the aged rat heart - 2015.md",
     "PDFs/Acetyl-L-Carnitine PDFs/(PDF) An acetyl-L-carnitine switch on mitochondrial dysfunction and rescue in the metabolomics study on aluminum oxide nanoparticles  - 2016.md",
     "Non-PDF links/Acetyl-L-Carnitine non-PDF links/ALCAR promote adult hippocampal neurogenesis by regulating cell-survival and cell death-related signals in rat model of Parkinson's disease like-phenotypes - 2017.md",
-    "PDFs/Acetyl-L-Carnitine PDFs/(PDF) The carnitine system and cancer metabolic plasticity - 2018.md",
     "Untitled.canvas"
   ]
 }
