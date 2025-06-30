@@ -1,6 +1,6 @@
 Lactoferrin (Lf) has anti-bacterial, anti-viral, anti-pathogenic, anti-cancer, anti-inflammatory, immunomodulatory, neuroprotective, and DNA-regulatory activities. 
 
-By binding and clearing free iron from the blood, Lf helps prevent [[COVID]] related cardiovascular injury, and prevents viral reproduction.
+By binding and clearing free iron from the blood, Lf helps prevent [[COVID]] related cardiovascular injury, and prevents viral reproduction. Lf also likely moves free iron into the cells, improving physiologic bioavailability as well.
 
 Lf exhibits antiviral activity against various RNA and DNA viruses through complex mechanisms, including prevention of viral entry by competing with viruses for binding to cell surface receptors. The antiviral efficacy of Lf varies among viruses, with notable effects on HSV, HBV, and HIV.
 
@@ -8,7 +8,9 @@ Lf may prevent liver damage caused by various forms of hepatitis, age related he
 
 Because Lf can cross the blood brain barrier, this supplement can potentially treat bacterial and viral infections affecting the brain and spinal cord.
 
-Naturally occurring Lf likely retains effectiveness after being digested, though most currently available supplements for Lf as of 2025 are likely composed of appo-lactoferrin. Although appo-lactoferrin is likely more able to break down biofilms, it's likely more fully degraded in the upper small intestine, and low stomach pH during meals may make it more likely to be degraded as well.
+Naturally occurring Lf likely retains effectiveness after being digested, though most currently available supplements for Lf as of 2025 are likely composed of appo-lactoferrin. Although appo-lactoferrin is likely more able to break down biofilms, it's likely less bioavailable due to being more fully degraded in the upper small intestine, and low stomach pH during meals may make it more likely to be degraded as well.
+
+Lf has a short half-life of effect in the body, so may need to be dosed every few hours during an active bacterial or viral infection to provide full benefit.
 
 Goat and bovine [[Whey Protein]] can provide effective bioavailable sourcing of Lf, though only undenatured and cold-processed whey may retain enough Lf to have a beneficial effect.
 
