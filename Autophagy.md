@@ -1,5 +1,5 @@
 
-Likely most effectively upregulated through implementation of multi-day water fasting, though intermittent fasting and certain supplements may provide overlapping benefits as well.
+Likely most effectively upregulated through implementation of multi-day water fasting, though intermittent fasting and certain supplements, like [[Spermidine]], may provide overlapping benefits as well. 
 
 Not only does fasting based autophagy appear to reduce cancer risk, it also reduces injury risk from chemotherapy based cancer treatments.
 
@@ -15,6 +15,9 @@ Spermidine, an autophagy inducer, as a therapeutic strategy in neurological diso
 1. https://pubmed.ncbi.nlm.nih.gov/32873420/
 2. https://www.sciencedirect.com/science/article/abs/pii/S0143417920301013?via%3Dihub
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6287690/
+Full PDF: [[Spermidine: a physiological autophagy inducer acting as an anti-aging vitamin in - 2019 - kaup-15-01-1530929.pdf]]
+
 https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.118.312208
 Full PDF: [[Autophagy in Cardiovascular Aging - 2018 - CIRCRESAHA.118.312208.pdf]]
 
@@ -28,4 +31,4 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6274804/
 Full PDF: [[The Roles of Autophagy in Cancer - 2018 - ijms-19-03466.pdf]]
 
 Caloric restriction and the precision-control of autophagy - A strategy for delaying neurodegenerative disease progression - 2016 - External link:
-https://www.sciencedirect.com/science/article/abs/pii/S0531556516302170?via%3Dihub
+https://www.sciencedirect.com/science/article/abs/pii/S0531556516302170
