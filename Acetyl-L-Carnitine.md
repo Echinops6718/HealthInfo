@@ -57,7 +57,7 @@ Full PDF: [[ALS Untangled - Carnitine supplements - 2020 - 53.pdf]]
 
 1. https://jeccr.biomedcentral.com/articles/10.1186/s13046-019-1461-z
 2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6852951/
-Full PDF: [[Acetyl-L-Carnitine downregulates invasion and angiogenesis pathways in prostate cancer cells - 2019 - s13046-019-1461-z.pdf]]
+Full PDF: [[Acetyl-L-Carnitine downregulates invasion and angiogenesis pathways in prostate cancer cells - rationale for prevention and interception strategies - 2019 - s13046-019-1461-z.pdf]]
 
 https://www.sciencedirect.com/science/article/pii/S0304383518302799
 Full PDF: [[Acetyl-L -carnitine is an anti-angiogenic agent targeting the VEGFR2 and CXCR4 pathways - 2018 - 1-s2.0-S0304383518302799-main.pdf]]
@@ -84,7 +84,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2897952/
 Full PDF: [[ACETYL-L-CARNITINE AMELIORATES MITOCHONDRIAL DYSFUNCTION FOLLOWING CONTUSION SPINAL CORD INJURY - 2010 - nihms198132.pdf]]
 
 https://pubmed.ncbi.nlm.nih.gov/19620516/
-Full PDF: [[Ameliorating Hypertension and Insulin Resistance in Subjects at Increased Cardiovascular Risk - 2009 - HYPERTENSIONAHA.109.132522.pdf]]
+Full PDF: [[Ameliorating Hypertension and Insulin Resistance in Subjects at Increased Cardiovascular Risk - effects of acetyl-L-carnitine therapy - 2009 - HYPERTENSIONAHA.109.132522.pdf]]
 
 Neurodegeneration from mitochondrial insufficiency - nutrients, stem cells, growth factors, and prospects for brain rebuilding using integrative management - 2005 - External link:
 https://pubmed.ncbi.nlm.nih.gov/16366737/
@@ -96,7 +96,7 @@ Full PDF: [[Acetyl-L-carnitine for dementia - 2003 - CD003158.pdf]]
 ## Risks
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5110437/
-Full PDF: [[Chronic Oral L-Carnitine Supplementation Drives Marked Plasma TMAO Elevations in Patients with Organic Acidemias - 2016 - Chapter_539.pdf]]
+Full PDF: [[Chronic Oral L-Carnitine Supplementation Drives Marked Plasma TMAO Elevations in Patients with Organic Acidemias Despite Dietary Meat Restrictions - 2016 - Chapter_539.pdf]]
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3650111/
 Full PDF: [[Intestinal microbiota metabolism of L-carnitine, a nutrient in red meat, promotes atherosclerosis - 2013 - nihms-450760.pdf]]
