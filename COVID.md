@@ -46,7 +46,7 @@ https://www.thelancet.com/journals/landia/article/PIIS2213-8587(22)00044-4/fullt
 Full PDF: [[Risks and burdens of incident diabetes in long COVID - a cohort study - 2022 - PIIS2213858722000444.pdf]]
 
 https://www.thelancet.com/journals/landia/article/PIIS2213-8587(22)00324-2/fulltext
-[[Diabetes after SARS-CoV-2 infection - 2022 - PIIS2213858722003242.pdf]]
+Full PDF: [[Diabetes after SARS-CoV-2 infection - 2022 - PIIS2213858722003242.pdf]]
 
 Johns Hopkins Bloomberg School of Public Health: COVID and the Heart - It Spares No One - 2022 - external link: 
 https://publichealth.jhu.edu/2022/covid-and-the-heart-it-spares-no-one
@@ -55,7 +55,7 @@ https://www.frontiersin.org/articles/10.3389/fimmu.2022.949787/full
 Full PDF: [[Saliva antibody-fingerprint of reactivated latent viruses after mild asymptomatic COVID-19 is unique in patients with ME - CFS - 2022 - fimmu-13-949787.pdf]]
 
 https://www.mdpi.com/1422-0067/22/11/6151/htm
-Full PDF: [[Evidence for Biological Age Acceleration and Telomere - 2021 - ijms-22-06151.pdf]]
+Full PDF: [[Evidence for Biological Age Acceleration and Telomere Shortening in COVID-19 Survivors - 2021 - ijms-22-06151.pdf]]
 
 https://www.consultant360.com/article/pediatrics/tale-two-viruses-poliomyelitis-and-covid-19
 Full PDF: [[A Tale of Two Viruses - Poliomyelitis and COVID-19 - 2021 - 2010C360_GC_COVID-Polio.v2.pdf]]
