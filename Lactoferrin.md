@@ -27,8 +27,8 @@ Full PDF: [[Effect of iron saturation of bovine lactoferrin on the inhibition of
 https://pmc.ncbi.nlm.nih.gov/articles/PMC10809180/pdf/fnagi-16-1309115.pdf
 Full PDF: [[Identification and experimental validation of ferroptosis-related gene lactotransferrin in age-related hearing loss - 2024.pdf]]
 
-External link for more context on lactoferrin and effective bioavailable sourcing - 2024:
 https://chrismasterjohnphd.substack.com/p/is-lactoferrin-chelating-your-iron
+Full PDF: [[Is Lactoferrin Chelating Your Iron - 2024.pdf]]
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC9104648/pdf/molecules-27-02941.pdf
 Full PDF: [[The Lactoferrin Phenomenon - A Miracle Molecule - 2022.pdf]]
