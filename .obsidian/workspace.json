@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microbiome.md",
+                "file": "Nutrition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microbiome"
+              "title": "Nutrition"
             }
           }
         ]
@@ -168,9 +168,15 @@
   },
   "active": "7a52dd42a7da8e1c",
   "lastOpenFiles": [
+    "Lactoferrin.md",
+    "PDFs/Nutrition/Chris Masterjohn - The Ultimate Vitamin K2 Resource - 2024.pdf",
+    "Nutrition.md",
+    "PDFs/Nutrition/Chris Masterjohn - Your Cells Are Starving for Creatine - 2024.pdf",
+    "PDFs/Nutrition/Chris Masterjohn - The Ultimate Vitamin K2 Resource.pdf",
+    "Glutamine.md",
+    "Microbiome.md",
     "PDFs/Microbiome PDFs/(PDF) The person-to-person transmission landscape of the gut and oral microbiomes - 2023 - s41586-022-05620-1.pdf",
     "PDFs/Microbiome PDFs/(PDF) The person-to-person transmission landscape of the gut and oral microbiomes - 2023.md",
-    "Microbiome.md",
     "PDFs/Microbiome PDFs/Host-diet-gut microbiome interactions influence human energy balance - a randomized clinical trial - 2023 - s41467-023-38778-x.pdf",
     "PDFs/Microbiome PDFs/(PDF) Host-diet-gut microbiome interactions influence human energy balance - a randomized clinical trial - 2023.md",
     "PDFs/Microbiome PDFs/Microbiome in cancer - An exploration of carcinogenesis, immune responses and immunotherapy- 2022 - fimmu-13-877939.pdf",
@@ -183,11 +189,8 @@
     "PDFs/Microbiome PDFs/(PDF) Alterations of host-gut microbiome interactions in multiple sclerosis - 2022.md",
     "PDFs/Microbiome PDFs/Gut microbiome of multiple sclerosis patients and paired household healthy controls reveal associations with disease risk and course - 2022 - PIIS0092867422011151.pdf",
     "PDFs/Microbiome PDFs/(PDF) Gut microbiome of multiple sclerosis patients and paired household healthy controls reveal associations with disease risk and course - 2022.md",
-    "PDFs/Microbiome PDFs/New Insights Into the Cancer–Microbiome–Immune Axis - Decrypting a Decade of Discoveries - 2021 - fimmu-12-622064.pdf",
     "PDFs/Microbiome PDFs/(PDF) New Insights Into the Cancer–Microbiome–Immune Axis - Decrypting a Decade of Discoveries - 2021.md",
-    "PDFs/Microbiome PDFs/Microbiome and cancer - 2021 - 1-s2.0-S1535610821004463-main.pdf",
     "PDFs/Microbiome PDFs/(PDF) Microbiome and cancer - 2021.md",
-    "PDFs/Microbiome PDFs/Gut Microbiome in Progressive Multiple Sclerosis - 2021 - nihms-1696060.pdf",
     "PDFs/Microbiome PDFs/(PDF) Gut Microbiome in Progressive Multiple Sclerosis - 2021.md",
     "PDFs/Microbiome PDFs/(PDF) Microbiome dysbiosis in lung cancer - from composition to therapy - 2020.md",
     "PDFs/Microbiome PDFs/The Cancer Microbiome - Distinguishing Direct and Indirect Effects Requires a Systemic View - 2020.md",
@@ -199,10 +202,7 @@
     "PDFs/Microbiome PDFs/(PDF) Transmission of human-associated microbiota along family and social networks - 2019.md",
     "PDFs/Microbiome PDFs/(PDF) An Apple a Day - Which Bacteria Do We Eat With Organic and Conventional Apples - 2019.md",
     "PDFs/Niacin PDFs/(PDF) Activation of Gpr109a, Receptor for Niacin and the Commensal Metabolite Butyrate, Suppresses Colonic Inflammation and Carcinogenesis - 2014.md",
-    "Lactoferrin.md",
     "PDFs/Microbiome PDFs/Stephen Skolnick - The Thousand Secret Ways the Food is Poison_.md",
-    "Folic Acid.md",
-    "Glutamine.md",
     "Untitled.canvas"
   ]
 }
