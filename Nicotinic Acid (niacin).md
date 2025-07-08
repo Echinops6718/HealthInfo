@@ -49,6 +49,9 @@ Likely synergistic in effect when combined with [[Glutamine]] and [[Folic Acid]]
 
 [[(PDF) Assessment of the Role of Niacin in Managing Cardiovascular Disease Outcomes - A Systematic Review and Meta-analysis - 2019]]
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6770365/
+Full PDF: [[Niacin Ameliorates Neuro-Inflammation in Parkinson’s Disease via GPR109A - 2019 - ijms-20-04559.pdf]]
+
 [[Niacin prevents mitochondrial oxidative stress caused by sub-chronic exposure to methylmercury - 2018]]
 
 [[(PDF) Nicotinic acid inhibits glioma invasion by facilitating Snail1 degradation - 2017]]
