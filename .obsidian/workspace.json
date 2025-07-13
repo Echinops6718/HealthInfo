@@ -6,16 +6,67 @@
       {
         "id": "53291e8c9f32fff6",
         "type": "tabs",
+        "dimension": 69.58483754512635,
         "children": [
           {
             "id": "7a52dd42a7da8e1c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Nicotinic Acid (niacin).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nicotinic Acid (niacin)"
+            },
+            "group": "01d3b7aebfd0f80b"
+          }
+        ]
+      },
+      {
+        "id": "95409ebad3fd23fd",
+        "type": "tabs",
+        "dimension": 30.415162454873645,
+        "children": [
+          {
+            "id": "65c70c2bc392a932",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Nicotinic Acid (niacin).md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6666666666666666,
+                  "close": false
+                }
+              },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
+              "title": "Graph of Nicotinic Acid (niacin)"
+            },
+            "group": "01d3b7aebfd0f80b"
           }
         ]
       }
@@ -164,42 +215,41 @@
   },
   "active": "7a52dd42a7da8e1c",
   "lastOpenFiles": [
+    "PDFs/Niacin PDFs/Niacin therapy and the risk of new-onset diabetes - a meta-analysis of randomised controlled trials - 2016 - heartjnl-2015-308055.pdf",
+    "PDFs/Niacin PDFs/(PDF) Niacin therapy and the risk of new-onset diabetes - a meta-analysis of randomised controlled trials - 2016.md",
     "Nicotinic Acid (niacin).md",
-    "PDFs/Niacin PDFs/Niacin Ameliorates Neuro-Inflammation in Parkinson’s Disease via GPR109A - 2019 - ijms-20-04559.pdf",
-    "L-Lysine.md",
-    "PDFs/L-Lysine PDFs/L-lysine dietary supplementation for childhood and adolescent growth_ Promises and precautions - 2024 - .pdf",
-    "COVID.md",
-    "PDFs/L-Lysine PDFs/Lysine for Herpes Simplex Prophylaxis_ A Review of the Evidence - 2017 - imcj-16-42.pdf",
-    "PDFs/L-Lysine PDFs/Lysine Therapy for SARS-CoV-2 - 2020.pdf",
-    "PDFs/L-Lysine PDFs/Effects of Basic Amino Acids and Their Derivatives on SARS-CoV-2 and Influenza-A Virus Infection - 2021 - viruses-13-01301.pdf",
-    "PDFs/L-Lysine PDFs",
-    "Nutrition.md",
-    "Palmitoylethanolamide.md",
-    "Lactoferrin.md",
-    "PDFs/Nutrition PDFs/Chris Masterjohn - The Ultimate Vitamin K2 Resource - 2024.pdf",
-    "PDFs/Nutrition PDFs/Chris Masterjohn - Your Cells Are Starving for Creatine - 2024.pdf",
-    "PDFs/Nutrition/Chris Masterjohn - The Ultimate Vitamin K2 Resource.pdf",
-    "Glutamine.md",
-    "Microbiome.md",
-    "PDFs/Microbiome PDFs/(PDF) The person-to-person transmission landscape of the gut and oral microbiomes - 2023 - s41586-022-05620-1.pdf",
-    "PDFs/Microbiome PDFs/(PDF) The person-to-person transmission landscape of the gut and oral microbiomes - 2023.md",
-    "PDFs/Microbiome PDFs/(PDF) Host-diet-gut microbiome interactions influence human energy balance - a randomized clinical trial - 2023.md",
-    "PDFs/Microbiome PDFs/(PDF) Microbiome in cancer - An exploration of carcinogenesis, immune responses and immunotherapy- 2022.md",
-    "PDFs/Microbiome PDFs/(PDF) The bacteria inside human cancer cells - Mainly as cancer promoters - 2022.md",
-    "PDFs/Microbiome PDFs/(PDF) The microbiome and human cancer - 2022.md",
-    "PDFs/Microbiome PDFs/(PDF) Alterations of host-gut microbiome interactions in multiple sclerosis - 2022.md",
-    "PDFs/Microbiome PDFs/(PDF) Gut microbiome of multiple sclerosis patients and paired household healthy controls reveal associations with disease risk and course - 2022.md",
-    "PDFs/Microbiome PDFs/(PDF) New Insights Into the Cancer–Microbiome–Immune Axis - Decrypting a Decade of Discoveries - 2021.md",
-    "PDFs/Microbiome PDFs/(PDF) Microbiome and cancer - 2021.md",
-    "PDFs/Microbiome PDFs/(PDF) Gut Microbiome in Progressive Multiple Sclerosis - 2021.md",
-    "PDFs/Microbiome PDFs/(PDF) Microbiome dysbiosis in lung cancer - from composition to therapy - 2020.md",
-    "PDFs/Microbiome PDFs/The Cancer Microbiome - Distinguishing Direct and Indirect Effects Requires a Systemic View - 2020.md",
-    "PDFs/Microbiome PDFs/(PDF) Microbiome harbored within tumors - a new chance to revisit our understanding of cancer pathogenesis and treatment - 2020.md",
-    "PDFs/Microbiome PDFs/(PDF) Gut microbiome stability and resilience - elucidating the response to perturbations in order to modulate gut health - 2020.md",
-    "PDFs/Microbiome PDFs/(PDF) Current Evidence on the Ocular Surface Microbiota and Related Diseases - 2020.md",
-    "PDFs/Microbiome PDFs/(PDF) Ocular Surface Microbiome in Health and Disease - 2020.md",
-    "PDFs/Microbiome PDFs/(PDF) International Cancer Microbiome Consortium consensus statement on the role of the human microbiome in carcinogenesis - 2019.md",
-    "PDFs/Microbiome PDFs/(PDF) Transmission of human-associated microbiota along family and social networks - 2019.md",
+    "PDFs/Niacin PDFs/Niacin - LiverTox - Clinical and Research Information on Drug-Induced Liver Injury - 2020 - NBK548176.pdf",
+    "PDFs/Niacin PDFs/(PDF) Niacin - LiverTox - Clinical and Research Information on Drug-Induced Liver Injury - 2020.md",
+    "PDFs/Niacin PDFs/The Effects of Niacin on DNA Repair after N-Methyl-N′-nitro-N-nitrosoguanidine Treatment in Normal Human Lymphocytes - 1997 - bbb2116.pdf",
+    "PDFs/Niacin PDFs/(PDF) The Effects of Niacin on DNA Repair after N-Methyl-N′-nitro-N-nitrosoguanidine Treatment in Normal Human Lymphocytes - 1997.md",
+    "PDFs/Niacin PDFs/Niacin protects the isolated heart from ischemia-reperfusion injury - 2000 - trueblood-et-al.pdf",
+    "PDFs/Niacin PDFs/(PDF) Niacin protects the isolated heart from ischemia-reperfusion injury - 2000.md",
+    "PDFs/Niacin PDFs/Dietary niacin and the risk of incident Alzheimer’s disease and of cognitive decline - 2004 - 1093.pdf",
+    "PDFs/Niacin PDFs/(PDF) Dietary niacin and the risk of incident Alzheimer’s disease and of cognitive decline - 2004.md",
+    "PDFs/Niacin PDFs/Nicotinic Acid-Mediated Activation of Both Membrane and Nuclear Receptors towards Therapeutic Glucocorticoid Mimetics for Treating Multiple Sclerosis - 2009 - 853707.pdf",
+    "PDFs/Niacin PDFs/(PDF) Nicotinic Acid-Mediated Activation of Both Membrane and Nuclear Receptors towards Therapeutic Glucocorticoid Mimetics for Treating Multiple Sclerosis - 2009.md",
+    "PDFs/Niacin PDFs/High dietary niacin intake is associated with decreased chromosome translocation frequency in airline pilots - 2011.pdf",
+    "PDFs/Niacin PDFs/(PDF) High dietary niacin intake is associated with decreased chromosome translocation frequency in airline pilots - 2011.md",
+    "PDFs/Niacin PDFs/Protective effect of nicotinic acid on human albumin during UV-C irradiation - 2011 - s11814-011-0083-8.pdf",
+    "PDFs/Niacin PDFs/(PDF) Protective effect of nicotinic acid on human albumin during UV-C irradiation - 2011.md",
+    "PDFs/Niacin PDFs/Dietary nicotinic acid supplementation improves hepatic zinc uptake and offers hepatoprotection against oxidative damage - 2011 - bjn.pdf",
+    "PDFs/Niacin PDFs/(PDF) Dietary nicotinic acid supplementation improves hepatic zinc uptake and offers hepatoprotection against oxidative damage - 2011.md",
+    "PDFs/Niacin PDFs/Niacin and Oxidative Stress - A Mini-Review 2016 - jnmdc-2-014.pdf",
+    "PDFs/Niacin PDFs/(PDF) Effect of niacin on endothelial function - A systematic review and meta-analysis of randomized controlled trials - 2014.md",
+    "PDFs/Niacin PDFs/(PDF) Activation of Gpr109a, Receptor for Niacin and the Commensal Metabolite Butyrate, Suppresses Colonic Inflammation and Carcinogenesis - 2014.md",
+    "PDFs/Niacin PDFs/(PDF) Niacin and Oxidative Stress - A Mini-Review 2016.md",
+    "PDFs/Niacin PDFs/(PDF) Nicotinic acid inhibits glioma invasion by facilitating Snail1 degradation - 2017.md",
+    "Non-PDF links/Niacin non-PDF links/Niacin prevents mitochondrial oxidative stress caused by sub-chronic exposure to methylmercury - 2018.md",
+    "PDFs/Niacin PDFs/(PDF) Assessment of the Role of Niacin in Managing Cardiovascular Disease Outcomes - A Systematic Review and Meta-analysis - 2019.md",
+    "PDFs/Niacin PDFs/(PDF) Niacin-mediated rejuvenation of macrophage microglia enhances remyelination of the aging central nervous system - 2020.md",
+    "PDFs/(PDF) Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020.md",
+    "PDFs/Niacin PDFs/(PDF) Niacin Attenuates Pulmonary Hypertension Through H-PGDS in Macrophages - 2020.md",
+    "PDFs/Niacin PDFs/(PDF) A derivative of vitamin B3 applied several days after exposure reduces lethality of severely irradiated mice - 2021.md",
+    "Non-PDF links/Niacin non-PDF links/Chronic niacin administration ameliorates ovulation, histological changes in the ovary and adiponectin concentrations in a rat model of polycystic ovary syndrome - 2021.md",
+    "PDFs/Niacin PDFs/(PDF) Association between Daily Niacin Intake and Glaucoma - National Health and Nutrition Examination Survey - 2021.md",
+    "Non-PDF links/Niacin non-PDF links/The niacin receptor HCAR2 modulates microglial response and limits disease progression in a mouse model of Alzheimer’s disease - 2022.md",
+    "PDFs/Niacin PDFs/(PDF) Association between niacin and mortality among patients with cancer in the NHANES retrospective cohort - 2022.md",
+    "Non-PDF links/Potential of curcumin and niacin-loaded targeted chitosan coated liposomes to activate autophagy in hepatocellular carcinoma cells - An in vitro evaluation in HePG2 cell line - 2023.md",
     "Untitled.canvas"
   ]
 }
