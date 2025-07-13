@@ -6,7 +6,7 @@
       {
         "id": "53291e8c9f32fff6",
         "type": "tabs",
-        "dimension": 69.58483754512635,
+        "dimension": 71.98879551820728,
         "children": [
           {
             "id": "7a52dd42a7da8e1c",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nicotinic Acid (niacin).md",
+                "file": "Nicotinamide (non-flushing).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nicotinic Acid (niacin)"
+              "title": "Nicotinamide (non-flushing)"
             },
             "group": "01d3b7aebfd0f80b"
           }
@@ -28,7 +28,7 @@
       {
         "id": "95409ebad3fd23fd",
         "type": "tabs",
-        "dimension": 30.415162454873645,
+        "dimension": 28.011204481792724,
         "children": [
           {
             "id": "65c70c2bc392a932",
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nicotinic Acid (niacin).md",
+                "file": "Nicotinamide (non-flushing).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -59,12 +59,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6666666666666666,
-                  "close": false
+                  "scale": 1,
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Nicotinic Acid (niacin)"
+              "title": "Graph of Nicotinamide (non-flushing)"
             },
             "group": "01d3b7aebfd0f80b"
           }
@@ -141,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Nicotinamide (non-flushing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Nicotinamide (non-flushing)"
             }
           },
           {
@@ -195,13 +196,11 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,26 +214,31 @@
   },
   "active": "7a52dd42a7da8e1c",
   "lastOpenFiles": [
+    "Nicotinic Acid (niacin).md",
+    "PDFs/Nicotinamide PDFs/(PDF Link) Safety of high-dose nicotinamide - 2000.md",
+    "Nicotinamide (non-flushing).md",
+    "PDFs/Nicotinamide PDFs/The histone deacetylase inhibitor nicotinamide exacerbates neurodegeneration in the lactacystin rat model of Parkinson's disease - 2018 - Journal of Neurochemistry - Harrison.pdf",
+    "PDFs/Nicotinamide PDFs/(PDF) The histone deacetylase inhibitor nicotinamide exacerbates neurodegeneration in the lactacystin rat model of Parkinson's disease - 2018.md",
+    "PDFs/Nicotinamide PDFs/Possible Adverse Effects of High-Dose Nicotinamide Mechanisms and Safety Assessment - 2020 - biomolecules-10-00687.pdf",
+    "PDFs/Nicotinamide PDFs/(PDF) Possible Adverse Effects of High-Dose Nicotinamide Mechanisms and Safety Assessment - 2020.md",
+    "PDFs/Nicotinamide PDFs/Nicotinamide pathways as the root cause of sepsis – an evolutionary perspective on macrophage energetic shifts - 2021 - The FEBS Journal - Suchard.pdf",
+    "PDFs/Nicotinamide PDFs/(PDF) Nicotinamide pathways as the root cause of sepsis - 2021.md",
+    "PDFs/Nicotinamide PDFs/Safety of high-dose nicotinamide - 2000 - 1251337 1..9999 - Knip2000.pdf",
+    "PDFs/Niacin PDFs/Supplementation of nicotinic acid and its derivatives up-regulates cellular NAD+ level rather than nicotinamide derivatives in cultured normal human epidermal keratinocytes - 2023 - Hinoki.pdf",
+    "PDFs/Nicotinamide PDFs/Supplementation of nicotinic acid and its derivatives up-regulates cellular NAD+ level rather than nicotinamide derivatives in cultured normal human epidermal keratinocytes - 2023 - Hinoki 1.pdf",
     "PDFs/Niacin PDFs/Niacin therapy and the risk of new-onset diabetes - a meta-analysis of randomised controlled trials - 2016 - heartjnl-2015-308055.pdf",
     "PDFs/Niacin PDFs/(PDF) Niacin therapy and the risk of new-onset diabetes - a meta-analysis of randomised controlled trials - 2016.md",
-    "Nicotinic Acid (niacin).md",
     "PDFs/Niacin PDFs/Niacin - LiverTox - Clinical and Research Information on Drug-Induced Liver Injury - 2020 - NBK548176.pdf",
     "PDFs/Niacin PDFs/(PDF) Niacin - LiverTox - Clinical and Research Information on Drug-Induced Liver Injury - 2020.md",
     "PDFs/Niacin PDFs/The Effects of Niacin on DNA Repair after N-Methyl-N′-nitro-N-nitrosoguanidine Treatment in Normal Human Lymphocytes - 1997 - bbb2116.pdf",
     "PDFs/Niacin PDFs/(PDF) The Effects of Niacin on DNA Repair after N-Methyl-N′-nitro-N-nitrosoguanidine Treatment in Normal Human Lymphocytes - 1997.md",
     "PDFs/Niacin PDFs/Niacin protects the isolated heart from ischemia-reperfusion injury - 2000 - trueblood-et-al.pdf",
     "PDFs/Niacin PDFs/(PDF) Niacin protects the isolated heart from ischemia-reperfusion injury - 2000.md",
-    "PDFs/Niacin PDFs/Dietary niacin and the risk of incident Alzheimer’s disease and of cognitive decline - 2004 - 1093.pdf",
     "PDFs/Niacin PDFs/(PDF) Dietary niacin and the risk of incident Alzheimer’s disease and of cognitive decline - 2004.md",
-    "PDFs/Niacin PDFs/Nicotinic Acid-Mediated Activation of Both Membrane and Nuclear Receptors towards Therapeutic Glucocorticoid Mimetics for Treating Multiple Sclerosis - 2009 - 853707.pdf",
     "PDFs/Niacin PDFs/(PDF) Nicotinic Acid-Mediated Activation of Both Membrane and Nuclear Receptors towards Therapeutic Glucocorticoid Mimetics for Treating Multiple Sclerosis - 2009.md",
-    "PDFs/Niacin PDFs/High dietary niacin intake is associated with decreased chromosome translocation frequency in airline pilots - 2011.pdf",
     "PDFs/Niacin PDFs/(PDF) High dietary niacin intake is associated with decreased chromosome translocation frequency in airline pilots - 2011.md",
-    "PDFs/Niacin PDFs/Protective effect of nicotinic acid on human albumin during UV-C irradiation - 2011 - s11814-011-0083-8.pdf",
     "PDFs/Niacin PDFs/(PDF) Protective effect of nicotinic acid on human albumin during UV-C irradiation - 2011.md",
-    "PDFs/Niacin PDFs/Dietary nicotinic acid supplementation improves hepatic zinc uptake and offers hepatoprotection against oxidative damage - 2011 - bjn.pdf",
     "PDFs/Niacin PDFs/(PDF) Dietary nicotinic acid supplementation improves hepatic zinc uptake and offers hepatoprotection against oxidative damage - 2011.md",
-    "PDFs/Niacin PDFs/Niacin and Oxidative Stress - A Mini-Review 2016 - jnmdc-2-014.pdf",
     "PDFs/Niacin PDFs/(PDF) Effect of niacin on endothelial function - A systematic review and meta-analysis of randomized controlled trials - 2014.md",
     "PDFs/Niacin PDFs/(PDF) Activation of Gpr109a, Receptor for Niacin and the Commensal Metabolite Butyrate, Suppresses Colonic Inflammation and Carcinogenesis - 2014.md",
     "PDFs/Niacin PDFs/(PDF) Niacin and Oxidative Stress - A Mini-Review 2016.md",
@@ -245,11 +249,6 @@
     "PDFs/(PDF) Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020.md",
     "PDFs/Niacin PDFs/(PDF) Niacin Attenuates Pulmonary Hypertension Through H-PGDS in Macrophages - 2020.md",
     "PDFs/Niacin PDFs/(PDF) A derivative of vitamin B3 applied several days after exposure reduces lethality of severely irradiated mice - 2021.md",
-    "Non-PDF links/Niacin non-PDF links/Chronic niacin administration ameliorates ovulation, histological changes in the ovary and adiponectin concentrations in a rat model of polycystic ovary syndrome - 2021.md",
-    "PDFs/Niacin PDFs/(PDF) Association between Daily Niacin Intake and Glaucoma - National Health and Nutrition Examination Survey - 2021.md",
-    "Non-PDF links/Niacin non-PDF links/The niacin receptor HCAR2 modulates microglial response and limits disease progression in a mouse model of Alzheimer’s disease - 2022.md",
-    "PDFs/Niacin PDFs/(PDF) Association between niacin and mortality among patients with cancer in the NHANES retrospective cohort - 2022.md",
-    "Non-PDF links/Potential of curcumin and niacin-loaded targeted chitosan coated liposomes to activate autophagy in hepatocellular carcinoma cells - An in vitro evaluation in HePG2 cell line - 2023.md",
     "Untitled.canvas"
   ]
 }
