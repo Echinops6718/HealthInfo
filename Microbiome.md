@@ -71,7 +71,7 @@ Full PDF: [[An Apple a Day - Which Bacteria Do We Eat With Organic and Conventio
 [[Nicotinic Acid (niacin)]] supplementation likely prevents cancer in part through improving GI microbiome butyrate fermentation:
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4305274/
-Full PDF: [[(PDF) Activation of Gpr109a, Receptor for Niacin and the Commensal Metabolite Butyrate, Suppresses Colonic Inflammation and Carcinogenesis - PIIS1074761313005645.pdf]]
+Full PDF: [[Activation of the receptor Gpr109a for niacin and the commensal metabolite butyrate suppresses colonic inflammation and carcinogenesis - 2014 - PIIS1074761313005645.pdf]]
 
 ## Stephen Skolnick: 
 

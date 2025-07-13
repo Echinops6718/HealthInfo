@@ -6,7 +6,6 @@
       {
         "id": "53291e8c9f32fff6",
         "type": "tabs",
-        "dimension": 71.98879551820728,
         "children": [
           {
             "id": "7a52dd42a7da8e1c",
@@ -14,59 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nicotinamide (non-flushing).md",
+                "file": "Nicotinic Acid (niacin).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nicotinamide (non-flushing)"
-            },
-            "group": "01d3b7aebfd0f80b"
-          }
-        ]
-      },
-      {
-        "id": "95409ebad3fd23fd",
-        "type": "tabs",
-        "dimension": 28.011204481792724,
-        "children": [
-          {
-            "id": "65c70c2bc392a932",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Nicotinamide (non-flushing).md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Nicotinamide (non-flushing)"
-            },
-            "group": "01d3b7aebfd0f80b"
+              "title": "Nicotinic Acid (niacin)"
+            }
           }
         ]
       }
@@ -141,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nicotinamide (non-flushing).md",
+                "file": "Nicotinic Acid (niacin).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Nicotinamide (non-flushing)"
+              "title": "Backlinks for Nicotinic Acid (niacin)"
             }
           },
           {
@@ -200,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,9 +168,10 @@
   },
   "active": "7a52dd42a7da8e1c",
   "lastOpenFiles": [
+    "Microbiome.md",
+    "Nicotinamide (non-flushing).md",
     "Nicotinic Acid (niacin).md",
     "PDFs/Nicotinamide PDFs/(PDF Link) Safety of high-dose nicotinamide - 2000.md",
-    "Nicotinamide (non-flushing).md",
     "PDFs/Nicotinamide PDFs/The histone deacetylase inhibitor nicotinamide exacerbates neurodegeneration in the lactacystin rat model of Parkinson's disease - 2018 - Journal of Neurochemistry - Harrison.pdf",
     "PDFs/Nicotinamide PDFs/(PDF) The histone deacetylase inhibitor nicotinamide exacerbates neurodegeneration in the lactacystin rat model of Parkinson's disease - 2018.md",
     "PDFs/Nicotinamide PDFs/Possible Adverse Effects of High-Dose Nicotinamide Mechanisms and Safety Assessment - 2020 - biomolecules-10-00687.pdf",
