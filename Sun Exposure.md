@@ -1,6 +1,9 @@
 
 #cardioprotective #multiple-sclerosis-treatment 
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9855654/
+Full PDF: [[Melatonin_ Both a Messenger of Darkness and a Participant in the Cellular Actions of Non-Visible Solar Radiation of Near Infrared Light - 2023 - biology-12-00089 1.pdf]]
+
 [[(PDF) Sunlight exposure exerts immunomodulatory effects to reduce multiple sclerosis severity - 2020]]
 
 [[(PDF) Sun exposure over the life course and associations with multiple sclerosis - 2018]]
