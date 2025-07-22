@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Sun Exposure.md",
+                    "file": "NIR Light Therapy.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Sun Exposure"
+                  "title": "NIR Light Therapy"
                 },
                 "group": "98353c7bbdc6f3dc"
               }
@@ -32,7 +32,7 @@
           {
             "id": "b825010ecba473ae",
             "type": "tabs",
-            "dimension": 21.057347670250895,
+            "dimension": 21.0573476702509,
             "children": [
               {
                 "id": "e6ec04860d94f4b7",
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Sun Exposure.md",
+                    "file": "NIR Light Therapy.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Sun Exposure"
+                  "title": "Backlinks for NIR Light Therapy"
                 },
                 "group": "98353c7bbdc6f3dc"
               }
@@ -202,25 +202,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a52dd42a7da8e1c",
+  "active": "473e888fce14a1fe",
   "lastOpenFiles": [
-    "PDFs/Sun Exposure PDFs/UV radiation suppresses experimental autoimmune encephalomyelitis independent of vitamin D production - 2010 - becklund-et-al.pdf",
-    "PDFs/Sun Exposure PDFs/(PDF) UV radiation suppresses experimental autoimmune encephalomyelitis independent of vitamin D production - 2010.md",
+    "PDFs/NIR Light Therapy PDFs/Photobiomodulation and Cancer_ What Is the Truth_ - 2018 - pho.2017.4401.pdf",
+    "PDFs/NIR Light Therapy PDFs/Efficacy of Combined Photobiomodulation Therapy with Supplements versus Supplements alone in Restoring Thyroid Gland Homeostasis in Hashimoto Thyroiditis_ A Clinical Feasibility Parallel Trial with 6-Months Follow-Up - 2023 - jpm-13-01274.pdf",
+    "PDFs/NIR Light Therapy PDFs/Light‐emitting diodes in dermatology_ A systematic review of randomized controlled trials - 2018 - LSM-50-613.pdf",
+    "PDFs/NIR Light Therapy PDFs/Retinal pigment epithelium in the pathogenesis of age-related macular degeneration and photobiomodulation as a potential therapy  - 2017 Ao_et_al-2018-Clinical_26_Experimental_Ophthalmology.pdf",
+    "PDFs/NIR Light Therapy PDFs/Proposed Mechanisms of Photobiomodulation or Low-Level Light Therapy - 2016 - nihms797827.pdf",
+    "PDFs/NIR Light Therapy PDFs/Mechanisms and Mitochondrial Redox Signaling in Photobiomodulation - 2018 - nihms921441.pdf",
+    "PDFs/NIR Light Therapy PDFs/Efficacy of 1064 nm Photobiomodulation Dosimetry Delivered with a Collimated Flat-Top Handpiece in the Management of Peripheral Facial Paralysis in Patients Unresponsive to Standard Treatment Care_ A Case Series - 2023 - jcm-12-06294.pdf",
+    "PDFs/NIR Light Therapy PDFs/The Mechanisms and Efficacy of Photobiomodulation Therapy for Arthritis_ A Comprehensive Review - 2023 - ijms-24-14293.pdf",
+    "PDFs/NIR Light Therapy PDFs/The Nuts and Bolts of Low-level Laser (Light) Therapy - 2011 - nihms339992.pdf",
+    "PDFs/NIR Light Therapy PDFs/Impact of Photobiomodulation on T3_T4 Ratio and Quality of Life in Hashimoto Thyroiditis - 2020.pdf",
+    "PDFs/NIR Light Therapy PDFs/The Use of a Light-Emitting Diode Device for Neck Rejuvenation and Its Safety on Thyroid Glands - 2021 - jcm-10-01774.pdf",
     "Sun Exposure.md",
-    "PDFs/Sun Exposure PDFs/Sunlight is associated with decreased multiple sclerosis risk - no interaction with human leukocyte antigen-DRB1-15 - 2012 - sunbeds_co129c_en.pdf",
+    "PDFs/Sun Exposure PDFs/(PDF) UV radiation suppresses experimental autoimmune encephalomyelitis independent of vitamin D production - 2010.md",
     "PDFs/Sun Exposure PDFs/(PDF) Sunlight is associated with decreased multiple sclerosis risk - no interaction with human leukocyte antigen-DRB1-15 - 2012.md",
-    "PDFs/Sun Exposure PDFs/Avoidance of sun exposure as a risk factor for major causes of death - a competing risk analysis of the Melanoma in Southern Sweden cohort - 2016 - JIM - Lindqvist.pdf",
     "PDFs/Sun Exposure PDFs/(PDF) Avoidance of sun exposure as a risk factor for major causes of death - a competing risk analysis of the Melanoma in Southern Sweden cohort - 2016.md",
-    "PDFs/Sun Exposure PDFs/Sun exposure over the life course and associations with multiple sclerosis - 2018 - NEUROLOGY2017839183.pdf",
     "PDFs/Sun Exposure PDFs/(PDF) Sun exposure over the life course and associations with multiple sclerosis - 2018.md",
-    "PDFs/Sun Exposure PDFs/Sunlight exposure exerts immunomodulatory effects to reduce multiple sclerosis severity - 2020 - ostkamp-et-al.pdf",
     "PDFs/Sun Exposure PDFs/(PDF) Sunlight exposure exerts immunomodulatory effects to reduce multiple sclerosis severity - 2020.md",
     "NIR Light Therapy.md",
-    "PDFs/NIR Light Therapy PDFs/Melatonin_ Both a Messenger of Darkness and a Participant in the Cellular Actions of Non-Visible Solar Radiation of Near Infrared Light - 2023 - biology-12-00089.pdf",
-    "PDFs/Sun Exposure PDFs/Melatonin_ Both a Messenger of Darkness and a Participant in the Cellular Actions of Non-Visible Solar Radiation of Near Infrared Light - 2023 - biology-12-00089 1.pdf",
-    "PDFs/NIR Light Therapy PDFs/Photobiomodulation_ A Systematic Review of the Oncologic Safety of Low-Level Light Therapy for Aesthetic Skin Rejuvenation - 2023 - sjad018.pdf",
-    "PDFs/Chris Masterjohn - Serotonin Part 7 - SSRI Withdrawal Is Mitochondrial Dysfunction.pdf",
-    "PDFs/NIR Light Therapy PDFs/Biphasic Dose Response in Low Level Light Therapy - 2009 - huang-et-al.pdf",
     "PDFs/NIR Light Therapy PDFs/(PDF) Biphasic Dose Response in Low Level Light Therapy - 2009.md",
     "PDFs/NIR Light Therapy PDFs/(PDF) Green Tea and Red Light—A Powerful Duo in Skin Rejuvenation - 2009.md",
     "PDFs/NIR Light Therapy PDFs/(PDF) A Preliminary Study of the Safety of Red Light Phototherapy of Tissues Harboring Cancer - 2012.md",
