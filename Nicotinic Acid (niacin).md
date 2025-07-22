@@ -130,4 +130,4 @@ Full PDF: [[Niacin - LiverTox - Clinical and Research Information on Drug-Induce
 The following landmark niacin risk study doesn't differentiate between 3g, 2g, and 1g per day dosages in varying cohort groups, so all that can reasonably be concluded is that 2g or 3g per day of niacin is probably too much if eating high glycemic foods:
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4752613/
-Full PDF: [[Niacin therapy and the risk of new-onset diabetes - a meta-analysis of randomised controlled trials - 2016 - heartjnl-2015-308055.pdf]]
+Full PDF: [[Niacin therapy and the risk of new-onset diabetes - a meta-analysis of randomised controlled trials - 2015 - heartjnl-2015-308055.pdf]]
