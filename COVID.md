@@ -36,6 +36,9 @@ COVID will have a long tail in public health with 1 in 4 people likely having re
 2. https://phys.org/news/2022-01-sars-cov-spike-protein-human-endogenous.html
 Full PDF: [[SARS-CoV-2 spike protein activates human endogenous retroviruses in blood cells - 2022 - 01.pdf]]
 
+https://www.mdpi.com/2218-1989/12/11/1026
+Full PDF: [[Signatures of Mitochondrial Dysfunction and Impaired Fatty Acid Metabolism in Plasma of Patients with Post-Acute Sequelae of COVID-19 (PASC)  - 2022 - metabolites-12-01026.pdf]]
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC9289930
 Full PDF: [[Iron and iron‑related proteins in COVID‑19 - 2022 - 10238_2022_Article_851.pdf]]
 
