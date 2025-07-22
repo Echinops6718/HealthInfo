@@ -24,6 +24,9 @@ Full PDF: [[Enhancement of skin rejuvenation and hair growth through novel near-
 2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9721157/
 Full PDF: [[Cardiopulmonary and hematological effects of infrared LED photobiomodulation in the treatment of SARS-COV2 - 2023 - main.pdf]]
 
+https://academic.oup.com/asj/article/43/5/NP357/7018419?login=false
+Full PDF: [[Photobiomodulation_ A Systematic Review of the Oncologic Safety of Low-Level Light Therapy for Aesthetic Skin Rejuvenation - 2023 - sjad018.pdf]]
+
 https://www.mdpi.com/2304-6732/9/10/686
 Full PDF: [[Light as a Cure in COVID-19 - A Challenge for Medicine - 2022 - photonics-09-00686.pdf]]
 
