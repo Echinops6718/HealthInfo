@@ -11,12 +11,17 @@ Likely treats thyroiditis symptoms and macular degeneration.
 
 May prevent and treat [[COVID]] and induced injuries, some cancers, and herpes outbreaks.
 
+May reduce the progression of myopia.
+
 High dosage of NIR light therapy for long periods of time is likely contraindicated. The greater the intensity of NIR light exposure, the shorter the exposure time should be for optimal benefit without side effects. Ten to twenty minutes of concentrated exposure per day is likely safe to minimize side effects for most NIR light emitting devices.
 
 #neuroprotective #skin-protective #anti-cancer #herpes-treatment #accelerate-wound-healing #mitochondria-support #retina-protective
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11024053/
 Full PDF: [[Enhancement of skin rejuvenation and hair growth through novel near-infrared light emitting diode (nNIR) lighting_ in vitro and in vivo study - 2024 -10103_2024_Article_4044.pdf]]
+
+https://www.aaojournal.org/article/S0161-6420(24)00318-X/fulltext
+Full PDF: [[Repeated Low-Level Red Light Therapy for Myopia Control in High Myopia Children and Adolescents_ A Randomized Clinical Trial - 2024 - PIIS016164202400318X.pdf]]
 
 1. https://pubmed.ncbi.nlm.nih.gov/36495670/
 2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9721157/
