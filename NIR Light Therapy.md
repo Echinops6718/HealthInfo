@@ -5,7 +5,7 @@ Improves nervous system, retina, and mitochondrial health and function.
 
 Regenerates skin, improves collagen and elastin synthesis, reduces skin thickness and collagenase expression, and increases hair follicle count and hair growth.
 
-Increases ATP synthesis and reduces reactive oxygen species.
+Increases ATP synthesis, promotes melatonin production, and reduces reactive oxygen species.
 
 May prevent and treat [[COVID]] and induced injuries.
 
@@ -26,6 +26,9 @@ Full PDF: [[Cardiopulmonary and hematological effects of infrared LED photobiomo
 
 https://academic.oup.com/asj/article/43/5/NP357/7018419?login=false
 Full PDF: [[Photobiomodulation_ A Systematic Review of the Oncologic Safety of Low-Level Light Therapy for Aesthetic Skin Rejuvenation - 2023 - sjad018.pdf]]
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9855654/
+Full PDF: [[Melatonin_ Both a Messenger of Darkness and a Participant in the Cellular Actions of Non-Visible Solar Radiation of Near Infrared Light - 2023 - biology-12-00089.pdf]]
 
 https://www.mdpi.com/2304-6732/9/10/686
 Full PDF: [[Light as a Cure in COVID-19 - A Challenge for Medicine - 2022 - photonics-09-00686.pdf]]
