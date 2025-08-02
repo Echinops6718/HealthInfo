@@ -5,6 +5,8 @@ Improves nervous system, retina, and mitochondrial health and function.
 
 Regenerates skin, improves collagen and elastin synthesis, reduces skin thickness and collagenase expression, and increases hair follicle count and hair growth.
 
+Improves male and female fertility, testosterone production, egg viability, testicular pain and injury, and sperm quantity and motility.
+
 Increases ATP synthesis, promotes melatonin production, and reduces reactive oxygen species.
 
 Likely treats thyroiditis symptoms and macular degeneration.
@@ -13,7 +15,9 @@ May prevent and treat [[COVID]] and induced injuries, some cancers, and herpes o
 
 May reduce the progression of myopia.
 
-High dosage of NIR light therapy for long periods of time is likely contraindicated. The greater the intensity of NIR light exposure, the shorter the exposure time should be for optimal benefit without side effects. Ten to twenty minutes of concentrated exposure per day is likely safe to minimize side effects for most NIR light emitting devices.
+Increases nitric oxide release, which in moderate amounts can be neuroprotective, though large concentrations can be neurotoxic and cytotoxic. Therefore, high dosage of NIR light therapy for long periods of time is likely contraindicated. The greater the intensity of NIR light exposure, the shorter the exposure time should be for optimal benefit without side effects. Ten to twenty minutes of concentrated exposure per day is likely safe to minimize side effects for most NIR light emitting devices.
+
+There is contradictory evidence between different studies for whether NIR light can contribute to cataract formation, or whether it may be protective. 
 
 #neuroprotective #skin-protective #anti-cancer #herpes-treatment #accelerate-wound-healing #mitochondria-support #retina-protective
 
@@ -22,6 +26,12 @@ Full PDF: [[Enhancement of skin rejuvenation and hair growth through novel near-
 
 https://www.aaojournal.org/article/S0161-6420(24)00318-X/fulltext
 Full PDF: [[Repeated Low-Level Red Light Therapy for Myopia Control in High Myopia Children and Adolescents_ A Randomized Clinical Trial - 2024 - PIIS016164202400318X.pdf]]
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11725035/
+Full PDF: [[Influence of Low-Level Laser Irradiation of the Red and Infrared Spectral Range for Treating Chronic Testicular Pain_ A Randomized Clinical Trial - 2024 - jlms-15-e62.pdf]]
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10658110/
+Full PDF: [[Therapeutic Effects of Low-Level Laser on Male Infertility_ A Systematic Review - 2023 - jlms-14-e36.pdf]]
 
 1. https://pubmed.ncbi.nlm.nih.gov/36495670/
 2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9721157/
@@ -83,6 +93,9 @@ Full PDF: [[A Potential Role for Photobiomodulation Therapy in Disease Treatment
 https://pubmed.ncbi.nlm.nih.gov/32186976/
 Full PDF: [[Impact of Photobiomodulation on T3_T4 Ratio and Quality of Life in Hashimoto Thyroiditis - 2020.pdf]]
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6062680/
+Full PDF: [[Sperm motility is enhanced by Low Level Laser and Light Emitting Diode photobiomodulation with a dose-dependent response and differential effects in fresh and frozen samples - 2018 - islsm-27-131.pdf]]
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC5844808/
 Full PDF: [[Mechanisms and Mitochondrial Redox Signaling in Photobiomodulation - 2018 - nihms921441.pdf]]
 
@@ -104,6 +117,9 @@ Full PDF: [[Biological effects and medical applications of infrared radiation - 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC5215870/
 Full PDF: [[Proposed Mechanisms of Photobiomodulation or Low-Level Light Therapy - 2016 - nihms797827.pdf]]
 
+https://www.researchgate.net/publication/295909833_Low-level_laser_therapy_to_recovery_testicular_degeneration_in_rams_effects_on_seminal_characteristics_scrotal_temperature_plasma_testosterone_concentration_and_testes_histopathology
+Full PDF: [[Low-level laser therapy to recovery testicular degeneration in rams_ effects on seminal characteristics, scrotal temperature, plasma testosterone concentration, and testes histopathology - 2016 - Bianchietal.pdf]]
+
 https://onlinelibrary.wiley.com/doi/10.1002/ana.24542
 Full PDF: [[Near-infrared light is neuroprotective in a monkey model of Parkinson disease - 2015 - Annals of Neurology - Darlot.pdf]]
 
@@ -113,6 +129,9 @@ Full PDF: [[Low-level laser (light) therapy (LLLT) in skin  stimulating, healing
 1. https://pubmed.ncbi.nlm.nih.gov/24286286/
 2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3926176/
 Full PDF: [[A Controlled Trial to Determine the Efficacy of Red and Near-Infrared Light Treatment in Patient Satisfaction, Reduction of Fine Lines, Wrinkles, Skin Roughness, and Intradermal Collagen Density Increase - 2013 - pho.2013.3616.pdf]]
+
+https://www.semanticscholar.org/paper/The-effects-of-low-level-laser-therapy-(LLLT)-on-th-Ahn-Kim/e437801422be789aa616b40368d17c03e47a831f
+Full PDF: [[the-effects-of-low-level-laser-therapy-lllt-on-the-testis-in-elevatingserum-testosterone-level-in-rats - 2013 .pdf]]
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3423866/
 Full PDF: [[A Preliminary Study of the Safety of Red Light Phototherapy of Tissues Harboring Cancer - 2012 - pho.2011.3186.pdf]]
