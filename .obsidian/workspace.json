@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Microbiome.md",
+                    "file": "Seirogan.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Microbiome"
+                  "title": "Seirogan"
                 },
                 "group": "98353c7bbdc6f3dc"
               }
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Microbiome.md",
+                    "file": "Seirogan.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Microbiome"
+                  "title": "Backlinks for Seirogan"
                 },
                 "group": "98353c7bbdc6f3dc"
               }
@@ -202,43 +202,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a52dd42a7da8e1c",
+  "active": "473e888fce14a1fe",
   "lastOpenFiles": [
-    "PDFs/Microbiome PDFs/The person-to-person transmission landscape of the gut and oral microbiomes - 2023 - s41586-022-05620-1.pdf",
-    "Microbiome.md",
+    "Non-PDF links/Seirogan (Wood Creosote) non-PDF links/Wood creosote, the principal active ingredient of seirogan, an herbal antidiarrheal medicine - a single-dose, dose-escalation safety and pharmacokinetic study - 2003.md",
     "Seirogan.md",
+    "Nicotinic Acid (niacin).md",
+    "Non-PDF links/Seirogan (Wood Creosote) non-PDF links/Multiple-dose escalation, safety, and tolerability study of wood creosote, the principal active ingredient of seirogan, an herbal antidiarrheal medication, in healthy subjects - 2003.md",
+    "Non-PDF links/Seirogan (Wood Creosote) non-PDF links/Comparison of wood creosote, the principal active ingredient of Seirogan, an herbal antidiarrheal medication, and loperamide in adults with acute nonspecific diarrhea - 2004.md",
+    "PDFs/Seirogan (Wood Creosote) PDFs/Lack of oncogenicity of wood creosote, the principal active ingredient of Seirogan, an herbal antidiarrheal medication, in Sprague-Dawley rats - 2001.pdf",
+    "PDFs/Seirogan (Wood Creosote) PDFs/(PDF) Lack of oncogenicity of wood creosote, the principal active ingredient of Seirogan, an herbal antidiarrheal medication, in Sprague-Dawley rats - 2001.md",
+    "PDFs/Seirogan (Wood Creosote) PDFs/Absence of bactericidal activity of orally administered wood creosote on human intestinal bacterial flora - 2018 - IMM-5-321.pdf",
+    "PDFs/Seirogan (Wood Creosote) PDFs/Unconfirmed 934303.crdownload",
+    "Spermidine.md",
+    "PDFs/Seirogan (Wood Creosote) PDFs/Anti-Diarrheal Effects of Wood Creosote, Seirogan, in Japanese Patients - 2019 - 0b6e8e3e2f3cbb1ee5f6cf565db9b258fa80.pdf",
+    "PDFs/Seirogan (Wood Creosote) PDFs/Unconfirmed 149108.crdownload",
+    "PDFs/Seirogan (Wood Creosote) PDFs/New views on antidiarrheal effect of wood creosote: is wood creosote really a gastrointestinal antiseptic? - 2005 - 125_937.pdf",
+    "Non-PDF links/Seirogan (Wood Creosote) non-PDF links/New views on antidiarrheal effect of wood creosote - is wood creosote really a gastrointestinal antiseptic - 2005.md",
+    "PDFs/Seirogan (Wood Creosote) PDFs/Unconfirmed 844096.crdownload",
+    "PDFs/Seirogan (Wood Creosote) PDFs/Effect of the smell of Seirogan, a wood creosote, on dermal and intestinal mucosal immunity and allergic inflammation - 2012 - jcbn-51-91.pdf",
+    "PDFs/Seirogan (Wood Creosote) PDFs/(PDF) Effect of the smell of Seirogan, a wood creosote, on dermal and intestinal mucosal immunity and allergic inflammation - 2012.md",
+    "PDFs/Seirogan (Wood Creosote) PDFs/Stephen Skolnick - So you have to take antibiotics. How do you repair your microbiome - 2023.pdf",
+    "Microbiome.md",
+    "PDFs/Microbiome PDFs/The person-to-person transmission landscape of the gut and oral microbiomes - 2023 - s41586-022-05620-1.pdf",
     "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md",
     "Glutamine.md",
-    "PDFs/Tiger Milk Mushroom PDFs/Lignosus rhinocerus (Cooke) Ryvarden - A Medicinal Mushroom That Stimulates Neurite Outgrowth in PC-12 Cells - 2012 - ECAM2012-320308.pdf",
     "PDFs/Tiger Milk Mushroom PDFs/(PDF) Lignosus rhinocerus (Cooke) Ryvarden - A Medicinal Mushroom That Stimulates Neurite Outgrowth in PC-12 Cells - 2012.md",
-    "PDFs/Tiger Milk Mushroom PDFs/The Antiproliferative Activity of Sclerotia of Lignosus rhinocerus (Tiger Milk Mushroom) - 2012 - ECAM2012-697603.pdf",
     "PDFs/Tiger Milk Mushroom PDFs/(PDF) The Antiproliferative Activity of Sclerotia of Lignosus rhinocerus (Tiger Milk Mushroom) - 2012.md",
-    "PDFs/Tiger Milk Mushroom PDFs/Preclinical toxicological evaluations of the sclerotium of Lignosus rhinocerus (Cooke), the Tiger Milk mushroom - 2013 - 24.pdf",
     "PDFs/Tiger Milk Mushroom PDFs/(PDF) Preclinical toxicological evaluations of the sclerotium of Lignosus rhinocerus (Cooke), the Tiger Milk mushroom - 2013.md",
-    "PDFs/Tiger Milk Mushroom PDFs/Nutrient composition, antioxidant properties, and anti-proliferative activity of Lignosus rhinocerus Cooke sclerotium - 2013 - 25.pdf",
     "PDFs/Tiger Milk Mushroom PDFs/(PDF) Nutrient composition, antioxidant properties, and anti-proliferative activity of Lignosus rhinocerus Cooke sclerotium - 2013.md",
-    "PDFs/Tiger Milk Mushroom PDFs/Anti-inflammatory effect of the sclerotium of Lignosus rhinocerotis (Cooke) Ryvarden, the Tiger Milk mushroom - 2014 - 12906_2013_Article_1930.pdf",
     "PDFs/Tiger Milk Mushroom PDFs/(PDF) Anti-inflammatory effect of the sclerotium of Lignosus rhinocerotis (Cooke) Ryvarden, the Tiger Milk mushroom - 2014.md",
-    "PDFs/Tiger Milk Mushroom PDFs/The genome of the Tiger Milk mushroom, Lignosus rhinocerotis, provides insights into the genetic basis of its medicinal properties - 2014 - 12864_2014_Article_6333.pdf",
     "PDFs/Tiger Milk Mushroom PDFs/(PDF) The genome of the Tiger Milk mushroom, Lignosus rhinocerotis, provides insights into the genetic basis of its medicinal properties - 2014.md",
-    "PDFs/Tiger Milk Mushroom PDFs/Lignosus rhinocerotis (Cooke) Ryvarden mimics the neuritogenic activity of nerve growth factor via MEK-ERK1-2 signaling pathway in PC-12 cells - 2015 - srep16349.pdf",
     "PDFs/Tiger Milk Mushroom PDFs/(PDF) Lignosus rhinocerotis (Cooke) Ryvarden mimics the neuritogenic activity of nerve growth factor via MEK-ERK1-2 signaling pathway in PC-12 cells - 2015.md",
-    "PDFs/Tiger Milk Mushroom PDFs/Phytochemical profiles and inhibitory effects of Tiger Milk mushroom (Lignosus rhinocerus) extract on ovalbumin-induced airway inflammation in a rodent model of asthma - 2016 - 12906_2016_Article_1141.pdf",
     "PDFs/Tiger Milk Mushroom PDFs/(PDF) Phytochemical profiles and inhibitory effects of Tiger Milk mushroom (Lignosus rhinocerus) extract on ovalbumin-induced airway inflammation in a rodent model of asthma - 2016.md",
-    "PDFs/Tiger Milk Mushroom PDFs/Sub-Acute Toxicity Study of Tiger Milk Mushroom Lignosus tigris Chon S. Tan Cultivar E Sclerotium in Sprague Dawley Rats - 2016 - fphar-07-00246.pdf",
     "PDFs/Tiger Milk Mushroom PDFs/(PDF) Sub-Acute Toxicity Study of Tiger Milk Mushroom Lignosus tigris Chon S. Tan Cultivar E Sclerotium in Sprague Dawley Rats - 2016.md",
     "PDFs/Tiger Milk Mushroom PDFs/(PDF) A Status Review of the Bioactive Activities of Tiger Milk Mushroom Lignosus rhinocerotis (Cooke) Ryvarden - 2017.md",
     "Non-PDF links/Tiger Milk Mushroom non-PDF links/The Immunomodulating Properties of Tiger Milk Medicinal Mushroom, Lignosus rhinocerus TM02® Cultivar (Agaricomycetes) and Its Associated Carbohydrate Composition - 2020.md",
     "Non-PDF links/Tiger Milk Mushroom non-PDF links/Longitudinal Assessment of the Tiger Milk Medicinal Mushroom, Lignosus rhinocerus (Agaricomycetes), Sclerotium Cultivar - Uniformity of Bioactive Components  - 2021.md",
     "PDFs/Tiger Milk Mushroom PDFs/(PDF) Effect of tiger milk mushroom (Lignosus rhinocerus) supplementation on respiratory health, immunity and antioxidant status - an open-label prospective study - 2021.md",
     "PDFs/Tiger Milk Mushroom PDFs/(PDF) Extracts of the Tiger Milk Mushroom Enhance Stress Resistance and Extend Lifespan in Caenorhabditis elegans via the DAF-16 - FoxO Signaling Pathway - 2021.md",
-    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Neuroprotective Effects of Extracts from Tiger Milk Mushroom Against Glutamate-Induced Toxicity in HT22 Hippocampal Neuronal Cells and Neurodegenerative Diseases in Caenorhabditis elegans - 2021.md",
-    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Lignosus rhinocerus attenuates non-alcoholic fatty liver induced by plant-based high-fat diet in hamster - 2022.md",
-    "PDFs/Tiger Milk Mushroom PDFs/(PDF) The Wound Healing Potential of Lignosus rhinocerus and Other Ethno-myco Wound Healing Agents - 2023.md",
-    "Lactoferrin.md",
-    "NIR Light Therapy.md",
-    "Sun Exposure.md",
-    "PDFs/Sun Exposure PDFs/(PDF) UV radiation suppresses experimental autoimmune encephalomyelitis independent of vitamin D production - 2010.md",
     "Untitled.canvas"
   ]
 }

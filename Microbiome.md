@@ -103,7 +103,7 @@ Full PDF: [[Stephen Skolnick - On the Origins of Multiple Sclerosis - 2023.pdf]]
 Antibiotics damage the microbiome in potentially non-reversible ways that increase lifetime risk of cancers, autoimmunity, and many forms of chronic inflammatory diseases. Avoid antibiotics unless absolutely necessary. Ingesting currently available probiotics during or shortly after a round of antibiotics may cause further harm.  [[Seirogan]] is likely a good alternative to antibiotics for mild to moderate food poisoning:
 
 https://stephenskolnick.substack.com/p/so-you-have-to-take-antibiotics-how
-Full PDF: [[Stephen Skolnick - So you have to take antibiotics. How do you repair your microbiome - 2023.pdf]]
+Full PDF: [[PDFs/Microbiome PDFs/Stephen Skolnick - So you have to take antibiotics. How do you repair your microbiome - 2023.pdf]]
 
 Type 1 diabetes may be associated with Legionella growth in inadequately heated or cooled plumbing. Children and immunocompromised people appear to be the most at risk, potentially due to lower immune system/microbiome resiliency:
 
