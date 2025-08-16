@@ -4,7 +4,7 @@ Evidence based medicine is in the midst of redefining aspects of physiology and 
 #anti-cancer #anti-aging #autism-treatment #neuroprotective #mitochondria-support #anti-inflammatory #multiple-sclerosis-treatment #diabetes-protective 
 
 https://www.nature.com/articles/s41586-022-05620-1
-Full PDF: [[(PDF) The person-to-person transmission landscape of the gut and oral microbiomes - 2023 - s41586-022-05620-1.pdf]]
+Full PDF: [[The person-to-person transmission landscape of the gut and oral microbiomes - 2023 - s41586-022-05620-1.pdf]]
 
 Predigested high calorie foods, like nut and seed butter, add adipose tissue easily, while chewing unprocessed high fiber foods, like whole nuts and seeds, are much less likely to:
 
