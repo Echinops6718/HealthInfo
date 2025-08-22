@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Seirogan.md",
+                    "file": "Vitamin D.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Seirogan"
+                  "title": "Vitamin D"
                 },
                 "group": "98353c7bbdc6f3dc"
               }
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Seirogan.md",
+                    "file": "Vitamin D.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Seirogan"
+                  "title": "Backlinks for Vitamin D"
                 },
                 "group": "98353c7bbdc6f3dc"
               }
@@ -194,6 +194,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -202,10 +203,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "473e888fce14a1fe",
+  "active": "7a52dd42a7da8e1c",
   "lastOpenFiles": [
-    "Non-PDF links/Seirogan (Wood Creosote) non-PDF links/Wood creosote, the principal active ingredient of seirogan, an herbal antidiarrheal medicine - a single-dose, dose-escalation safety and pharmacokinetic study - 2003.md",
+    "PDFs/Chris Masterjohn - Your Cells Are Starving for Creatine - 2024.pdf",
+    "PDFs/Chris Masterjohn - Your Cells Are Starving for Creatine.pdf",
+    "Glutamine.md",
     "Seirogan.md",
+    "Non-PDF links/Seirogan (Wood Creosote) non-PDF links/Wood creosote, the principal active ingredient of seirogan, an herbal antidiarrheal medicine - a single-dose, dose-escalation safety and pharmacokinetic study - 2003.md",
     "Nicotinic Acid (niacin).md",
     "Non-PDF links/Seirogan (Wood Creosote) non-PDF links/Multiple-dose escalation, safety, and tolerability study of wood creosote, the principal active ingredient of seirogan, an herbal antidiarrheal medication, in healthy subjects - 2003.md",
     "Non-PDF links/Seirogan (Wood Creosote) non-PDF links/Comparison of wood creosote, the principal active ingredient of Seirogan, an herbal antidiarrheal medication, and loperamide in adults with acute nonspecific diarrhea - 2004.md",
@@ -223,9 +227,7 @@
     "PDFs/Seirogan (Wood Creosote) PDFs/(PDF) Effect of the smell of Seirogan, a wood creosote, on dermal and intestinal mucosal immunity and allergic inflammation - 2012.md",
     "PDFs/Seirogan (Wood Creosote) PDFs/Stephen Skolnick - So you have to take antibiotics. How do you repair your microbiome - 2023.pdf",
     "Microbiome.md",
-    "PDFs/Microbiome PDFs/The person-to-person transmission landscape of the gut and oral microbiomes - 2023 - s41586-022-05620-1.pdf",
     "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md",
-    "Glutamine.md",
     "PDFs/Tiger Milk Mushroom PDFs/(PDF) Lignosus rhinocerus (Cooke) Ryvarden - A Medicinal Mushroom That Stimulates Neurite Outgrowth in PC-12 Cells - 2012.md",
     "PDFs/Tiger Milk Mushroom PDFs/(PDF) The Antiproliferative Activity of Sclerotia of Lignosus rhinocerus (Tiger Milk Mushroom) - 2012.md",
     "PDFs/Tiger Milk Mushroom PDFs/(PDF) Preclinical toxicological evaluations of the sclerotium of Lignosus rhinocerus (Cooke), the Tiger Milk mushroom - 2013.md",
@@ -239,7 +241,6 @@
     "Non-PDF links/Tiger Milk Mushroom non-PDF links/The Immunomodulating Properties of Tiger Milk Medicinal Mushroom, Lignosus rhinocerus TM02® Cultivar (Agaricomycetes) and Its Associated Carbohydrate Composition - 2020.md",
     "Non-PDF links/Tiger Milk Mushroom non-PDF links/Longitudinal Assessment of the Tiger Milk Medicinal Mushroom, Lignosus rhinocerus (Agaricomycetes), Sclerotium Cultivar - Uniformity of Bioactive Components  - 2021.md",
     "PDFs/Tiger Milk Mushroom PDFs/(PDF) Effect of tiger milk mushroom (Lignosus rhinocerus) supplementation on respiratory health, immunity and antioxidant status - an open-label prospective study - 2021.md",
-    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Extracts of the Tiger Milk Mushroom Enhance Stress Resistance and Extend Lifespan in Caenorhabditis elegans via the DAF-16 - FoxO Signaling Pathway - 2021.md",
     "Untitled.canvas"
   ]
 }
