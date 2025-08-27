@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Vitamin D.md",
+                    "file": "Creatine.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Vitamin D"
+                  "title": "Creatine"
                 },
                 "group": "98353c7bbdc6f3dc"
               }
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Vitamin D.md",
+                    "file": "Creatine.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Vitamin D"
+                  "title": "Backlinks for Creatine"
                 },
                 "group": "98353c7bbdc6f3dc"
               }
@@ -205,27 +205,31 @@
   },
   "active": "7a52dd42a7da8e1c",
   "lastOpenFiles": [
-    "PDFs/Chris Masterjohn - Your Cells Are Starving for Creatine - 2024.pdf",
-    "PDFs/Chris Masterjohn - Your Cells Are Starving for Creatine.pdf",
+    "PDFs/Creatine PDFs/Prophylactic Creatine Administration Mediates Neuroprotection in Cerebral Ischemia in Mice - 2024 - 5909.full.pdf",
+    "PDFs/Creatine PDFs/Creatine Supplementation and Brain Health - 2021 - nutrients-13-00586.pdf",
+    "PDFs/Creatine PDFs/Creatine supplementation and muscle-brain axis_ a new possible mechanism - 2025 - fnut-1-1579204.pdf",
+    "PDFs/Creatine PDFs/Effects of creatine supplementation on cognitive function of healthy individuals_ A systematic review of randomized controlled trials - 2019 - nihms-983799.pdf",
+    "Nicotinic Acid (niacin).md",
+    "Creatine.md",
+    "PDFs/Creatine PDFs/Potential of Creatine in Glucose Management and Diabetes - 2021 - nutrients-13-00570.pdf",
+    "PDFs/Creatine PDFs/Effects of six-month creatine supplementation on patient- and clinician-reported outcomes, and tissue creatine levels in patients with post-COVID-19 fatigue syndrome  - 2023 - FSN3-11-6899.pdf",
+    "PDFs/Creatine PDFs/Eight-Week Creatine-Glucose Supplementation Alleviates Clinical Features of Long COVID - 2024 - 70_174.pdf",
+    "PDFs/Creatine PDFs/It Is Not Just About Storing Energy_ The Multifaceted Role of Creatine Metabolism on Cancer Biology and Immunology - 2024 - ijms-25-13273.pdf",
+    "PDFs/Creatine PDFs/Creatine in Health and Disease - 2021 - nutrients-13-00447.pdf",
+    "Folic Acid.md",
+    "PDFs/Creatine PDFs/Creatine promotes cancer metastasis through activation of Smad2_3 - 2021 - PIIS1550413121001169.pdf",
+    "PDFs/Creatine PDFs/Creatine supplementation enhances anti-tumor immunity by promoting adenosine triphosphate production in macrophages - 2023 - fimmu-14-1176956.pdf",
+    "COVID.md",
+    "Vitamin D.md",
     "Glutamine.md",
     "Seirogan.md",
     "Non-PDF links/Seirogan (Wood Creosote) non-PDF links/Wood creosote, the principal active ingredient of seirogan, an herbal antidiarrheal medicine - a single-dose, dose-escalation safety and pharmacokinetic study - 2003.md",
-    "Nicotinic Acid (niacin).md",
     "Non-PDF links/Seirogan (Wood Creosote) non-PDF links/Multiple-dose escalation, safety, and tolerability study of wood creosote, the principal active ingredient of seirogan, an herbal antidiarrheal medication, in healthy subjects - 2003.md",
     "Non-PDF links/Seirogan (Wood Creosote) non-PDF links/Comparison of wood creosote, the principal active ingredient of Seirogan, an herbal antidiarrheal medication, and loperamide in adults with acute nonspecific diarrhea - 2004.md",
-    "PDFs/Seirogan (Wood Creosote) PDFs/Lack of oncogenicity of wood creosote, the principal active ingredient of Seirogan, an herbal antidiarrheal medication, in Sprague-Dawley rats - 2001.pdf",
     "PDFs/Seirogan (Wood Creosote) PDFs/(PDF) Lack of oncogenicity of wood creosote, the principal active ingredient of Seirogan, an herbal antidiarrheal medication, in Sprague-Dawley rats - 2001.md",
-    "PDFs/Seirogan (Wood Creosote) PDFs/Absence of bactericidal activity of orally administered wood creosote on human intestinal bacterial flora - 2018 - IMM-5-321.pdf",
-    "PDFs/Seirogan (Wood Creosote) PDFs/Unconfirmed 934303.crdownload",
     "Spermidine.md",
-    "PDFs/Seirogan (Wood Creosote) PDFs/Anti-Diarrheal Effects of Wood Creosote, Seirogan, in Japanese Patients - 2019 - 0b6e8e3e2f3cbb1ee5f6cf565db9b258fa80.pdf",
-    "PDFs/Seirogan (Wood Creosote) PDFs/Unconfirmed 149108.crdownload",
-    "PDFs/Seirogan (Wood Creosote) PDFs/New views on antidiarrheal effect of wood creosote: is wood creosote really a gastrointestinal antiseptic? - 2005 - 125_937.pdf",
     "Non-PDF links/Seirogan (Wood Creosote) non-PDF links/New views on antidiarrheal effect of wood creosote - is wood creosote really a gastrointestinal antiseptic - 2005.md",
-    "PDFs/Seirogan (Wood Creosote) PDFs/Unconfirmed 844096.crdownload",
-    "PDFs/Seirogan (Wood Creosote) PDFs/Effect of the smell of Seirogan, a wood creosote, on dermal and intestinal mucosal immunity and allergic inflammation - 2012 - jcbn-51-91.pdf",
     "PDFs/Seirogan (Wood Creosote) PDFs/(PDF) Effect of the smell of Seirogan, a wood creosote, on dermal and intestinal mucosal immunity and allergic inflammation - 2012.md",
-    "PDFs/Seirogan (Wood Creosote) PDFs/Stephen Skolnick - So you have to take antibiotics. How do you repair your microbiome - 2023.pdf",
     "Microbiome.md",
     "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md",
     "PDFs/Tiger Milk Mushroom PDFs/(PDF) Lignosus rhinocerus (Cooke) Ryvarden - A Medicinal Mushroom That Stimulates Neurite Outgrowth in PC-12 Cells - 2012.md",
@@ -237,10 +241,6 @@
     "PDFs/Tiger Milk Mushroom PDFs/(PDF) Lignosus rhinocerotis (Cooke) Ryvarden mimics the neuritogenic activity of nerve growth factor via MEK-ERK1-2 signaling pathway in PC-12 cells - 2015.md",
     "PDFs/Tiger Milk Mushroom PDFs/(PDF) Phytochemical profiles and inhibitory effects of Tiger Milk mushroom (Lignosus rhinocerus) extract on ovalbumin-induced airway inflammation in a rodent model of asthma - 2016.md",
     "PDFs/Tiger Milk Mushroom PDFs/(PDF) Sub-Acute Toxicity Study of Tiger Milk Mushroom Lignosus tigris Chon S. Tan Cultivar E Sclerotium in Sprague Dawley Rats - 2016.md",
-    "PDFs/Tiger Milk Mushroom PDFs/(PDF) A Status Review of the Bioactive Activities of Tiger Milk Mushroom Lignosus rhinocerotis (Cooke) Ryvarden - 2017.md",
-    "Non-PDF links/Tiger Milk Mushroom non-PDF links/The Immunomodulating Properties of Tiger Milk Medicinal Mushroom, Lignosus rhinocerus TM02® Cultivar (Agaricomycetes) and Its Associated Carbohydrate Composition - 2020.md",
-    "Non-PDF links/Tiger Milk Mushroom non-PDF links/Longitudinal Assessment of the Tiger Milk Medicinal Mushroom, Lignosus rhinocerus (Agaricomycetes), Sclerotium Cultivar - Uniformity of Bioactive Components  - 2021.md",
-    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Effect of tiger milk mushroom (Lignosus rhinocerus) supplementation on respiratory health, immunity and antioxidant status - an open-label prospective study - 2021.md",
     "Untitled.canvas"
   ]
 }
