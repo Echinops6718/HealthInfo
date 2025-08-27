@@ -10,7 +10,7 @@
           {
             "id": "53291e8c9f32fff6",
             "type": "tabs",
-            "dimension": 78.94265232974911,
+            "dimension": 63.61136571952337,
             "children": [
               {
                 "id": "7a52dd42a7da8e1c",
@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Creatine.md",
+                    "file": "Taurine.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Creatine"
+                  "title": "Taurine"
                 },
                 "group": "98353c7bbdc6f3dc"
               }
@@ -32,7 +32,7 @@
           {
             "id": "b825010ecba473ae",
             "type": "tabs",
-            "dimension": 21.0573476702509,
+            "dimension": 36.38863428047663,
             "children": [
               {
                 "id": "e6ec04860d94f4b7",
@@ -40,17 +40,17 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Creatine.md",
+                    "file": "Taurine.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
                     "showSearch": false,
                     "searchQuery": "",
                     "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
+                    "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Creatine"
+                  "title": "Backlinks for Taurine"
                 },
                 "group": "98353c7bbdc6f3dc"
               }
@@ -205,42 +205,41 @@
   },
   "active": "7a52dd42a7da8e1c",
   "lastOpenFiles": [
-    "PDFs/Creatine PDFs/Prophylactic Creatine Administration Mediates Neuroprotection in Cerebral Ischemia in Mice - 2024 - 5909.full.pdf",
-    "PDFs/Creatine PDFs/Creatine Supplementation and Brain Health - 2021 - nutrients-13-00586.pdf",
-    "PDFs/Creatine PDFs/Creatine supplementation and muscle-brain axis_ a new possible mechanism - 2025 - fnut-1-1579204.pdf",
-    "PDFs/Creatine PDFs/Effects of creatine supplementation on cognitive function of healthy individuals_ A systematic review of randomized controlled trials - 2019 - nihms-983799.pdf",
-    "Nicotinic Acid (niacin).md",
-    "Creatine.md",
-    "PDFs/Creatine PDFs/Potential of Creatine in Glucose Management and Diabetes - 2021 - nutrients-13-00570.pdf",
-    "PDFs/Creatine PDFs/Effects of six-month creatine supplementation on patient- and clinician-reported outcomes, and tissue creatine levels in patients with post-COVID-19 fatigue syndrome  - 2023 - FSN3-11-6899.pdf",
-    "PDFs/Creatine PDFs/Eight-Week Creatine-Glucose Supplementation Alleviates Clinical Features of Long COVID - 2024 - 70_174.pdf",
-    "PDFs/Creatine PDFs/It Is Not Just About Storing Energy_ The Multifaceted Role of Creatine Metabolism on Cancer Biology and Immunology - 2024 - ijms-25-13273.pdf",
-    "PDFs/Creatine PDFs/Creatine in Health and Disease - 2021 - nutrients-13-00447.pdf",
-    "Folic Acid.md",
-    "PDFs/Creatine PDFs/Creatine promotes cancer metastasis through activation of Smad2_3 - 2021 - PIIS1550413121001169.pdf",
-    "PDFs/Creatine PDFs/Creatine supplementation enhances anti-tumor immunity by promoting adenosine triphosphate production in macrophages - 2023 - fimmu-14-1176956.pdf",
-    "COVID.md",
+    "PDFs/Taurine PDFs/Role of taurine in the central nervous system - 2009 - 1423-0127-17-S1-S1.pdf",
+    "PDFs/Taurine PDFs/(PDF) Role of taurine in the central nervous system - 2009.md",
+    "Taurine.md",
+    "PDFs/Taurine PDFs/Increased Glutamate and Homocysteine and Decreased Glutamine Levels in Autism - A Review and Strategies for FutureStudies of Amino Acids in Autism - 2013 - 536521.pdf",
+    "PDFs/Taurine PDFs/(PDF) Increased Glutamate and Homocysteine and Decreased Glutamine Levels in Autism - A Review and Strategies for FutureStudies of Amino Acids in Autism - 2013.md",
+    "PDFs/Taurine PDFs/Taurine and inflammatory diseases - 2014 - 726_2012_Article_1361.pdf",
+    "PDFs/Taurine PDFs/(PDF) Taurine and inflammatory diseases - 2014.md",
+    "Non-PDF links/Spermidine, an autophagy inducer, as a therapeutic strategy in neurological disorders - 2020.md",
+    "Non-PDF links/Taurine - The comeback of a neutraceutical in the prevention of retinal degenerations - 2014.md",
+    "PDFs/Taurine PDFs/Taurine - The comeback of a neutraceutical in the prevention of retinal degenerations - 2014.pdf",
+    "PDFs/Taurine PDFs/Unconfirmed 594621.crdownload",
+    "PDFs/Taurine PDFs/Metabolomics-based discovery of a metabolite that enhances oligodendrocyte maturation - 2018 -  nihms961249.pdf",
+    "PDFs/Taurine PDFs/(PDF) Metabolomics-based discovery of a metabolite that enhances oligodendrocyte maturation - 2018.md",
     "Vitamin D.md",
+    "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md",
+    "PDFs/Taurine PDFs/Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020 - nutrients-12-03158.pdf",
+    "PDFs/Vitamin D PDFs/Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020 - nutrients-12-03158.pdf",
+    "Nicotinic Acid (niacin).md",
+    "PDFs/Niacin PDFs/Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020 - nutrients-12-03158 1.pdf",
+    "PDFs/Palmitoylethanolamide PDFs/Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020 - nutrients-12-03158 1.pdf",
+    "PDFs/Vitamin D PDFs/(PDF) Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020.md",
+    "PDFs/Vitamin D PDFs/(PDF) The Big Vitamin D Mistake - 2017.md",
+    "Palmitoylethanolamide.md",
+    "Non-PDF links/Taurine non-PDF links/The Disease-Modifying Role of Taurine and Its Therapeutic Potential in Coronavirus Disease 2019 (COVID-19) - 2022.md",
+    "The Disease-Modifying Role of Taurine and Its Therapeutic Potential in Coronavirus Disease 2019 (COVID-19) - 20.md",
+    "PDFs/Taurine PDFs/(PDF) Taurine deficiency as a driver of aging - 2023.md",
+    "Creatine.md",
+    "Folic Acid.md",
+    "COVID.md",
     "Glutamine.md",
     "Seirogan.md",
     "Non-PDF links/Seirogan (Wood Creosote) non-PDF links/Wood creosote, the principal active ingredient of seirogan, an herbal antidiarrheal medicine - a single-dose, dose-escalation safety and pharmacokinetic study - 2003.md",
     "Non-PDF links/Seirogan (Wood Creosote) non-PDF links/Multiple-dose escalation, safety, and tolerability study of wood creosote, the principal active ingredient of seirogan, an herbal antidiarrheal medication, in healthy subjects - 2003.md",
     "Non-PDF links/Seirogan (Wood Creosote) non-PDF links/Comparison of wood creosote, the principal active ingredient of Seirogan, an herbal antidiarrheal medication, and loperamide in adults with acute nonspecific diarrhea - 2004.md",
     "PDFs/Seirogan (Wood Creosote) PDFs/(PDF) Lack of oncogenicity of wood creosote, the principal active ingredient of Seirogan, an herbal antidiarrheal medication, in Sprague-Dawley rats - 2001.md",
-    "Spermidine.md",
-    "Non-PDF links/Seirogan (Wood Creosote) non-PDF links/New views on antidiarrheal effect of wood creosote - is wood creosote really a gastrointestinal antiseptic - 2005.md",
-    "PDFs/Seirogan (Wood Creosote) PDFs/(PDF) Effect of the smell of Seirogan, a wood creosote, on dermal and intestinal mucosal immunity and allergic inflammation - 2012.md",
-    "Microbiome.md",
-    "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md",
-    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Lignosus rhinocerus (Cooke) Ryvarden - A Medicinal Mushroom That Stimulates Neurite Outgrowth in PC-12 Cells - 2012.md",
-    "PDFs/Tiger Milk Mushroom PDFs/(PDF) The Antiproliferative Activity of Sclerotia of Lignosus rhinocerus (Tiger Milk Mushroom) - 2012.md",
-    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Preclinical toxicological evaluations of the sclerotium of Lignosus rhinocerus (Cooke), the Tiger Milk mushroom - 2013.md",
-    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Nutrient composition, antioxidant properties, and anti-proliferative activity of Lignosus rhinocerus Cooke sclerotium - 2013.md",
-    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Anti-inflammatory effect of the sclerotium of Lignosus rhinocerotis (Cooke) Ryvarden, the Tiger Milk mushroom - 2014.md",
-    "PDFs/Tiger Milk Mushroom PDFs/(PDF) The genome of the Tiger Milk mushroom, Lignosus rhinocerotis, provides insights into the genetic basis of its medicinal properties - 2014.md",
-    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Lignosus rhinocerotis (Cooke) Ryvarden mimics the neuritogenic activity of nerve growth factor via MEK-ERK1-2 signaling pathway in PC-12 cells - 2015.md",
-    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Phytochemical profiles and inhibitory effects of Tiger Milk mushroom (Lignosus rhinocerus) extract on ovalbumin-induced airway inflammation in a rodent model of asthma - 2016.md",
-    "PDFs/Tiger Milk Mushroom PDFs/(PDF) Sub-Acute Toxicity Study of Tiger Milk Mushroom Lignosus tigris Chon S. Tan Cultivar E Sclerotium in Sprague Dawley Rats - 2016.md",
     "Untitled.canvas"
   ]
 }
