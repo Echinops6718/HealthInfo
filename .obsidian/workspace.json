@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Palmitoylethanolamide.md",
+                    "file": "Spermidine.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Palmitoylethanolamide"
+                  "title": "Spermidine"
                 },
                 "group": "98353c7bbdc6f3dc"
               }
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Palmitoylethanolamide.md",
+                    "file": "Spermidine.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Palmitoylethanolamide"
+                  "title": "Backlinks for Spermidine"
                 },
                 "group": "98353c7bbdc6f3dc"
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#hepatoprotective",
+                "query": "tag:#supplement",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,42 +205,41 @@
   },
   "active": "7a52dd42a7da8e1c",
   "lastOpenFiles": [
-    "PDFs/Palmitoylethanolamide PDFs/Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020 - nutrients-12-03158.pdf",
-    "Palmitoylethanolamide.md",
-    "PDFs/Palmitoylethanolamide PDFs/Palmitoylethanolamide - A Natural Compound for Health Management - 2021 - ijms-22-05305.pdf",
-    "PDFs/Palmitoylethanolamide PDFs/(PDF) Palmitoylethanolamide - A Natural Compound for Health Management - 2021.md",
-    "PDFs/Palmitoylethanolamide PDFs/Micronized, ultramicronized palmitoylethanolamide (PEA) as natural neuroprotector against COVID-19 inflammation - 2021 - main.pdf",
-    "PDFs/Palmitoylethanolamide PDFs/(PDF) Micronized, ultramicronized palmitoylethanolamide (PEA) as natural neuroprotector against COVID-19 inflammation - 2021.md",
-    "PDFs/Palmitoylethanolamide PDFs/Could Palmitoylethanolamide Be an Effective Treatment for Long-COVID-19 - Hypothesis and Insights in Potential Mechanisms of Action and Clinical Applications - 2022 - icns_19_1-3_19.pdf",
-    "PDFs/Palmitoylethanolamide PDFs/(PDF) Could Palmitoylethanolamide Be an Effective Treatment for Long-COVID-19 - Hypothesis and Insights in Potential Mechanisms of Action and Clinical Applications - 2022.md",
-    "PDFs/Palmitoylethanolamide PDFs/Palmitoylethanolamide Reduces Proinflammatory Markers in Unvaccinated Adults Recently Diagnosed with COVID-19 - A Randomized Controlled Trial - 2022 - main.pdf",
-    "PDFs/Palmitoylethanolamide PDFs/(PDF) Palmitoylethanolamide Reduces Proinflammatory Markers in Unvaccinated Adults Recently Diagnosed with COVID-19 - A Randomized Controlled Trial - 2022.md",
-    "PDFs/Palmitoylethanolamide PDFs/Effects of Ultramicronized Palmitoylethanolamide (um-PEA) in COVID-19 Early Stages - A Case-Control Study - 2022 - pharmaceuticals-15-00253.pdf",
-    "PDFs/Palmitoylethanolamide PDFs/(PDF) Effects of Ultramicronized Palmitoylethanolamide (um-PEA) in COVID-19 Early Stages - A Case-Control Study - 2022.md",
-    "PDFs/Palmitoylethanolamide PDFs/The Use of Palmitoylethanolamide in the Treatment of Long COVID - A Real-Life Retrospective Cohort Study - 2022 - medsci-10-00037.pdf",
-    "PDFs/Palmitoylethanolamide PDFs/(PDF) The Use of Palmitoylethanolamide in the Treatment of Long COVID - A Real-Life Retrospective Cohort Study - 2022.md",
+    "PDFs/Spermidine PDFs/Spermidine delays aging in humans - 2018 - aging-10-101517.pdf",
+    "PDFs/Spermidine PDFs/(PDF) Spermidine delays aging in humans - 2018.md",
     "Spermidine.md",
+    "Nicotinic Acid (niacin).md",
+    "PDFs/Spermidine PDFs/The association of dietary spermidine with all-cause mortality and CVD mortality: The U.S. National Health and Nutrition Examination Survey, 2003 to 2014 - 2022 - fpubh-10-949170.pdf",
+    "PDFs/Spermidine PDFs/Unconfirmed 595273.crdownload",
+    "PDFs/Spermidine PDFs/Spermidine in health and disease - 2018 - science.aan2788.pdf",
+    "PDFs/Spermidine PDFs/Unconfirmed 788734.crdownload",
+    "Palmitoylethanolamide.md",
+    "README.md",
+    "Seirogan.md",
+    "Untitled.base",
+    "PDFs/Spermidine PDFs/The beneficial effects of spermidine via autophagy: a systematic review - 2025 - c96b366a90314885854239981834105a.marked_7l63YHY.pdf",
+    "PDFs/Spermidine PDFs/Unconfirmed 229463.crdownload",
+    "PDFs/Spermidine PDFs/Spermidine: a physiological autophagy inducer acting as an anti-aging vitamin in humans - 2018 - kaup-15-01-1530929.pdf",
+    "PDFs/Spermidine PDFs/Unconfirmed 513850.crdownload",
+    "Non-PDF links/Spermidine, an autophagy inducer, as a therapeutic strategy in neurological disorders - 2020.md",
+    "PDFs/Spermidine PDFs/(PDF) The positive effect of spermidine in older adults suffering from dementia - 2021.md",
+    "PDFs/Spermidine PDFs/(PDF) New Insights into the Roles and Mechanisms of Spermidine in Aging and Age-Related Diseases - 2021.md",
+    "PDFs/Palmitoylethanolamide PDFs/(PDF) Palmitoylethanolamide - A Natural Compound for Health Management - 2021.md",
+    "PDFs/Palmitoylethanolamide PDFs/(PDF) Micronized, ultramicronized palmitoylethanolamide (PEA) as natural neuroprotector against COVID-19 inflammation - 2021.md",
+    "PDFs/Palmitoylethanolamide PDFs/(PDF) Could Palmitoylethanolamide Be an Effective Treatment for Long-COVID-19 - Hypothesis and Insights in Potential Mechanisms of Action and Clinical Applications - 2022.md",
+    "PDFs/Palmitoylethanolamide PDFs/(PDF) Palmitoylethanolamide Reduces Proinflammatory Markers in Unvaccinated Adults Recently Diagnosed with COVID-19 - A Randomized Controlled Trial - 2022.md",
+    "PDFs/Palmitoylethanolamide PDFs/(PDF) Effects of Ultramicronized Palmitoylethanolamide (um-PEA) in COVID-19 Early Stages - A Case-Control Study - 2022.md",
+    "PDFs/Palmitoylethanolamide PDFs/(PDF) The Use of Palmitoylethanolamide in the Treatment of Long COVID - A Real-Life Retrospective Cohort Study - 2022.md",
     "Vitamin D.md",
     "PDFs/Vitamin D PDFs/(PDF) The Big Vitamin D Mistake - 2017.md",
-    "PDFs/Vitamin D PDFs/The Big Vitamin D Mistake - 2017 - jpmph-50-4-278.pdf",
-    "PDFs/Vitamin D PDFs/Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020 - nutrients-12-03158.pdf",
-    "Nicotinic Acid (niacin).md",
-    "PDFs/Niacin PDFs/Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020 - nutrients-12-03158.pdf",
-    "PDFs/Palmitoylethanolamide PDFs/Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020 - nutrients-12-03158 1.pdf",
     "Taurine.md",
     "PDFs/Taurine PDFs/(PDF) Role of taurine in the central nervous system - 2009.md",
     "PDFs/Taurine PDFs/(PDF) Increased Glutamate and Homocysteine and Decreased Glutamine Levels in Autism - A Review and Strategies for FutureStudies of Amino Acids in Autism - 2013.md",
     "PDFs/Taurine PDFs/(PDF) Taurine and inflammatory diseases - 2014.md",
-    "Non-PDF links/Spermidine, an autophagy inducer, as a therapeutic strategy in neurological disorders - 2020.md",
     "Non-PDF links/Taurine - The comeback of a neutraceutical in the prevention of retinal degenerations - 2014.md",
     "PDFs/Taurine PDFs/(PDF) Metabolomics-based discovery of a metabolite that enhances oligodendrocyte maturation - 2018.md",
     "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md",
     "PDFs/Vitamin D PDFs/(PDF) Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020.md",
-    "Non-PDF links/Taurine non-PDF links/The Disease-Modifying Role of Taurine and Its Therapeutic Potential in Coronavirus Disease 2019 (COVID-19) - 2022.md",
-    "The Disease-Modifying Role of Taurine and Its Therapeutic Potential in Coronavirus Disease 2019 (COVID-19) - 20.md",
-    "PDFs/Taurine PDFs/(PDF) Taurine deficiency as a driver of aging - 2023.md",
-    "Creatine.md",
-    "Folic Acid.md",
     "Untitled.canvas"
   ]
 }
