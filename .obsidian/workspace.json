@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Glutamine.md",
+                    "file": "Folic Acid.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Glutamine"
+                  "title": "Folic Acid"
                 },
                 "group": "98353c7bbdc6f3dc"
               }
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Glutamine.md",
+                    "file": "Folic Acid.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Glutamine"
+                  "title": "Backlinks for Folic Acid"
                 },
                 "group": "98353c7bbdc6f3dc"
               }
@@ -205,10 +205,13 @@
   },
   "active": "7a52dd42a7da8e1c",
   "lastOpenFiles": [
+    "PDFs/Folic Acid PDFs/Folic Acid Supplementation and the Risk of Cardiovascular Diseases_ A Meta‐Analysis of Randomized Controlled Trials - 2016.pdf",
+    "PDFs/Folic Acid PDFs/The effect of folic acid in patients with cardiovascular disease - 2019 - medi-98-e17095.pdf",
+    "PDFs/Folic Acid PDFs/Unconfirmed 692816.crdownload",
+    "Glutamine.md",
     "PDFs/Glutamine PDFs/Glutamine and cancer - cell biology, physiology, and clinical opportunities - 2013 - JCI69600.pdf",
     "PDFs/Glutamine PDFs/(PDF) Dietary glutamine, glutamate and mortality - two large prospective studies in US men and women - 2017.md",
     "PDFs/Glutamine PDFs/(PDF) Glutamine and cancer - cell biology, physiology, and clinical opportunities - 2013.md",
-    "Glutamine.md",
     "PDFs/Glutamine PDFs/Glutamine Metabolism in Cancer - Understanding the Heterogeneity - 2017 - nihms853057.pdf",
     "PDFs/Glutamine PDFs/(PDF) Glutamine Metabolism in Cancer - Understanding the Heterogeneity - 2017.md",
     "PDFs/Glutamine PDFs/Starve Cancer Cells of Glutamine - Break the Spell or Make a Hungry Monster  - 2019 - cancers-11-00804.pdf",
@@ -222,8 +225,6 @@
     "PDFs/Folic Acid PDFs/Dose-response association between dietary folate and niacin intakes with diabetes among Chinese adults - a cross-sectional study - 2023 - s41043-023-00362-w-1.pdf",
     "Folic Acid.md",
     "PDFs/Folic Acid PDFs/(PDF) Dietary glutamine, glutamate and mortality - two large prospective studies in US men and women - 2017 - dyx234.pdf",
-    "PDFs/Glutamine PDFs/Dietary glutamine, glutamate and mortality - two large prospective studies in US men and women - 2017 - dyx234.pdf",
-    "PDFs/Glutamine PDFs/Circulating Glutamine and Alzheimer’s Disease - A Mendelian Randomization Study - 2020.pdf",
     "PDFs/Glutamine PDFs/(PDF) Circulating Glutamine and Alzheimer’s Disease - A Mendelian Randomization Study - 2020.md",
     "PDFs/Glutamine PDFs/(PDF) A Study on Acetylglutamine Pharmacokinetics in Rat Blood and Brain Based on Liquid Chromatography-Tandem Mass Spectrometry and Microdialysis Technique - 2020.md",
     "PDFs/Glutamine PDFs/(PDF) Acetylglutamine facilitates motor recovery after brachial plexus root avulsion in ratsby promoting motoneuronal survival and axonal remyelination - 2023.md",

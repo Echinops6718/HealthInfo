@@ -40,6 +40,9 @@ Full PDF: [[Effects of Folic Acid Supplementation on Oxidative Stress Markers - 
 https://onlinelibrary.wiley.com/doi/10.1111/jcpe.13276
 Full PDF: [[The effect of the systemic folic acid intake as an adjunct to scaling and root planing on clinical parameters and homocysteine, C‐reactive protein levels in gingival crevicular fluid of periodontitis patients - 2020.pdf]]
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6750242/
+Full PDF: [[The effect of folic acid in patients with cardiovascular disease - 2019 - medi-98-e17095.pdf]]
+
 Folic acid improves abnormal behavior via mitigation of oxidative stress, inflammation, and ferroptosis in the BTBR T+ tf J mouse model of autism - 2019 - External links:
 1. https://pubmed.ncbi.nlm.nih.gov/31323609/
 2. https://www.sciencedirect.com/science/article/pii/S0955286318309343
@@ -58,6 +61,9 @@ Full PDF: [[The Benefits of Administering Folic Acid in Order to Combat the Oxid
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6860232/
 Full PDF: [[The role of folate in malaria – implications for home fortification programmes among children aged 6–59 months - 2016 - MCN-11-1.pdf]]
+
+https://www.ahajournals.org/doi/full/10.1161/JAHA.116.003768
+Full PDF: [[Folic Acid Supplementation and the Risk of Cardiovascular Diseases_ A Meta‐Analysis of Randomized Controlled Trials - 2016.pdf]]
 
 https://www.termedia.pl/Original-paper-Effects-of-folic-acid-on-dyslipidemia-and-serum-homocysteine-in-a-rat-model-of-cholestasis-and-hepatic-fibrosis,55,25043,1,1.html
 Full PDF: [[Effects of folic acid on dyslipidemia and serum homocysteine in a rat model of cholestasis and hepatic fibrosis - 2015 - PJP_Art_25043-10.pdf]]
