@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Nicotinic Acid (niacin).md",
+                    "file": "Vitamin D.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Nicotinic Acid (niacin)"
+                  "title": "Vitamin D"
                 },
                 "group": "98353c7bbdc6f3dc"
               }
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Nicotinic Acid (niacin).md",
+                    "file": "Vitamin D.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Nicotinic Acid (niacin)"
+                  "title": "Backlinks for Vitamin D"
                 },
                 "group": "98353c7bbdc6f3dc"
               }
@@ -205,10 +205,12 @@
   },
   "active": "7a52dd42a7da8e1c",
   "lastOpenFiles": [
-    "PDFs/Niacin PDFs/Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020 - nutrients-12-03158.pdf",
-    "Nicotinic Acid (niacin).md",
-    "PDFs/Vitamin D PDFs/Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020 - nutrients-12-03158.pdf",
+    "PDFs/Vitamin D PDFs/(PDF) The Big Vitamin D Mistake - 2017.md",
+    "PDFs/Vitamin D PDFs/The Big Vitamin D Mistake - 2017 - jpmph-50-4-278.pdf",
     "Vitamin D.md",
+    "PDFs/Vitamin D PDFs/Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020 - nutrients-12-03158.pdf",
+    "Nicotinic Acid (niacin).md",
+    "PDFs/Niacin PDFs/Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020 - nutrients-12-03158.pdf",
     "PDFs/Palmitoylethanolamide PDFs/Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020 - nutrients-12-03158 1.pdf",
     "PDFs/Palmitoylethanolamide PDFs/Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020 - nutrients-12-03158.pdf",
     "Palmitoylethanolamide.md",
@@ -223,11 +225,9 @@
     "Non-PDF links/Taurine - The comeback of a neutraceutical in the prevention of retinal degenerations - 2014.md",
     "PDFs/Taurine PDFs/Taurine - The comeback of a neutraceutical in the prevention of retinal degenerations - 2014.pdf",
     "PDFs/Taurine PDFs/Unconfirmed 594621.crdownload",
-    "PDFs/Taurine PDFs/Metabolomics-based discovery of a metabolite that enhances oligodendrocyte maturation - 2018 -  nihms961249.pdf",
     "PDFs/Taurine PDFs/(PDF) Metabolomics-based discovery of a metabolite that enhances oligodendrocyte maturation - 2018.md",
     "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md",
     "PDFs/Vitamin D PDFs/(PDF) Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020.md",
-    "PDFs/Vitamin D PDFs/(PDF) The Big Vitamin D Mistake - 2017.md",
     "Non-PDF links/Taurine non-PDF links/The Disease-Modifying Role of Taurine and Its Therapeutic Potential in Coronavirus Disease 2019 (COVID-19) - 2022.md",
     "The Disease-Modifying Role of Taurine and Its Therapeutic Potential in Coronavirus Disease 2019 (COVID-19) - 20.md",
     "PDFs/Taurine PDFs/(PDF) Taurine deficiency as a driver of aging - 2023.md",
