@@ -65,7 +65,7 @@ https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.120.316784
 Full PDF: [[Niacin Attenuates Pulmonary Hypertension Through H-PGDS in Macrophages - 2020 - jia-et-al.pdf]]
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7602834/
-Full PDF: [[PDFs/Niacin PDFs/Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020 - nutrients-12-03158 1.pdf|Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020 - nutrients-12-03158 1]]
+Full PDF: [[Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020 - nutrients-12-03158.pdf]]
 
 https://link.springer.com/article/10.1007/s00401-020-02129-7
 Full PDF: [[Niacin-mediated rejuvenation of macrophage microglia enhances remyelination of the aging central nervous system - 2020 - s00401-020-02129-7.pdf]]
