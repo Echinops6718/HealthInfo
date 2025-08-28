@@ -70,4 +70,4 @@ Full PDF: [[Effect of folic acid supplementation on genomic DNA methylation in p
 Folic acid supplementation may increase diabetes risk, though concurrently taking it with [[Nicotinic Acid (niacin)]] significantly reduces that risk:
 
 https://jhpn.biomedcentral.com/articles/10.1186/s41043-023-00362-w
-Full PDF: [[(PDF) Dose-response association between dietary folate and niacin intakes with diabetes among Chinese adults - a cross-sectional study - 2023 - s41043-023-00362-w-1.pdf]]
+Full PDF: [[Dose-response association between dietary folate and niacin intakes with diabetes among Chinese adults - a cross-sectional study - 2023 - s41043-023-00362-w-1.pdf]]
