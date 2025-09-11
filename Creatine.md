@@ -29,6 +29,9 @@ Full PDF: [[Eight-Week Creatine-Glucose Supplementation Alleviates Clinical Feat
 https://www.mdpi.com/1422-0067/25/24/13273
 Full PDF: [[It Is Not Just About Storing Energy_ The Multifaceted Role of Creatine Metabolism on Cancer Biology and Immunology - 2024 - ijms-25-13273.pdf]]
 
+https://www.nature.com/articles/s41598-024-54249-9
+Full PDF: [[Single dose creatine improves cognitive performance and induces changes in cerebral high energy phosphates during sleep deprivation - 2024 - s41598-024-54249-9.pdf]]
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC10471797/
 Full PDF: [[Creatine supplementation enhances anti-tumor immunity by promoting adenosine triphosphate production in macrophages - 2023 - fimmu-14-1176956.pdf]]
 
