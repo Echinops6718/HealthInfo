@@ -53,56 +53,90 @@ Should likely be avoided if taking pharmaceutical blood thinners or blood pressu
 
 [[(PDF) Neuroprotective effect of grape seed extract on brain ischemia - a proteomic approach - 2019]]
 
-[[(PDF) Grape seed procyanidin extract against lung cancer - the role of microrna-106b, bioavailability, and bioactivity - 2018]]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5884649/
+Full PDF: [[Grape seed procyanidin extract against lung cancer - the role of microrna-106b, bioavailability, and bioactivity - 2018 - oncotarget-09-15579.pdf]]
 
-[[(PDF) Mast cells and pro-inflammatory cytokines roles in assessment of GSE anti-inflammatory activity in rat model of carrageenan-induced paw edema - 2018]]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5776444/
+Full PDF: [[Mast cells and pro-inflammatory cytokines roles in assessment of grape seeds extract anti-inflammatory activity in rat model of carrageenan-induced paw edema - 2018 - IJBMS-21-97.pdf]]
 
-[[(PDF) Oligomeric proanthocyanidins (OPCs) target cancer stem-like cells and suppress tumor organoid formation in colorectal cancer - 2018]]
+https://www.nature.com/articles/s41598-018-21478-8
+Full PDF: [[Oligomeric proanthocyanidins (OPCs) target cancer stem-like cells and suppress tumor organoid formation in colorectal cancer - 2018 - s41598-018-21478-8.pdf]]
 
-[[(PDF) Molecular characterization of the grape seeds extract’s effect against chemically induced liver cancer - In vivo and in vitro analyses - 2018]]
+https://www.nature.com/articles/s41598-018-19492-x
+Full PDF: [[Molecular characterization of the grape seeds extract’s effect against chemically induced liver cancer - In vivo and in vitro analyses - 2018 - s41598-018-19492-x.pdf]]
 
-[[(PDF) Grape Seed Proanthocyanidin Extract Inhibits Human Esophageal Squamous Cancerous Cell Line ECA109 via the NF- κ B Signaling Pathway - 2018]]
+1. https://pubmed.ncbi.nlm.nih.gov/30647533/
+2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6311955/
+Full PDF: [[Grape Seed Proanthocyanidin Extract Inhibits Human Esophageal Squamous Cancerous Cell Line ECA109 via the NF- κ B Signaling Pathway - 2018 - MI2018-3403972.pdf]]
 
-[[(PDF) Neuroprotective Effects of Grape Seed Procyanidin Extract on Ischemia-Reperfusion Brain Injury - 2017]]
+https://pubmed.ncbi.nlm.nih.gov/28693689/
+Full PDF: [[Neuroprotective Effects of Grape Seed Procyanidin Extract on Ischemia-Reperfusion Brain Injury - 2017 - x025B3.pdf]]
 
-[[(PDF) Grape seed powder improves renal failure of chronic kidney disease patients - 2016]]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5083963/
+Full PDF: [[Grape seed powder improves renal failure of chronic kidney disease patients - 2016 - EXCLI-15-424.pdf]]
 
-[[(PDF) Effects of Polyphenols from Grape Seeds on Renal Lithiasis - 2015]]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4389982/
+Full PDF: [[Effects of Polyphenols from Grape Seeds on Renal Lithiasis - 2015 - OMCL2015-813737.pdf]]
 
-[[(PDF) The Topical Effect of Grape Seed Extract 2% Cream on Surgery Wound Healing - 2015]]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4802053/
+Full PDF: [[The Topical Effect of Grape Seed Extract 2% Cream on Surgery Wound Healing - 2015 - GJHS-7-52.pdf]]
 
-[[(PDF) Protective effect of grape seed and skin extract on cerebral ischemia in rat - implication of transition metals - 2015]]
+https://www.academia.edu/en/53752326/Protective_effect_of_grape_seed_and_skin_extract_on_cerebral_ischemia_in_rat_implication_of_transition_metals
+Full PDF: [[Protective effect of grape seed and skin extract on cerebral ischemia in rat - implication of transition metals - 2015 - main.pdf]]
 
-[[(PDF) The Role of Grape Seed Extract in the Treatment of Chemo - Radiotherapy Induced Toxicity - A Systematic Review of Preclinical Studies - 2015]]
+1. https://pubmed.ncbi.nlm.nih.gov/25880972/
+2. https://www.tandfonline.com/doi/full/10.1080/01635581.2015.1029639
+Full PDF: [[The Role of Grape Seed Extract in the Treatment of Chemo - Radiotherapy Induced Toxicity - A Systematic Review of Preclinical Studies - 2015 - main.pdf]]
 
-[[(PDF) GSE Dose-Responsively Decreases Disease Severity in a Rat Model of Mucositis; Concomitantly Enhancing Chemotherapeutic Effectiveness in Colon Cancer Cells - 2014]]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3897410/
+Full PDF: [[Grape Seed Extract Dose-Responsively Decreases Disease Severity in a Rat Model of Mucositis - Concomitantly Enhancing Chemotherapeutic Effectiveness in Colon Cancer Cells - 2014 - pone.0085184.pdf]]
 
-[[(PDF) Evaluation of Anti-Candida Activity of Vitis vinifera L. Seed Extracts Obtained from Wine and Table Cultivars - 2014]]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4017847/
+Full PDF: [[Evaluation of Anti-Candida Activity of Vitis vinifera L. Seed Extracts Obtained from Wine and Table Cultivars - 2014 - BMRI2014-127021.pdf]]
 
-[[(PDF) Grape seed extract for reduction of renal disturbances following reperfusion in rats - 2013]]
+https://pubmed.ncbi.nlm.nih.gov/23314139/
+Full PDF: [[Grape seed extract for reduction of renal disturbances following reperfusion in rats - 2013 - 822-4485-1-PB.pdf]]
 
-[[(PDF) GSE Efficacy against Azoxymethane-induced Colon Tumorigenesis in AJ Mice - Interlinking miRNA with Cytokine Signaling and Inflammation - 2013]]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3701740/
+Full PDF: [[Grape Seed Extract Efficacy against Azoxymethane-induced Colon Tumorigenesis in AJ Mice - Interlinking miRNA with Cytokine Signaling and Inflammation - 2013 - nihms-473909.pdf]]
 
-[[(PDF) Differential Effects of Grape Seed Extract against Human Colorectal Cancer Cell Lines - The Intricate Role of Death Receptors and Mitochondria - 2013]]
+1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3622127/
+2. https://www.sciencedaily.com/releases/2013/01/130117105843.htm
+Full PDF: [[Differential Effects of Grape Seed Extract against Human Colorectal Cancer Cell Lines - The Intricate Role of Death Receptors and Mitochondria - 2013 - nihms-431471.pdf]]
 
-[[(PDF) Protective effect of GSE against oxidative stress-induced cell death in a staurosporine-differentiated retinal ganglion cell line - 2012]]
+https://pubmed.ncbi.nlm.nih.gov/22440165/
+Full PDF: [[Protective effect of GSE against oxidative stress-induced cell death in a staurosporine-differentiated retinal ganglion cell line - 2012 - YangHSandLeeBK.pdf]]
 
-[[(PDF) GSE causes irreparable DNA damage leading to G2-M arrest and apoptosis selectively in head and neck squamous cell carcinoma cells - 2012]]
+1. https://pubmed.ncbi.nlm.nih.gov/22266465/
+2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3324440/
+3. https://scitechdaily.com/researchers-use-grape-seed-extract-to-kill-cancer-cells/
+Full PDF: [[Generation of reactive oxygen species by grape seed extract causes irreparable DNA damage leading to G2_M arrest and apoptosis selectively in head and neck squamous cell carcinoma cells - 2012 - bgs019.pdf]]
 
-[[(PDF) Grape seed proanthocyanidin extract ameliorates monosodium iodoacetate-induced osteoarthritis - 2011]]
+https://www.nature.com/articles/emm201164
+Full PDF: [[Grape seed proanthocyanidin extract ameliorates monosodium iodoacetate-induced osteoarthritis - 2011 - emm201164.pdf]]
 
-[[(PDF) Grape seed proanthocyanidin extract protects human lens epithelial cells from oxidative stress via reducing NF-кB and MAPK protein expression - 2011]]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3025097/
+Full PDF: [[Grape seed proanthocyanidin extract protects human lens epithelial cells from oxidative stress via reducing NF-кB and MAPK protein expression - 2011 - mv-v17-210.pdf]]
 
-[[(PDF) Anticancer and Cancer Chemopreventive Potential of Grape Seed Extract and Other Grape-Based Products - 2009]]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2728696/
+Full PDF: [[Anticancer and Cancer Chemopreventive Potential of Grape Seed Extract and Other Grape-Based Products - 2009 - nut1391806S.pdf]]
 
-[[(PDF) Induction of Apoptosis in Human Leukemia Cells by Grape Seed Extract Occurs via Activation of c-Jun NH2-Terminal Kinase - 2009]]
+https://aacrjournals.org/clincancerres/article/15/1/140/73448/Induction-of-Apoptosis-in-Human-Leukemia-Cells-by
+Full PDF: [[Induction of Apoptosis in Human Leukemia Cells by Grape Seed Extract Occurs via Activation of c-Jun NH2-Terminal Kinase - 2009 - 140.pdf]]
 
-[[(PDF) Grape Seed Extract Induces Cell Cycle Arrest and Apoptosis in Human Colon Carcinoma Cells - 2008]]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2597484/
+Full PDF: [[Grape Seed Extract Induces Cell Cycle Arrest and Apoptosis in Human Colon Carcinoma Cells - 2008 - nihms64544.pdf]]
 
-[[(PDF) Grape seed extract inhibits in vitro and in vivo growth of human colorectal carcinoma cells - 2006 - 6194.pdf]]
+https://aacrjournals.org/clincancerres/article/12/20/6194/191679/Grape-Seed-Extract-Inhibits-In-vitro-and-In-vivo
+Full PDF: [[Grape seed extract inhibits in vitro and in vivo growth of human colorectal carcinoma cells - 2006 - 6194.pdf]]
 
-[[(PDF) Ingestion of IH636 grape seed proanthocyanidin extract to prevent selenite-induced oxidative stress in experimental cataract - 2006]]
+1. https://pubmed.ncbi.nlm.nih.gov/16814068/
+2. https://www.academia.edu/22573376/Ingestion_of_IH636_grape_seed_proanthocyanidin_extract_to_prevent_selenite_induced_oxidative_stress_in_experimental_cataract
+Full PDF: [[Ingestion of IH636 grape seed proanthocyanidin extract to prevent selenite-induced oxidative stress in experimental cataract - 2006 - main.pdf]]
 
-[[(PDF) Grape seed extract inhibits advanced human prostate tumor growth and angiogenesis and upregulates insulin-like growth factor binding protein-3 - 2004]]
+https://onlinelibrary.wiley.com/doi/10.1002/ijc.11620
+Full PDF: [[Grape seed extract inhibits advanced human prostate tumor growth and angiogenesis and upregulates insulin-like growth factor binding protein-3 - 2004 - IJoC.pdf]]
 
-[[(PDF) Acute and long-term safety evaluation of a novel IH636 grape seed proanthocyanidin extract - 2001]]
+1. https://pubmed.ncbi.nlm.nih.gov/11758648/
+2. https://www.researchgate.net/publication/11598442_Acute_and_long-term_safety_evaluation_of_a_novel_IH636_grape_seed_proanthocyanidin_extract
+Full PDF: [[Acute and long-term safety evaluation of a novel IH636 grape seed proanthocyanidin extract - 2001 - SRay-GSPE-safety-ResCommu.pdf]]

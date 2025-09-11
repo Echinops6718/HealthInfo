@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Creatine.md",
+                    "file": "Grape Seed Extract.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Creatine"
+                  "title": "Grape Seed Extract"
                 },
                 "group": "98353c7bbdc6f3dc"
               }
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Creatine.md",
+                    "file": "Grape Seed Extract.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Creatine"
+                  "title": "Backlinks for Grape Seed Extract"
                 },
                 "group": "98353c7bbdc6f3dc"
               }
@@ -114,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 956.5
+    "width": 892.5
   },
   "right": {
     "id": "a874df288f8a6ab0",
@@ -205,42 +205,41 @@
   },
   "active": "7a52dd42a7da8e1c",
   "lastOpenFiles": [
-    "PDFs/Creatine PDFs/Single dose creatine improves cognitive performance and induces changes in cerebral high energy phosphates during sleep deprivation - 2024 - s41598-024-54249-9.pdf",
+    "PDFs/Grape Seed Extract PDFs/Grape seed procyanidin extract against lung cancer - the role of microrna-106b, bioavailability, and bioactivity - 2018 - oncotarget-09-15579.pdf",
     "Grape Seed Extract.md",
-    "Glutamine.md",
-    "Creatine.md",
-    "PDFs/Creatine PDFs/Effects of Creatine Supplementation on Brain Function and Health - 2022 - nutrients-14-00921.pdf",
-    "L-Lysine.md",
-    "Folic Acid.md",
-    "PDFs/Folic Acid PDFs/Folic Acid Supplementation and the Risk of Cardiovascular Diseases_ A Meta‐Analysis of Randomized Controlled Trials - 2016.pdf",
-    "PDFs/Folic Acid PDFs/The effect of folic acid in patients with cardiovascular disease - 2019 - medi-98-e17095.pdf",
-    "PDFs/Folic Acid PDFs/Unconfirmed 692816.crdownload",
-    "PDFs/Glutamine PDFs/Glutamine and cancer - cell biology, physiology, and clinical opportunities - 2013 - JCI69600.pdf",
-    "PDFs/Glutamine PDFs/(PDF) Dietary glutamine, glutamate and mortality - two large prospective studies in US men and women - 2017.md",
-    "PDFs/Glutamine PDFs/(PDF) Glutamine and cancer - cell biology, physiology, and clinical opportunities - 2013.md",
-    "PDFs/Glutamine PDFs/Glutamine Metabolism in Cancer - Understanding the Heterogeneity - 2017 - nihms853057.pdf",
-    "PDFs/Glutamine PDFs/(PDF) Glutamine Metabolism in Cancer - Understanding the Heterogeneity - 2017.md",
-    "PDFs/Glutamine PDFs/Starve Cancer Cells of Glutamine - Break the Spell or Make a Hungry Monster  - 2019 - cancers-11-00804.pdf",
-    "PDFs/Glutamine PDFs/(PDF) Starve Cancer Cells of Glutamine - Break the Spell or Make a Hungry Monster  - 2019.md",
-    "PDFs/Glutamine PDFs/Dietary glutamine supplementation suppresses epigenetically-activated oncogenic pathways to inhibit melanoma tumour growth - 2020 - s41467-020-17181-w.pdf",
-    "PDFs/Glutamine PDFs/(PDF) Dietary glutamine supplementation suppresses epigenetically-activated oncogenic pathways to inhibit melanoma tumour growth - 2020.md",
-    "PDFs/Glutamine PDFs/Metabolic effects of glutamine on the heart. Anaplerosis versus the hexosamine biosynthetic pathway - 2012 - nihms702398.pdf",
-    "PDFs/Glutamine PDFs/(PDF) Metabolic effects of glutamine on the heart. Anaplerosis versus the hexosamine biosynthetic pathway - 2012.md",
-    "PDFs/Glutamine PDFs/Increased Glutamate and Homocysteine and Decreased Glutamine Levels in Autism - A Review and Strategies for Future Studies of Amino Acids in Autism - 2013 - 536521.pdf",
-    "PDFs/Glutamine PDFs/(PDF) Increased Glutamate and Homocysteine and Decreased Glutamine Levels in Autism - A Review and Strategies for Future Studies of Amino Acids in Autism - 2013.md",
-    "PDFs/Glutamine PDFs/(PDF) Circulating Glutamine and Alzheimer’s Disease - A Mendelian Randomization Study - 2020.md",
-    "PDFs/Glutamine PDFs/(PDF) A Study on Acetylglutamine Pharmacokinetics in Rat Blood and Brain Based on Liquid Chromatography-Tandem Mass Spectrometry and Microdialysis Technique - 2020.md",
-    "PDFs/Glutamine PDFs/(PDF) Acetylglutamine facilitates motor recovery after brachial plexus root avulsion in ratsby promoting motoneuronal survival and axonal remyelination - 2023.md",
-    "PDFs/Glutamine PDFs/(PDF) Glutamine Deficiency Promotes Immune and Endothelial Cell Dysfunction in COVID-19 - 2023.md",
-    "Spermidine.md",
-    "PDFs/Spermidine PDFs/(PDF) Spermidine delays aging in humans - 2018.md",
-    "Nicotinic Acid (niacin).md",
-    "Palmitoylethanolamide.md",
-    "README.md",
-    "Seirogan.md",
-    "Non-PDF links/Spermidine, an autophagy inducer, as a therapeutic strategy in neurological disorders - 2020.md",
-    "PDFs/Spermidine PDFs/(PDF) The positive effect of spermidine in older adults suffering from dementia - 2021.md",
-    "PDFs/Spermidine PDFs/(PDF) New Insights into the Roles and Mechanisms of Spermidine in Aging and Age-Related Diseases - 2021.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed procyanidin extract against lung cancer - the role of microrna-106b, bioavailability, and bioactivity - 2018.md",
+    "PDFs/Grape Seed Extract PDFs/Mast cells and pro-inflammatory cytokines roles in assessment of grape seeds extract anti-inflammatory activity in rat model of carrageenan-induced paw edema - 2018 - IJBMS-21-97.pdf",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Mast cells and pro-inflammatory cytokines roles in assessment of GSE anti-inflammatory activity in rat model of carrageenan-induced paw edema - 2018.md",
+    "PDFs/Grape Seed Extract PDFs/Oligomeric proanthocyanidins (OPCs) target cancer stem-like cells and suppress tumor organoid formation in colorectal cancer - 2018 - s41598-018-21478-8.pdf",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Oligomeric proanthocyanidins (OPCs) target cancer stem-like cells and suppress tumor organoid formation in colorectal cancer - 2018.md",
+    "PDFs/Grape Seed Extract PDFs/Molecular characterization of the grape seeds extract’s effect against chemically induced liver cancer - In vivo and in vitro analyses - 2018 - s41598-018-19492-x.pdf",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Molecular characterization of the grape seeds extract’s effect against chemically induced liver cancer - In vivo and in vitro analyses - 2018.md",
+    "PDFs/Grape Seed Extract PDFs/Grape Seed Proanthocyanidin Extract Inhibits Human Esophageal Squamous Cancerous Cell Line ECA109 via the NF- κ B Signaling Pathway - 2018 - MI2018-3403972.pdf",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Grape Seed Proanthocyanidin Extract Inhibits Human Esophageal Squamous Cancerous Cell Line ECA109 via the NF- κ B Signaling Pathway - 2018.md",
+    "PDFs/Grape Seed Extract PDFs/Neuroprotective Effects of Grape Seed Procyanidin Extract on Ischemia-Reperfusion Brain Injury - 2017 - x025B3.pdf",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Neuroprotective Effects of Grape Seed Procyanidin Extract on Ischemia-Reperfusion Brain Injury - 2017.md",
+    "PDFs/Grape Seed Extract PDFs/Grape seed powder improves renal failure of chronic kidney disease patients - 2016 - EXCLI-15-424.pdf",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed powder improves renal failure of chronic kidney disease patients - 2016.md",
+    "PDFs/Grape Seed Extract PDFs/Effects of Polyphenols from Grape Seeds on Renal Lithiasis - 2015 - OMCL2015-813737.pdf",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Effects of Polyphenols from Grape Seeds on Renal Lithiasis - 2015.md",
+    "PDFs/Grape Seed Extract PDFs/The Topical Effect of Grape Seed Extract 2% Cream on Surgery Wound Healing - 2015 - GJHS-7-52.pdf",
+    "PDFs/Grape Seed Extract PDFs/(PDF) The Topical Effect of Grape Seed Extract 2% Cream on Surgery Wound Healing - 2015.md",
+    "PDFs/Grape Seed Extract PDFs/Protective effect of grape seed and skin extract on cerebral ischemia in rat - implication of transition metals - 2015 - main.pdf",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Protective effect of grape seed and skin extract on cerebral ischemia in rat - implication of transition metals - 2015.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) The Role of Grape Seed Extract in the Treatment of Chemo - Radiotherapy Induced Toxicity - A Systematic Review of Preclinical Studies - 2015.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) GSE Dose-Responsively Decreases Disease Severity in a Rat Model of Mucositis; Concomitantly Enhancing Chemotherapeutic Effectiveness in Colon Cancer Cells - 2014.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Evaluation of Anti-Candida Activity of Vitis vinifera L. Seed Extracts Obtained from Wine and Table Cultivars - 2014.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed extract for reduction of renal disturbances following reperfusion in rats - 2013.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) GSE Efficacy against Azoxymethane-induced Colon Tumorigenesis in AJ Mice - Interlinking miRNA with Cytokine Signaling and Inflammation - 2013.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Differential Effects of Grape Seed Extract against Human Colorectal Cancer Cell Lines - The Intricate Role of Death Receptors and Mitochondria - 2013.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Protective effect of GSE against oxidative stress-induced cell death in a staurosporine-differentiated retinal ganglion cell line - 2012.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) GSE causes irreparable DNA damage leading to G2-M arrest and apoptosis selectively in head and neck squamous cell carcinoma cells - 2012.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed proanthocyanidin extract ameliorates monosodium iodoacetate-induced osteoarthritis - 2011.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed proanthocyanidin extract protects human lens epithelial cells from oxidative stress via reducing NF-кB and MAPK protein expression - 2011.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Anticancer and Cancer Chemopreventive Potential of Grape Seed Extract and Other Grape-Based Products - 2009.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Induction of Apoptosis in Human Leukemia Cells by Grape Seed Extract Occurs via Activation of c-Jun NH2-Terminal Kinase - 2009.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Grape Seed Extract Induces Cell Cycle Arrest and Apoptosis in Human Colon Carcinoma Cells - 2008.md",
+    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed extract inhibits in vitro and in vivo growth of human colorectal carcinoma cells - 2006.md",
     "Untitled.canvas"
   ]
 }
