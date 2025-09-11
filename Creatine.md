@@ -35,6 +35,9 @@ Full PDF: [[Creatine supplementation enhances anti-tumor immunity by promoting a
 https://pmc.ncbi.nlm.nih.gov/articles/PMC10630839/
 Full PDF: [[Effects of six-month creatine supplementation on patient- and clinician-reported outcomes, and tissue creatine levels in patients with post-COVID-19 fatigue syndrome  - 2023 - FSN3-11-6899.pdf]]
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8912287/
+Full PDF: [[Effects of Creatine Supplementation on Brain Function and Health - 2022 - nutrients-14-00921.pdf]]
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC7910963/
 Full PDF: [[Creatine in Health and Disease - 2021 - nutrients-13-00447.pdf]]
 
