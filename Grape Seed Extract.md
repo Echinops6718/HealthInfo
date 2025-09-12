@@ -15,43 +15,67 @@ Should likely be avoided if taking pharmaceutical blood thinners or blood pressu
 
 #accelerate-wound-healing #Alzheimers-protective #anti-aging #anti-cancer #anti-inflammatory #autism-treatment  #cardioprotective #diabetes-protective #hepatoprotective #ionizing-radiation-protective #neuroprotective #renalprotective #retina-protective #skin-protective #supplement 
 
-[[(PDF) The benefits of grape seed extract in neurological disorders and brain aging - 2023]]
+https://pubmed.ncbi.nlm.nih.gov/35343876/
+Full PDF: [[The benefits of grape seed extract in neurological disorders and brain aging - 2023 - main.pdf]]
 
-[[(PDF) The natural tannins oligomeric proanthocyanidins and punicalagin are potent inhibitors of infection by SARS-CoV-2 - 2023]]
+1. https://pubmed.ncbi.nlm.nih.gov/37642993/
+2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10465125/
+Full PDF: [[The natural tannins oligomeric proanthocyanidins and punicalagin are potent inhibitors of infection by SARS-CoV-2 - 2023 - elife-84899.pdf]]
 
-[[(PDF) Antimicrobial efficacy of grape seed extract in terminating the ramifications of plaque microorganisms - 2022]]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9176302/
+Full PDF: [[Antimicrobial efficacy of grape seed extract in terminating the ramifications of plaque microorganisms - a randomized control study - 2022 - cm-95-185.pdf]]
 
-[[(PDF) Antioxidant effect of grape seed extract corrects experimental autoimmune encephalomyelitis behavioral dysfunctions, demyelination, and glial activation - 2022]]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9428676/
+Full PDF: [[Antioxidant effect of grape seed extract corrects experimental autoimmune encephalomyelitis behavioral dysfunctions, demyelination, and glial activation - 2022 - fimmu-13-960355.pdf]]
 
-[[(PDF) Grape seed proanthocyanidin extract inhibits DNA and protein damage and labile iron, enzyme, and cancer cell activities - 2022]]
+1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9300616/
+2. https://www.nature.com/articles/s41598-022-16608-2
+Full PDF: [[Grape seed proanthocyanidin extract inhibits DNA and protein damage and labile iron, enzyme, and cancer cell activities - 2022 - s41598-022-16608-2.pdf]]
 
-[[(PDF) Grape Stem Extracts with Potential Anticancer and Antioxidant Properties - 2021]]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7915920/
+Full PDF: [[Grape Stem Extracts with Potential Anticancer and Antioxidant Properties - 2021 - antioxidants-10-00243.pdf]]
 
-[[(PDF) Grape seed extract alleviates radiation-induced damages in human blood lymphocytes - 2020]]
+1. https://pubmed.ncbi.nlm.nih.gov/32850296/
+2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7430961/
+Full PDF: [[Grape seed extract alleviates radiation-induced damages in human blood lymphocytes - 2020 - AJP-10-398.pdf]]
 
-[[(PDF) GSPE Ameliorates Cardiac Remodelling After Myocardial Infarction Through PI3K AKT Pathway in Mice - 2020]]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7747856/
+Full PDF: [[Grape Seed Proanthocyanidin Extract Ameliorates Cardiac Remodelling After Myocardial Infarction Through PI3K_AKT Pathway in Mice - 2020 - fphar-11-585984.pdf]]
 
-[[(PDF) Preventive and curative effects of grape seed powder on stroke using in vitro and in vivo models of cerebral ischemia reperfusion - 2020]]
+https://www.sciencedirect.com/science/article/pii/S0753332220301815
+Full PDF: [[Preventive and curative effects of grape seed powder on stroke using in vitro and in vivo models of cerebral ischemia reperfusion - 2020 - 1-s2.0-main.pdf]]
 
-[[(PDF) Neuroprotective Effects of Grape Seed Procyanidins on Ethanol-Induced Injury and Oxidative Stress in Rat Hippocampal Neurons - 2020]]
+https://pubmed.ncbi.nlm.nih.gov/32363392/
+Full PDF: [[Neuroprotective Effects of Grape Seed Procyanidins on Ethanol-Induced Injury and Oxidative Stress in Rat Hippocampal Neurons - 2020 - agaa031.pdf]]
 
-[[(PDF) Protective effects of grape seed procyanidin on isoflurane-induced cognitive impairment in mice - 2020]]
+1. https://pubmed.ncbi.nlm.nih.gov/32114864/
+2. https://www.tandfonline.com/doi/full/10.1080/13880209.2020.1730913
+Full PDF: [[Protective effects of grape seed procyanidin on isoflurane-induced cognitive impairment in mice - 2020 - main.pdf]]
 
-[[(PDF) Health Effects of Grape Seed and Skin Extracts and Their Influence on Biochemical Markers - 2020]]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7696942/
+Full PDF: [[Health Effects of Grape Seed and Skin Extracts and Their Influence on Biochemical Markers - 2020 - molecules-25-05311.pdf]]
 
-[[(PDF) Anti-proliferative and anti-apoptotic effects of grape seed extract on chemo-resistant OVCAR-3 ovarian cancer cells - 2020]]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7714018/
+Full PDF: [[Anti-proliferative and anti-apoptotic effects of grape seed extract on chemo-resistant OVCAR-3 ovarian cancer cells - 2020 - RPS-15-390.pdf]]
 
-[[(PDF) Proanthocyanidins in grape seeds - An updated review of their health benefits and potential uses in the food industry - 2020]]
+https://www.sciencedirect.com/science/article/pii/S1756464620300852
+Full PDF: [[Proanthocyanidins in grape seeds - An updated review of their health benefits and potential uses in the food industry - 2020 - 1-s2.0.pdf]]
 
-[[(PDF) Protective Effects of Grape Seed Proanthocyanidins on the Kidneys of Diabetic Rats through the Nrf2 Signalling Pathway - 2020]]
+1. https://pubmed.ncbi.nlm.nih.gov/33062013/
+2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7542509/
+Full PDF: [[Protective Effects of Grape Seed Proanthocyanidins on the Kidneys of Diabetic Rats through the Nrf2 Signalling Pathway - 2020 - ECAM.pdf]]
 
-[[(PDF) Proanthocyanidin-Rich Grape Seed Extract Reduces Inflammation and Oxidative Stress and Restores Tight Junction Barrier Function in Caco-2 Colon Cells - 2020]]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7352846/
+Full PDF: [[Proanthocyanidin-Rich Grape Seed Extract Reduces Inflammation and Oxidative Stress and Restores Tight Junction Barrier Function in Caco-2 Colon Cells - 2020 - nutrients-12-01623.pdf]]
 
-[[(PDF) Proanthocyanidins - A comprehensive review - 2019]]
+https://www.sciencedirect.com/science/article/pii/S0753332219305359
+Full PDF: [[Proanthocyanidins - A comprehensive review - 2019 - 1-s2.0-S0753332219305359-main.pdf]]
 
-[[(PDF) A PILOT STUDY OF A GRAPE SEED PROCYANIDIN EXTRACT FOR LUNG CANCER CHEMOPREVENTION - 2019]]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7990077/
+Full PDF: [[A PILOT STUDY OF A GRAPE SEED PROCYANIDIN EXTRACT FOR LUNG CANCER CHEMOPREVENTION - 2019 - nihms-1530402.pdf]]
 
-[[(PDF) Neuroprotective effect of grape seed extract on brain ischemia - a proteomic approach - 2019]]
+https://pubmed.ncbi.nlm.nih.gov/30796716/
+Full PDF: [[Neuroprotective effect of grape seed extract on brain ischemia - a proteomic approach - 2019 - main.pdf]]
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5884649/
 Full PDF: [[Grape seed procyanidin extract against lung cancer - the role of microrna-106b, bioavailability, and bioactivity - 2018 - oncotarget-09-15579.pdf]]
