@@ -28,4 +28,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8157570/
 Full PDF: [[Palmitoylethanolamide - A Natural Compound for Health Management - 2021 - ijms-22-05305.pdf]]
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7602834/
-Full PDF: [[PDFs/Palmitoylethanolamide PDFs/Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020 - nutrients-12-03158.pdf|Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020 - nutrients-12-03158]]
+Full PDF: [[PDFs/Palmitoylethanolamide PDFs/Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020 - nutrients-12-03158.pdf]]
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3500919/
+Full PDF: [[Therapeutic utility of palmitoylethanolamide in the treatment of neuropathic pain associated with various pathological conditions_ a case series - 2012 - jpr-5-437.pdf]]
