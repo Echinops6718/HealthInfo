@@ -7,6 +7,9 @@ May reduce risk of [[COVID]] induced injuries.
 
 #supplement #anti-inflammatory #glaucoma-protective #retina-protective #neuroprotective 
 
+https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2025.1558196/full
+Full PDF:  [[Anti-neuroinflammatory therapy for non-pulsatile tinnitus in patients with sinus vascular anomalies_ preliminary result on two cases - 2025 - fneur-1-1558196.pdf]]
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9326613/
 Full PDF: [[The Use of Palmitoylethanolamide in the Treatment of Long COVID - A Real-Life Retrospective Cohort Study - 2022 - medsci-10-00037.pdf]]
 
