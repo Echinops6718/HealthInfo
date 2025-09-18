@@ -20,6 +20,9 @@ Full PDF: [[The association between dietary creatine intake and cancer in U.S. a
 2. https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1579204/full
 Full PDF: [[Creatine supplementation and muscle-brain axis_ a new possible mechanism - 2025 - fnut-1-1579204.pdf]]
 
+https://chrismasterjohnphd.substack.com/p/your-cells-are-starving-for-creatine
+Full PDF: [[PDFs/Creatine PDFs/Chris Masterjohn - Your Cells Are Starving for Creatine - 2024.pdf|Chris Masterjohn - Your Cells Are Starving for Creatine - 2024]]
+
 https://www.jneurosci.org/content/24/26/5909
 Full PDF: [[Prophylactic Creatine Administration Mediates Neuroprotection in Cerebral Ischemia in Mice - 2024 - 5909.full.pdf]]
 

@@ -16,14 +16,12 @@
                 "id": "7a52dd42a7da8e1c",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "pdf",
                   "state": {
-                    "file": "Palmitoylethanolamide.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "PDFs/Nutrition PDFs/Chris Masterjohn - Your Cells Are Starving for Creatine - 2024.pdf"
                   },
-                  "icon": "lucide-file",
-                  "title": "Palmitoylethanolamide"
+                  "icon": "lucide-file-text",
+                  "title": "Chris Masterjohn - Your Cells Are Starving for Creatine - 2024"
                 },
                 "group": "98353c7bbdc6f3dc"
               }
@@ -40,7 +38,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Palmitoylethanolamide.md",
+                    "file": "PDFs/Nutrition PDFs/Chris Masterjohn - Your Cells Are Starving for Creatine - 2024.pdf",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +48,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Palmitoylethanolamide"
+                  "title": "Backlinks for Chris Masterjohn - Your Cells Are Starving for Creatine - 2024"
                 },
                 "group": "98353c7bbdc6f3dc"
               }
@@ -205,8 +203,12 @@
   },
   "active": "7a52dd42a7da8e1c",
   "lastOpenFiles": [
-    "PDFs/Palmitoylethanolamide PDFs/Anti-neuroinflammatory therapy for non-pulsatile tinnitus in patients with sinus vascular anomalies_ preliminary result on two cases - 2025 - fneur-1-1558196.pdf",
+    "PDFs/Creatine PDFs/Chris Masterjohn - Your Cells Are Starving for Creatine - 2024.pdf",
+    "PDFs/Nutrition PDFs/Chris Masterjohn - Your Cells Are Starving for Creatine - 2024.pdf",
+    "Creatine.md",
+    "Nutrition.md",
     "Palmitoylethanolamide.md",
+    "PDFs/Palmitoylethanolamide PDFs/Anti-neuroinflammatory therapy for non-pulsatile tinnitus in patients with sinus vascular anomalies_ preliminary result on two cases - 2025 - fneur-1-1558196.pdf",
     "PDFs/Palmitoylethanolamide PDFs/Palmitoylethanolamide - A Natural Compound for Health Management - 2021 - ijms-22-05305.pdf",
     "PDFs/Palmitoylethanolamide PDFs/Natural Products - Evidence for Neuroprotection to Be Exploited in Glaucoma - 2020 - nutrients-12-03158.pdf",
     "PDFs/Palmitoylethanolamide PDFs/Therapeutic utility of palmitoylethanolamide in the treatment of neuropathic pain associated with various pathological conditions_ a case series - 2012 - jpr-5-437.pdf",
@@ -219,9 +221,7 @@
     "PDFs/Grape Seed Extract PDFs/(PDF) Antimicrobial efficacy of grape seed extract in terminating the ramifications of plaque microorganisms - 2022.md",
     "PDFs/Grape Seed Extract PDFs/Antioxidant effect of grape seed extract corrects experimental autoimmune encephalomyelitis behavioral dysfunctions, demyelination, and glial activation - 2022 - fimmu-13-960355.pdf",
     "PDFs/Grape Seed Extract PDFs/(PDF) Antioxidant effect of grape seed extract corrects experimental autoimmune encephalomyelitis behavioral dysfunctions, demyelination, and glial activation - 2022.md",
-    "PDFs/Grape Seed Extract PDFs/Grape seed proanthocyanidin extract inhibits DNA and protein damage and labile iron, enzyme, and cancer cell activities - 2022 - s41598-022-16608-2.pdf",
     "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed proanthocyanidin extract inhibits DNA and protein damage and labile iron, enzyme, and cancer cell activities - 2022.md",
-    "PDFs/Grape Seed Extract PDFs/Grape Stem Extracts with Potential Anticancer and Antioxidant Properties - 2021 - antioxidants-10-00243.pdf",
     "PDFs/Grape Seed Extract PDFs/(PDF) Grape Stem Extracts with Potential Anticancer and Antioxidant Properties - 2021.md",
     "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed extract alleviates radiation-induced damages in human blood lymphocytes - 2020.md",
     "PDFs/Grape Seed Extract PDFs/(PDF) GSPE Ameliorates Cardiac Remodelling After Myocardial Infarction Through PI3K AKT Pathway in Mice - 2020.md",
@@ -238,8 +238,6 @@
     "PDFs/Grape Seed Extract PDFs/(PDF) Neuroprotective effect of grape seed extract on brain ischemia - a proteomic approach - 2019.md",
     "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed procyanidin extract against lung cancer - the role of microrna-106b, bioavailability, and bioactivity - 2018.md",
     "PDFs/Grape Seed Extract PDFs/(PDF) Mast cells and pro-inflammatory cytokines roles in assessment of GSE anti-inflammatory activity in rat model of carrageenan-induced paw edema - 2018.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Oligomeric proanthocyanidins (OPCs) target cancer stem-like cells and suppress tumor organoid formation in colorectal cancer - 2018.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Molecular characterization of the grape seeds extract’s effect against chemically induced liver cancer - In vivo and in vitro analyses - 2018.md",
     "Untitled.canvas"
   ]
 }
