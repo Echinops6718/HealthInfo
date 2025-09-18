@@ -4,60 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "01c859a49ddd5438",
-        "type": "split",
+        "id": "b825010ecba473ae",
+        "type": "tabs",
         "children": [
           {
-            "id": "53291e8c9f32fff6",
-            "type": "tabs",
-            "dimension": 63.61136571952338,
-            "children": [
-              {
-                "id": "7a52dd42a7da8e1c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Creatine.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Creatine"
-                },
-                "group": "98353c7bbdc6f3dc"
-              }
-            ]
+            "id": "e6ec04860d94f4b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Creatine.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Creatine"
+            }
           },
           {
-            "id": "b825010ecba473ae",
-            "type": "tabs",
-            "dimension": 36.38863428047663,
-            "children": [
-              {
-                "id": "e6ec04860d94f4b7",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Creatine.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": false
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks for Creatine"
-                },
-                "group": "98353c7bbdc6f3dc"
-              }
-            ]
+            "id": "c5855f9abbe3ea28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Creatine"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,21 +187,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a52dd42a7da8e1c",
+  "active": "c5855f9abbe3ea28",
   "lastOpenFiles": [
+    "Nicotinic Acid (niacin).md",
+    "Creatine.md",
+    "PDFs/Creatine PDFs/Effects of High-Dose Creatine Supplementation on Kidney and Liver Responses In Sedentary and Exercised Rats - 2009 - jssm-08-672.pdf",
+    "PDFs/Creatine PDFs/Unconfirmed 892756.crdownload",
+    "PDFs/Creatine PDFs/“Heads Up” for Creatine Supplementation and its Potential Applications for Brain Health and Function - 2023 - 40279_2023_Article_1870.pdf",
+    "PDFs/Creatine PDFs/Unconfirmed 915398.crdownload",
     "Taurine.md",
     "PDFs/Taurine PDFs/Important roles of dietary taurine, creatine, carnosine, anserine and 4-hydroxyproline in human nutrition and health - 2020 - s00726-020-02823-6.pdf",
     "PDFs/Creatine PDFs/Important roles of dietary taurine, creatine, carnosine, anserine and 4-hydroxyproline in human nutrition and health - 2020 - s00726-020-02823-6.pdf",
-    "Creatine.md",
     "PDFs/Creatine PDFs/Unconfirmed 538507.crdownload",
     "PDFs/Creatine PDFs/Creatine is a Conditionally Essential Nutrient in Chronic Kidney Disease: A Hypothesis and Narrative Literature Review - 2019 - nutrients-11-01044.pdf",
     "PDFs/Creatine PDFs/Unconfirmed 466172.crdownload",
     "PDFs/Creatine PDFs/The creatine kinase system and pleiotropic effects of creatine - 2011 - 726_2011_Article_877.pdf",
-    "PDFs/Creatine PDFs/Unconfirmed 761563.crdownload",
     "Vitamin D.md",
-    "PDFs/Vitamin D PDFs/Vitamin D toxicity redefined: Vitamin K and the molecular mechanism - 2006 - vitaminKarticle.pdf",
-    "PDFs/Vitamin D PDFs/Unconfirmed 923521.crdownload",
-    "PDFs/Creatine PDFs/Chris Masterjohn - Why Would Creatine Cause Insomnia - 2024.pdf",
     "Nutrition.md",
     "Palmitoylethanolamide.md",
     "Grape Seed Extract.md",
@@ -240,7 +225,6 @@
     "PDFs/Grape Seed Extract PDFs/(PDF) Proanthocyanidins - A comprehensive review - 2019.md",
     "PDFs/Grape Seed Extract PDFs/(PDF) A PILOT STUDY OF A GRAPE SEED PROCYANIDIN EXTRACT FOR LUNG CANCER CHEMOPREVENTION - 2019.md",
     "PDFs/Grape Seed Extract PDFs/(PDF) Neuroprotective effect of grape seed extract on brain ischemia - a proteomic approach - 2019.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed procyanidin extract against lung cancer - the role of microrna-106b, bioavailability, and bioactivity - 2018.md",
     "Untitled.canvas"
   ]
 }

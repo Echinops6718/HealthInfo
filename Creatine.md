@@ -41,6 +41,9 @@ Full PDF: [[Single dose creatine improves cognitive performance and induces chan
 https://pmc.ncbi.nlm.nih.gov/articles/PMC10471797/
 Full PDF: [[Creatine supplementation enhances anti-tumor immunity by promoting adenosine triphosphate production in macrophages - 2023 - fimmu-14-1176956.pdf]]
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10721691/
+Full PDF: [[“Heads Up” for Creatine Supplementation and its Potential Applications for Brain Health and Function - 2023 - 40279_2023_Article_1870.pdf]]
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC10630839/
 Full PDF: [[Effects of six-month creatine supplementation on patient- and clinician-reported outcomes, and tissue creatine levels in patients with post-COVID-19 fatigue syndrome  - 2023 - FSN3-11-6899.pdf]]
 
@@ -80,6 +83,12 @@ Full PDF: [[Creatine-supplementation reduces sleep need and homeostatic sleep pr
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC3080659/
 Full PDF; [[The creatine kinase system and pleiotropic effects of creatine - 2011 - 726_2011_Article_877.pdf]]
+
+Effect of Short-term High-Dose Creatine Supplementation on Measured GFR in a Young Man With a Single Kidney - 2010 - External Link:
+https://www.sciencedirect.com/science/article/abs/pii/S0272638609014590
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3761536/
+Full PDF: [[Effects of High-Dose Creatine Supplementation on Kidney and Liver Responses In Sedentary and Exercised Rats - 2009 - jssm-08-672.pdf]]
 
 https://pubmed.ncbi.nlm.nih.gov/16416332/
 Full PDF: [[Effect of creatine supplementation and sleep deprivation, with mild exercise, on cognitive and psychomotor performance, mood state, and plasma concentrations of catecholamines and cortisol - 2006.pdf]]
