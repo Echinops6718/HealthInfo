@@ -47,6 +47,9 @@ Full PDF: [[Effects of Creatine Supplementation on Brain Function and Health - 2
 https://pmc.ncbi.nlm.nih.gov/articles/PMC7910963/
 Full PDF: [[Creatine in Health and Disease - 2021 - nutrients-13-00447.pdf]]
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7871530/
+Full PDF: [[Common questions and misconceptions about creatine supplementation_ what does the scientific evidence really show_ - 2021 - 12970_2021_Article_412.pdf]]
+
 1. https://www.uclahealth.org/news/release/creatine-powers-t-cells-fight-against-cancer
 2. https://rupress.org/jem/article/216/12/2869/132512/Creatine-uptake-regulates-CD8-T-cell-antitumor
 Full PDF: [[Creatine uptake regulates CD8 T cell antitumor immunity - 2020 - jem_20182044.pdf]]

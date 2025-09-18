@@ -16,12 +16,14 @@
                 "id": "7a52dd42a7da8e1c",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
+                  "type": "markdown",
                   "state": {
-                    "file": "PDFs/Nutrition PDFs/Chris Masterjohn - Your Cells Are Starving for Creatine - 2024.pdf"
+                    "file": "Creatine.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-file-text",
-                  "title": "Chris Masterjohn - Your Cells Are Starving for Creatine - 2024"
+                  "icon": "lucide-file",
+                  "title": "Creatine"
                 },
                 "group": "98353c7bbdc6f3dc"
               }
@@ -38,7 +40,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "PDFs/Nutrition PDFs/Chris Masterjohn - Your Cells Are Starving for Creatine - 2024.pdf",
+                    "file": "Creatine.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +50,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Chris Masterjohn - Your Cells Are Starving for Creatine - 2024"
+                  "title": "Backlinks for Creatine"
                 },
                 "group": "98353c7bbdc6f3dc"
               }
@@ -203,8 +205,9 @@
   },
   "active": "7a52dd42a7da8e1c",
   "lastOpenFiles": [
-    "PDFs/Creatine PDFs/Chris Masterjohn - Your Cells Are Starving for Creatine - 2024.pdf",
     "PDFs/Nutrition PDFs/Chris Masterjohn - Your Cells Are Starving for Creatine - 2024.pdf",
+    "PDFs/Creatine PDFs/Common questions and misconceptions about creatine supplementation_ what does the scientific evidence really show_ - 2021 - 12970_2021_Article_412.pdf",
+    "PDFs/Creatine PDFs/Chris Masterjohn - Your Cells Are Starving for Creatine - 2024.pdf",
     "Creatine.md",
     "Nutrition.md",
     "Palmitoylethanolamide.md",
