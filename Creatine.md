@@ -53,10 +53,6 @@ Full PDF: [[Creatine in Health and Disease - 2021 - nutrients-13-00447.pdf]]
 https://pmc.ncbi.nlm.nih.gov/articles/PMC7871530/
 Full PDF: [[Common questions and misconceptions about creatine supplementation_ what does the scientific evidence really show_ - 2021 - 12970_2021_Article_412.pdf]]
 
-1. https://www.uclahealth.org/news/release/creatine-powers-t-cells-fight-against-cancer
-2. https://rupress.org/jem/article/216/12/2869/132512/Creatine-uptake-regulates-CD8-T-cell-antitumor
-Full PDF: [[Creatine uptake regulates CD8 T cell antitumor immunity - 2020 - jem_20182044.pdf]]
-
 https://pmc.ncbi.nlm.nih.gov/articles/PMC7916590/
 Full PDF: [[Creatine Supplementation and Brain Health - 2021 - nutrients-13-00586.pdf]]
 
@@ -66,11 +62,24 @@ Full PDF: [[Potential of Creatine in Glucose Management and Diabetes - 2021 - nu
 https://www.sciencedirect.com/science/article/pii/S1756464621002176
 Full PDF: [[Creatine as a food supplement for the general population - 2021 - 1-s2.0-S1756464621002176-main.pdf]]
 
+https://link.springer.com/article/10.1007/s00726-020-02823-6
+Full PDF: [[PDFs/Creatine PDFs/Important roles of dietary taurine, creatine, carnosine, anserine and 4-hydroxyproline in human nutrition and health - 2020 - s00726-020-02823-6.pdf]]
+
+1. https://www.uclahealth.org/news/release/creatine-powers-t-cells-fight-against-cancer
+2. https://rupress.org/jem/article/216/12/2869/132512/Creatine-uptake-regulates-CD8-T-cell-antitumor
+Full PDF: [[Creatine uptake regulates CD8 T cell antitumor immunity - 2020 - jem_20182044.pdf]]
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6567063/
+Full PDF: [[Creatine is a Conditionally Essential Nutrient in Chronic Kidney Disease: A Hypothesis and Narrative Literature Review - 2019 - nutrients-11-01044.pdf]]
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC6093191/
 Full PDF: [[Effects of creatine supplementation on cognitive function of healthy individuals_ A systematic review of randomized controlled trials - 2019 - nihms-983799.pdf]]
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC5435551/
 Full PDF: [[Creatine-supplementation reduces sleep need and homeostatic sleep pressure in rats - 2017 - nihms852726.pdf]]
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3080659/
+Full PDF; [[The creatine kinase system and pleiotropic effects of creatine - 2011 - 726_2011_Article_877.pdf]]
 
 https://pubmed.ncbi.nlm.nih.gov/16416332/
 Full PDF: [[Effect of creatine supplementation and sleep deprivation, with mild exercise, on cognitive and psychomotor performance, mood state, and plasma concentrations of catecholamines and cortisol - 2006.pdf]]
