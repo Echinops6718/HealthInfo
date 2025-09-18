@@ -7,6 +7,8 @@ Likely reduces long-[[COVID]] related fatigue, pain, breathing difficulty, and b
 
 Likely improves insulin response and glucose metabolism, while reducing diabetes risk, especially when combined with exercise.
 
+May cause insomnia in some people unless concurrently supplementing glycine.
+
 May both prevent some cancers while increasing risk for other cancers. Also improves immune response, likely including against cancers.
 
 #anti-inflammatory #diabetes-protective #mitochondria-support #neuroprotective 
@@ -25,6 +27,9 @@ Full PDF: [[Dietary Creatine and Hydration Biomarkers in the General Population_
 
 https://chrismasterjohnphd.substack.com/p/your-cells-are-starving-for-creatine
 Full PDF: [[PDFs/Creatine PDFs/Chris Masterjohn - Your Cells Are Starving for Creatine - 2024.pdf|Chris Masterjohn - Your Cells Are Starving for Creatine - 2024]]
+
+https://web.archive.org/web/20240229202350/https://chrismasterjohnphd.substack.com/p/why-would-creatine-cause-insomnia
+Full PDF: [[Chris Masterjohn - Why Would Creatine Cause Insomnia - 2024.pdf]]
 
 https://www.jneurosci.org/content/24/26/5909
 Full PDF: [[Prophylactic Creatine Administration Mediates Neuroprotection in Cerebral Ischemia in Mice - 2024 - 5909.full.pdf]]
