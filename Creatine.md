@@ -20,6 +20,9 @@ Full PDF: [[The association between dietary creatine intake and cancer in U.S. a
 2. https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1579204/full
 Full PDF: [[Creatine supplementation and muscle-brain axis_ a new possible mechanism - 2025 - fnut-1-1579204.pdf]]
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12203408/
+Full PDF: [[Dietary Creatine and Hydration Biomarkers in the General Population_ NHANES 1999–2023 - 2025 - FSN3-13-e70524.pdf]]
+
 https://chrismasterjohnphd.substack.com/p/your-cells-are-starving-for-creatine
 Full PDF: [[PDFs/Creatine PDFs/Chris Masterjohn - Your Cells Are Starving for Creatine - 2024.pdf|Chris Masterjohn - Your Cells Are Starving for Creatine - 2024]]
 
@@ -60,8 +63,17 @@ Full PDF: [[Creatine Supplementation and Brain Health - 2021 - nutrients-13-0058
 https://pmc.ncbi.nlm.nih.gov/articles/PMC7915263/
 Full PDF: [[Potential of Creatine in Glucose Management and Diabetes - 2021 - nutrients-13-00570.pdf]]
 
+https://www.sciencedirect.com/science/article/pii/S1756464621002176
+Full PDF: [[Creatine as a food supplement for the general population - 2021 - 1-s2.0-S1756464621002176-main.pdf]]
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC6093191/
 Full PDF: [[Effects of creatine supplementation on cognitive function of healthy individuals_ A systematic review of randomized controlled trials - 2019 - nihms-983799.pdf]]
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5435551/
+Full PDF: [[Creatine-supplementation reduces sleep need and homeostatic sleep pressure in rats - 2017 - nihms852726.pdf]]
+
+https://pubmed.ncbi.nlm.nih.gov/16416332/
+Full PDF: [[Effect of creatine supplementation and sleep deprivation, with mild exercise, on cognitive and psychomotor performance, mood state, and plasma concentrations of catecholamines and cortisol - 2006.pdf]]
 
 ## Risks
 
