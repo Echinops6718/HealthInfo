@@ -1,5 +1,7 @@
 
-The acetyl-l-glutamine form may be more effective and neuroprotective. 
+The acetyl-l-glutamine form may be more bioavailable and more effective at crossing the blood brain barrier, providing greater neuroprotective effects.
+
+Likely cardioprotective.
 
 Likely reduces risk of [[COVID]] induced injuries.
 

@@ -10,6 +10,7 @@
           {
             "id": "b825010ecba473ae",
             "type": "tabs",
+            "dimension": 68.12627291242363,
             "children": [
               {
                 "id": "e6ec04860d94f4b7",
@@ -36,12 +37,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Creatine.md",
+                    "file": "Glutamine.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Creatine"
+                  "title": "Glutamine"
                 },
                 "group": "24f274fb1a557c20"
               }
@@ -51,6 +52,7 @@
           {
             "id": "22c4087a6e50024e",
             "type": "tabs",
+            "dimension": 31.873727087576377,
             "children": [
               {
                 "id": "f4f3f15b57144bf6",
@@ -58,7 +60,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Creatine.md",
+                    "file": "Glutamine.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -68,7 +70,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Creatine"
+                  "title": "Backlinks for Glutamine"
                 },
                 "group": "24f274fb1a557c20"
               }
@@ -223,8 +225,10 @@
   },
   "active": "c5855f9abbe3ea28",
   "lastOpenFiles": [
-    "PDFs/Creatine PDFs/Chris Masterjohn - Why Would Creatine Cause Insomnia - 2024.pdf",
+    "PDFs/Glutamine PDFs/Acetylglutamine facilitates motor recovery after brachial plexus root avulsion in ratsby promoting motoneuronal survival and axonal remyelination - 2023 - USC.pdf",
+    "Glutamine.md",
     "Creatine.md",
+    "PDFs/Creatine PDFs/Chris Masterjohn - Why Would Creatine Cause Insomnia - 2024.pdf",
     "Nicotinic Acid (niacin).md",
     "PDFs/Creatine PDFs/Effects of High-Dose Creatine Supplementation on Kidney and Liver Responses In Sedentary and Exercised Rats - 2009 - jssm-08-672.pdf",
     "PDFs/Creatine PDFs/Unconfirmed 892756.crdownload",
@@ -236,7 +240,6 @@
     "PDFs/Creatine PDFs/Unconfirmed 538507.crdownload",
     "PDFs/Creatine PDFs/Creatine is a Conditionally Essential Nutrient in Chronic Kidney Disease: A Hypothesis and Narrative Literature Review - 2019 - nutrients-11-01044.pdf",
     "PDFs/Creatine PDFs/Unconfirmed 466172.crdownload",
-    "PDFs/Creatine PDFs/The creatine kinase system and pleiotropic effects of creatine - 2011 - 726_2011_Article_877.pdf",
     "Vitamin D.md",
     "Nutrition.md",
     "Palmitoylethanolamide.md",
@@ -258,7 +261,6 @@
     "PDFs/Grape Seed Extract PDFs/(PDF) Protective Effects of Grape Seed Proanthocyanidins on the Kidneys of Diabetic Rats through the Nrf2 Signalling Pathway - 2020.md",
     "PDFs/Grape Seed Extract PDFs/(PDF) Proanthocyanidin-Rich Grape Seed Extract Reduces Inflammation and Oxidative Stress and Restores Tight Junction Barrier Function in Caco-2 Colon Cells - 2020.md",
     "PDFs/Grape Seed Extract PDFs/(PDF) Proanthocyanidins - A comprehensive review - 2019.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) A PILOT STUDY OF A GRAPE SEED PROCYANIDIN EXTRACT FOR LUNG CANCER CHEMOPREVENTION - 2019.md",
     "Untitled.canvas"
   ]
 }
