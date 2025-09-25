@@ -107,7 +107,8 @@ https://pubmed.ncbi.nlm.nih.gov/16416332/
 Full PDF: [[Effect of creatine supplementation and sleep deprivation, with mild exercise, on cognitive and psychomotor performance, mood state, and plasma concentrations of catecholamines and cortisol - 2006.pdf]]
 
 Effect of alpha-lipoic acid combined with creatine monohydrate on human skeletal muscle creatine and phosphagen concentration - 2003 - External Link:
-https://pubmed.ncbi.nlm.nih.gov/14669930/
+1. https://pubmed.ncbi.nlm.nih.gov/14669930/
+2. https://ergo-log.com/alpha-lipoic-acid-boosts-effect-of-creatine.html
 
 ## Risks
 
