@@ -66,6 +66,11 @@ Full PDF: [[Creatine in Health and Disease - 2021 - nutrients-13-00447.pdf]]
 https://pmc.ncbi.nlm.nih.gov/articles/PMC7871530/
 Full PDF: [[Common questions and misconceptions about creatine supplementation_ what does the scientific evidence really show_ - 2021 - 12970_2021_Article_412.pdf]]
 
+Guanidinoacetic Acid (GAA) is a precursor to creatine that may be neurotoxic as well as increasing methylation. Though GAA provides increased bioavailability for creatine, the risks may be significant:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8746922/
+Full PF: [[Safety of Dietary Guanidinoacetic Acid_ A Villain of a Good Guy - 2021 - nutrients-14-00075.pdf]]
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC7916590/
 Full PDF: [[Creatine Supplementation and Brain Health - 2021 - nutrients-13-00586.pdf]]
 
