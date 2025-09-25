@@ -10,6 +10,15 @@ SARS-CoV-2 spike protein can be found in the skull bone marrow and meninges in i
 https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(24)00438-4
 Full PDF: [[Persistence of spike protein at the skull-meninges-brain axis may contribute to the neurological sequelae of COVID-19 - 2024 - PIIS1931312824004384.pdf]]
 
+https://www.nature.com/articles/s41593-024-01576-9
+Full PDF: [[Blood–brain barrier disruption and sustained systemic inflammation in individuals with long COVID-associated cognitive impairment - 2024 - s41593-024-01576-9.pdf]]
+
+https://www.nature.com/articles/s41591-024-03309-8
+Full PDF: [[Posthospitalization COVID-19 cognitive deficits at 1 year are global and associated with elevated brain injury markers and gray matter volume reduction - 2024 - s41591-024-03309-8.pdf]]
+
+https://www.science.org/doi/10.1126/science.adl0867
+Full PDF: [[Solving the puzzle of Long Covid - 2024 - science.adl0867.pdf]]
+
 https://www.nature.com/articles/s41579-022-00846-2
 Full PDF: [[Long COVID - major findings, mechanisms and recommendations - 2023 - s41579-022-00846-2.pdf]]
 
@@ -27,14 +36,26 @@ Full PDF: [[Possible cancer-causing capacity of COVID-19 - Is SARS-CoV-2 an onco
 https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(23)00263-8/fulltext
 Full PDF: [[The effects of COVID-19 on cognitive performance in a community-based cohort - a COVID symptom study biobank prospective cohort study - 2023 - PIIS2589537023002638.pdf]]
 
+https://www.health.harvard.edu/mind-and-mood/does-covid-19-damage-the-brain
+Full PDF: [[Does COVID-19 damage the brain_ - 2023 - Harvard Health.pdf]]
+
 1. https://arstechnica.com/science/2023/02/risk-of-diabetes-rises-58-after-covid-even-amid-omicron-study-finds/
 2. https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2801415
 Full PDF: [[Association of COVID-19 Vaccination With Risk for Incident Diabetes After COVID-19 Infection - 2023 - kwan_2023_ld_220325_1675453050.05821.pdf]]
+
+https://www.pnas.org/doi/10.1073/pnas.2217232120
+Full PDF: [[Brain imaging and neuropsychological assessment of individuals recovered from a mild to moderate SARS-CoV-2 infection - 2023 - petersen-et-al.pdf]]
+
+https://www.nature.com/articles/s41591-023-02521-2
+Full PDF: [[Postacute sequelae of COVID-19 at 2 years - 2023 - s41591-023-02521-2.pdf]]
 
 COVID will have a long tail in public health with 1 in 4 people likely having retroviruses activated, which could take years for many of those people to fully exhibit outcomes from the disease processes (unless successfully mitigated):
 1. https://science.slashdot.org/story/22/01/27/0011205/covid-19-infection-can-reactivate-the-latent-retroviruses-in-human-dna
 2. https://phys.org/news/2022-01-sars-cov-spike-protein-human-endogenous.html
 Full PDF: [[SARS-CoV-2 spike protein activates human endogenous retroviruses in blood cells - 2022 - 01.pdf]]
+
+https://www.nature.com/articles/s41591-022-02001-z
+Full PDF: [[Long-term neurologic outcomes of COVID-19 - 2022 - s41591-022-02001-z.pdf]]
 
 https://www.mdpi.com/2218-1989/12/11/1026
 Full PDF: [[Signatures of Mitochondrial Dysfunction and Impaired Fatty Acid Metabolism in Plasma of Patients with Post-Acute Sequelae of COVID-19 (PASC)  - 2022 - metabolites-12-01026.pdf]]
@@ -42,7 +63,8 @@ Full PDF: [[Signatures of Mitochondrial Dysfunction and Impaired Fatty Acid Meta
 https://pmc.ncbi.nlm.nih.gov/articles/PMC9289930
 Full PDF: [[Iron and iron‑related proteins in COVID‑19 - 2022 - 10238_2022_Article_851.pdf]]
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9749650/
+1. https://www.nature.com/articles/s41586-022-05542-y
+2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9749650/
 Full PDF: [[SARS-CoV-2 infection and persistence in the human body and brain at autopsy - 2022 - 41586_2022_Article_5542.pdf]]
 
 https://www.thelancet.com/journals/landia/article/PIIS2213-8587(22)00044-4/fulltext
@@ -50,6 +72,12 @@ Full PDF: [[Risks and burdens of incident diabetes in long COVID - a cohort stud
 
 https://www.thelancet.com/journals/landia/article/PIIS2213-8587(22)00324-2/fulltext
 Full PDF: [[Diabetes after SARS-CoV-2 infection - 2022 - PIIS2213858722003242.pdf]]
+
+https://www.nature.com/articles/s41586-022-04569-5
+Full PDF: [[SARS-CoV-2 is associated with changes in brain structure in UK Biobank - 2022 - s41586-022-04569-5.pdf]]
+
+https://www.cell.com/cell/fulltext/S0092-8674(22)00713-9
+Full PDF: [[Mild respiratory COVID can cause multi-lineage neural cell and myelin dysregulation - 2022 - PIIS0092867422007139.pdf]]
 
 Johns Hopkins Bloomberg School of Public Health: COVID and the Heart - It Spares No One - 2022 - external link: 
 https://publichealth.jhu.edu/2022/covid-and-the-heart-it-spares-no-one
