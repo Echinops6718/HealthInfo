@@ -11,6 +11,8 @@ May cause insomnia in some people unless concurrently supplementing glycine.
 
 May both prevent some cancers while increasing risk for other cancers. Also improves immune response, likely including against cancers.
 
+Concurrently supplementing alpha-lipoic acid likely increases creatine bioavailability. 
+
 #anti-inflammatory #diabetes-protective #mitochondria-support #neuroprotective 
 
 ## Benefits
@@ -42,6 +44,9 @@ Full PDF: [[It Is Not Just About Storing Energy_ The Multifaceted Role of Creati
 
 https://www.nature.com/articles/s41598-024-54249-9
 Full PDF: [[Single dose creatine improves cognitive performance and induces changes in cerebral high energy phosphates during sleep deprivation - 2024 - s41598-024-54249-9.pdf]]
+
+https://pubmed.ncbi.nlm.nih.gov/39769038/
+Full PDF: [[It Is Not Just About Storing Energy_ The Multifaceted Role of Creatine Metabolism on Cancer Biology and Immunology - 2024.pdf]]
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC10471797/
 Full PDF: [[Creatine supplementation enhances anti-tumor immunity by promoting adenosine triphosphate production in macrophages - 2023 - fimmu-14-1176956.pdf]]
@@ -83,6 +88,9 @@ Full PDF: [[Creatine is a Conditionally Essential Nutrient in Chronic Kidney Dis
 https://pmc.ncbi.nlm.nih.gov/articles/PMC6093191/
 Full PDF: [[Effects of creatine supplementation on cognitive function of healthy individuals_ A systematic review of randomized controlled trials - 2019 - nihms-983799.pdf]]
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5424457/
+Full PDF: [[The effect of combined supplementation of carbohydrates and creatine on anaerobic performance - 2017 - JBS-34-65336.pdf]]
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC5435551/
 Full PDF: [[Creatine-supplementation reduces sleep need and homeostatic sleep pressure in rats - 2017 - nihms852726.pdf]]
 
@@ -97,6 +105,9 @@ Full PDF: [[Effects of High-Dose Creatine Supplementation on Kidney and Liver Re
 
 https://pubmed.ncbi.nlm.nih.gov/16416332/
 Full PDF: [[Effect of creatine supplementation and sleep deprivation, with mild exercise, on cognitive and psychomotor performance, mood state, and plasma concentrations of catecholamines and cortisol - 2006.pdf]]
+
+Effect of alpha-lipoic acid combined with creatine monohydrate on human skeletal muscle creatine and phosphagen concentration - 2003 - External Link:
+https://pubmed.ncbi.nlm.nih.gov/14669930/
 
 ## Risks
 
