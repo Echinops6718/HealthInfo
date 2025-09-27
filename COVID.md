@@ -3,9 +3,14 @@ COVID appears to be a lifelong chronic inflammatory illness potentially affectin
 
 Multi-organ system injuries appear to be cumulative for each COVID infection regardless of whether it's symptomatic. These injuries appear to cause accelerated aging and permanent systemic damage that cumulatively increases the likelihood of hospitalization and long term disability with each subsequent infection.
 
+Causes mitochondrial dysfunction, impairing energy production, metabolism, and immune function.
+
 SARS-CoV-2 spike protein can be found in the skull bone marrow and meninges in individuals long after COVID, potentially driving long COVID.
 
 #neurotoxic #accelerated-aging #multi-organ-damage
+
+https://www.sciencedirect.com/science/article/pii/S2213231725002794
+Full PDF: [[Viral mitochondriopathy in COVID-19 - 2025 - 1-s2.0-S2213231725002794-main.pdf]]
 
 https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(24)00438-4
 Full PDF: [[Persistence of spike protein at the skull-meninges-brain axis may contribute to the neurological sequelae of COVID-19 - 2024 - PIIS1931312824004384.pdf]]
