@@ -1,5 +1,5 @@
 
-The acetyl-l-glutamine form may be more bioavailable and more effective at crossing the blood brain barrier, providing greater neuroprotective effects and likely remyelination of nerves.
+The acetyl-l-glutamine (aceglutamide) form may be more bioavailable and more effective at crossing the blood brain barrier, providing greater neuroprotective effects and likely remyelination of nerves.
 
 Likely cardioprotective.
 
