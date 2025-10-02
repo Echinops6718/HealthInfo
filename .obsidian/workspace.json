@@ -37,12 +37,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Saffron.md",
+                    "file": "COVID.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Saffron"
+                  "title": "COVID"
                 },
                 "group": "24f274fb1a557c20"
               }
@@ -60,7 +60,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Saffron.md",
+                    "file": "COVID.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -70,7 +70,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Saffron"
+                  "title": "Backlinks for COVID"
                 },
                 "group": "24f274fb1a557c20"
               }
@@ -225,8 +225,11 @@
   },
   "active": "c5855f9abbe3ea28",
   "lastOpenFiles": [
-    "Glutamine.md",
+    "PDFs/COVID PDFs/Fomite Transmission of SARS-CoV-2 and Its Contributing Factors - 2023 - pathogens-12-00364.pdf",
+    "COVID.md",
+    "PDFs/COVID PDFs/Network-based virus dynamic simulation_ Evaluating the fomite disinfection effectiveness on SARS-CoV-2 transmission in indoor environment - 2025 - 1-s2.0-S2468042724001192-main.pdf",
     "Saffron.md",
+    "Glutamine.md",
     "PDFs/Saffron PDFs/Crocus Sativus L. (Saffron) in Alzheimer's Disease Treatment_ Bioactive Effects on Cognitive Impairment  - 2021 - CN-19-1606.pdf",
     "PDFs/Saffron PDFs/Potential role of saffron and its components on miRNA levels in various disorders, a comprehensive review - 2023- IJBMS-26-1120.pdf",
     "PDFs/Saffron PDFs/Saffron the “Red Gold” and Its CNS Activity_ A Challenge for Future Applications in Nutraceuticals - 2024 - Journal of Food Biochemistry - Sut.pdf",
@@ -235,13 +238,10 @@
     "PDFs/Saffron PDFs/Active constituents of saffron (Crocus sativus L.) and their prospects in treating neurodegenerative diseases (Review) - 2023 - etm-25-05-11934.pdf",
     "PDFs/Saffron PDFs/Effect of saffron supplementation on oxidative stress markers (MDA, TAC, TOS, GPx, SOD, and pro-oxidant_antioxidant balance)_ An updated systematic review and meta-analysis of randomized placebo-controlled trials - 2023 - fmed-10-1071514.pdf",
     "PDFs/Saffron PDFs/Saffron against Neuro-Cognitive Disorders_ An Overview of Its Main Bioactive Compounds, Their Metabolic Fate and Potential Mechanisms of Neurological Protection  - 2022 - nutrients-14-05368.pdf",
-    "PDFs/Saffron PDFs/Therapeutic Potential of Saffron (Crocus sativus L.) in Ischemia Stroke - 2021 - ECAM2021-6643950.pdf",
-    "PDFs/Saffron PDFs/Chapter 28 - Application of saffron as a neuroprotective agent - 2020.pdf",
     "Palmitoylethanolamide.md",
     "Nicotinic Acid (niacin).md",
     "Seirogan.md",
     "Creatine.md",
-    "COVID.md",
     "Lactoferrin.md",
     "Taurine.md",
     "Vitamin D.md",

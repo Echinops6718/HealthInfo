@@ -98,6 +98,12 @@ Full PDF: [[A Tale of Two Viruses - Poliomyelitis and COVID-19 - 2021 - 2010C360
 
 #### Fomites (surface contagion):
 
+https://www.sciencedirect.com/science/article/pii/S2468042724001192
+Full PDF: [[Network-based virus dynamic simulation_ Evaluating the fomite disinfection effectiveness on SARS-CoV-2 transmission in indoor environment - 2025 - 1-s2.0-S2468042724001192-main.pdf]]
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10054039/
+Full PDF: [[Fomite Transmission of SARS-CoV-2 and Its Contributing Factors - 2023 - pathogens-12-00364.pdf]]
+
 https://www.cnn.com/2022/03/18/health/omicron-surfaces-studies/index.html
 
 https://www.biorxiv.org/content/10.1101/2022.01.18.476607v2.full
