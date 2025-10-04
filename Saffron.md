@@ -1,11 +1,11 @@
 
 Anti-inflammatory, anti-oxidant, antiviral, antibacterial. 
 
-May reduce [[COVID]] symptoms and related injury.
+Likely reduces [[COVID]] symptoms and related injury.
+
+Likely improves symptoms of depression, OCD, and ADHD, though contraindicated for bipolar disorder.
 
 Improves skin health, and may reduce symptoms of eczema, psoriasis, and acne.
-
-May improve symptoms of depression, OCD, and ADHD, though likely contraindicated for bipolar disorder.
 
 May protect against ischemic stroke and neurodegenerative diseases such as MS, Alzheimer's, and Parkinson's.
 
