@@ -16,12 +16,14 @@
                 "id": "c5855f9abbe3ea28",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
+                  "type": "markdown",
                   "state": {
-                    "file": "PDFs/Chris Masterjohn - Are Antidepressants Just Treating Protein Deficiency - 2025.pdf"
+                    "file": "Citicoline.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-file-text",
-                  "title": "Chris Masterjohn - Are Antidepressants Just Treating Protein Deficiency - 2025"
+                  "icon": "lucide-file",
+                  "title": "Citicoline"
                 },
                 "group": "24f274fb1a557c20"
               }
@@ -38,7 +40,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "PDFs/Chris Masterjohn - Are Antidepressants Just Treating Protein Deficiency - 2025.pdf",
+                    "file": "Citicoline.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +50,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Chris Masterjohn - Are Antidepressants Just Treating Protein Deficiency - 2025"
+                  "title": "Backlinks for Citicoline"
                 },
                 "group": "24f274fb1a557c20"
               }
@@ -203,29 +205,30 @@
   },
   "active": "c5855f9abbe3ea28",
   "lastOpenFiles": [
-    "PDFs/Intersection of mitochondrial dysfunction and myelination_ An overlooked aspect in neurodevelopmental disorders - 2026.pdf",
-    "PDFs/Chris Masterjohn - Are Antidepressants Just Treating Protein Deficiency - 2025.pdf",
+    "PDFs/Citicoline PDFs/Citicoline affects appetite and cortico-limbic responses to images of high-calorie foods - 2010 - nihms91624.pdf",
+    "PDFs/Citicoline PDFs/Can Treatment With Citicoline Eyedrops Reduce Progression in Glaucoma - The Results of a Randomized Placebo-controlled Clinical Trial - 2020 - ijg-29-513.pdf",
+    "PDFs/Citicoline PDFs/Improvements in Concentration, Working Memory, and Sustained Attention Following Consumption of a Natural Citicoline-Caffeine Beverage - 2015 - nihms692864.pdf",
+    "PDFs/Citicoline PDFs/Efficacy and safety of oral citicoline in acute ischemic stroke_ drug surveillance study in 4,191 cases  - 2009 - pjbf78vb353.1.pdf",
+    "Citicoline.md",
+    "PDFs/Citicoline PDFs/The effects of citicoline on acute ischemic stroke_ a review - 2014 - PIIS1052305714000494.pdf",
+    "PDFs/Citicoline PDFs/Oral citicoline in acute ischemic stroke_ an individual patient data pooling analysis of clinical trials  - 2002 - dávalos-et-al.pdf",
+    "PDFs/Citicoline PDFs/Citicoline Treatment Improves Measures of Impulsivity and Task Performance in Chronic Marijuana Smokers_ A Pilot BOLD fMRI Study - 2015 - nihms740313.pdf",
+    "PDFs/Citicoline PDFs/Citicoline for Supporting Memory in Aging Humans - 2023 - ad-14-4-1184.pdf",
+    "PDFs/Citicoline PDFs/Citicoline and Memory Function in Healthy Older Adults_ A Randomized, Double-Blind, Placebo-Controlled Clinical Trial - 2021 - nxab119.pdf",
+    "PDFs/Citicoline PDFs/Effects of Citicoline on Phospholipid and Glutathione Levels in Transient Cerebral Ischemia - 2001 - adibhatla-et-al.pdf",
+    "PDFs/Citicoline PDFs/Unveiling citicoline's mechanisms and clinical relevance in the treatment of neuroinflammatory disorders - 2024 - Cavalu.pdf",
+    "Taurine.md",
+    "Nutrition.md",
     "COVID.md",
-    "PDFs/Evidence for aerobic ATP synthesis in isolated myelin vesicles - 2009 - Ravera - myelin_makes_ATP.pdf",
     "Saffron.md",
     "Methylsulfonylmethane.md",
-    "PDFs/Methylsulfonylmethane PDFs/Effects of Oral Supplementation With Methylsulfonylmethane on Skin Health and Wrinkle Reduction - 2015 - OptiMSM_Publicatiointext.pdf",
-    "PDFs/Methylsulfonylmethane PDFs/Evaluating the Impacts of Methylsulfonylmethane on Allergic Rhinitis After a Standard Allergen Challenge_ Randomized Double-Blind Exploratory Study - 2018 - resprot-11-e11139.pdf",
     "Nicotinic Acid (niacin).md",
-    "PDFs/Methylsulfonylmethane PDFs/The anti-inflammatory effects of methylsulfonylmethane on lipopolysaccharide-induced inflammatory responses in murine macrophages  - 2009 - 32_651.pdf",
-    "PDFs/Methylsulfonylmethane PDFs/Effect of Dietary Methylsulfonylmethane Supplementation on Growth Performance, Hair Quality, Fecal Microbiota, and Metabolome in Ragdoll Kittens - 2022 - fmicb-13-838164.pdf",
-    "PDFs/Methylsulfonylmethane PDFs/The Effect of Daily Methylsulfonylmethane (MSM) Consumption on High-Density Lipoprotein Cholesterol in Healthy Overweight and Obese Adults_ A Randomized Controlled Trial - 2021 - nutrients-13-03620.pdf",
-    "PDFs/Methylsulfonylmethane PDFs/Protective Effect of Methyl Sulfonyl Methane on the Progression of Age-Induced Bone Loss by Regulating Oxidative Stress-Mediated Bone Resorption  - 2025 - antioxidants-14-00216-v2.pdf",
-    "PDFs/Methylsulfonylmethane PDFs/Investigation of the preventive effect of methylsulfonylmethane on alveolar bone loss and oxidative stress in a rat model of periodontitis - 2025 - s12903-025-05447-y.pdf",
-    "PDFs/Methylsulfonylmethane PDFs/Chapter 27 - Methylsulfonylmethane as an antioxidant and its use in pathology - 2020 - butawan.pdf",
     "Glutamine.md",
     "Palmitoylethanolamide.md",
     "Seirogan.md",
     "Creatine.md",
     "Lactoferrin.md",
-    "Taurine.md",
     "Vitamin D.md",
-    "Nutrition.md",
     "Grape Seed Extract.md",
     "PDFs/Grape Seed Extract PDFs/(PDF) The benefits of grape seed extract in neurological disorders and brain aging - 2023.md",
     "PDFs/Grape Seed Extract PDFs/(PDF) The natural tannins oligomeric proanthocyanidins and punicalagin are potent inhibitors of infection by SARS-CoV-2 - 2023.md",
@@ -238,7 +241,6 @@
     "PDFs/Grape Seed Extract PDFs/(PDF) Preventive and curative effects of grape seed powder on stroke using in vitro and in vivo models of cerebral ischemia reperfusion - 2020.md",
     "PDFs/Grape Seed Extract PDFs/(PDF) Neuroprotective Effects of Grape Seed Procyanidins on Ethanol-Induced Injury and Oxidative Stress in Rat Hippocampal Neurons - 2020.md",
     "PDFs/Grape Seed Extract PDFs/(PDF) Protective effects of grape seed procyanidin on isoflurane-induced cognitive impairment in mice - 2020.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Health Effects of Grape Seed and Skin Extracts and Their Influence on Biochemical Markers - 2020.md",
     "Untitled.canvas"
   ]
 }
