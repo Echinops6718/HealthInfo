@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#supplement",
+                "query": "tag:#glaucoma-protective",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,8 +205,9 @@
   },
   "active": "c5855f9abbe3ea28",
   "lastOpenFiles": [
-    "Creatine.md",
+    "Untitled.base",
     "Vitamin D.md",
+    "Creatine.md",
     "Nicotinic Acid (niacin).md",
     "Citicoline.md",
     "PDFs/Citicoline PDFs/Citicoline affects appetite and cortico-limbic responses to images of high-calorie foods - 2010 - nihms91624.pdf",
@@ -218,7 +219,6 @@
     "PDFs/Citicoline PDFs/Citicoline Treatment Improves Measures of Impulsivity and Task Performance in Chronic Marijuana Smokers_ A Pilot BOLD fMRI Study - 2015 - nihms740313.pdf",
     "PDFs/Citicoline PDFs/Citicoline for Supporting Memory in Aging Humans - 2023 - ad-14-4-1184.pdf",
     "PDFs/Citicoline PDFs/Citicoline and Memory Function in Healthy Older Adults_ A Randomized, Double-Blind, Placebo-Controlled Clinical Trial - 2021 - nxab119.pdf",
-    "PDFs/Citicoline PDFs/Effects of Citicoline on Phospholipid and Glutathione Levels in Transient Cerebral Ischemia - 2001 - adibhatla-et-al.pdf",
     "Taurine.md",
     "Nutrition.md",
     "COVID.md",
