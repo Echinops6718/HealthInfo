@@ -13,6 +13,8 @@ May both prevent some cancers while increasing risk for other cancers. Also impr
 
 Concurrently supplementing alpha-lipoic acid likely increases creatine bioavailability. 
 
+Because creatine supplementation increases ATP availability in cells, and ATP must be bound with magnesium in order to become biologically active, this increases depletion of magnesium levels in the body. Supplementing bioavailable magnesium concurrently is therefore recommended.
+
 #anti-inflammatory #diabetes-protective #mitochondria-support #neuroprotective 
 
 ## Benefits
