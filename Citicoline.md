@@ -25,7 +25,9 @@ May reduce food cravings at a dosage of 2 grams per day.
 
 Generally well tolerated. Common dosage includes 500 milligrams to 2 grams per day, with no known drug interactions.
 
-#anti-inflammatory  #glaucoma-protective #neuroprotective 
+Because citicoline supplementation increases ATP availability in cells, and ATP must be bound with magnesium in order to become biologically active, this increases depletion of magnesium levels in the body. Supplementing bioavailable magnesium concurrently is therefore recommended.
+
+#Alzheimers-protective #anti-inflammatory  #glaucoma-protective #mitochondria-support #multiple-sclerosis-treatment   #neuroprotective #schizophrenia-treatment 
 
 https://faseb.onlinelibrary.wiley.com/doi/full/10.1096/fj.202400823R
 Full PDF: [[Unveiling citicoline's mechanisms and clinical relevance in the treatment of neuroinflammatory disorders - 2024 - Cavalu.pdf]]
