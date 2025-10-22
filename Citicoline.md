@@ -5,7 +5,9 @@ Improves regeneration of neurons, can increase levels of neurotransmitters, and 
 
 Acts as a neuroprotector against glaucoma, including for people experiencing continuing progressive glaucomatous disease despite well controlled intraocular pressure.
 
-Acts as a cholinergic agent that can improve mitochondrial function, increasing formation of ATP. Improving synthesis of phospholipids, particularly phosphotidylcholine, which are key to maintaining cell membrane integrity and function, as well as neuronal repair.
+Acts as a cholinergic agent that can improve mitochondrial function, increasing formation of ATP. 
+
+Improves synthesis of phospholipids, particularly phosphotidylcholine, which are key to maintaining cell membrane integrity and function, as well as neuronal repair.
 
 Freely crosses the blood brain barrier, while likely improving blood brain barrier integrity.
 
