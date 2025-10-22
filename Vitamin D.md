@@ -1,5 +1,5 @@
 
-Vitamin D is converted in the liver to calcidiol, then converted in the kidneys to its active form as the hormone calcitriol. Both of these processes are enzyme driven and require magnesium as a co-factor. Higher doses of vitamin D require proportionately more magnesium to complete the conversions. Supplementing bioavailable magnesium concurrently is therefore recommended.
+Vitamin D is converted in the liver to calcidiol, then converted in the kidneys to its active form as the hormone calcitriol. Both of these processes are enzyme driven and require magnesium as a co-factor. Higher doses of vitamin D require proportionately more magnesium to complete the conversions. Vitamin D also increases calcium absorption from the GI system, and increased bioavailable calcium increases removal of magnesium from the body as well. Supplementing bioavailable magnesium concurrently is therefore recommended.
 
 #supplement #glaucoma-protective #retina-protective #diabetes-protective
 
