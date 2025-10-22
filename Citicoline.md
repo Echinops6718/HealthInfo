@@ -9,7 +9,7 @@ Acts as a cholinergic agent that can improve mitochondrial function, increasing 
 
 Freely crosses the blood brain barrier, while likely improving blood brain barrier integrity.
 
-Likely increases levels of acetylcholine, dopamine, norepinephrine in the central nervous system, which contributes to neuroprotection in hypoxia. Citicoline can raise serotonin levels, also likely promoting neuroprotective effects, while lowering glutamate levels.
+Likely increases levels of acetylcholine, dopamine, and norepinephrine in the central nervous system, which contributes to neuroprotection in hypoxia. Citicoline can raise serotonin levels, also likely promoting neuroprotective effects, while lowering glutamate levels.
 
 Likely increases glutathione synthesis and glutathione reductase activity, while providing antiapoptotic effects.
 
