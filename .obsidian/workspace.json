@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Citicoline.md",
+                    "file": "Vitamin D.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Citicoline"
+                  "title": "Vitamin D"
                 },
                 "group": "24f274fb1a557c20"
               }
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Citicoline.md",
+                    "file": "Vitamin D.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Citicoline"
+                  "title": "Backlinks for Vitamin D"
                 },
                 "group": "24f274fb1a557c20"
               }
@@ -206,6 +206,8 @@
   "active": "c5855f9abbe3ea28",
   "lastOpenFiles": [
     "Creatine.md",
+    "Vitamin D.md",
+    "Nicotinic Acid (niacin).md",
     "Citicoline.md",
     "PDFs/Citicoline PDFs/Citicoline affects appetite and cortico-limbic responses to images of high-calorie foods - 2010 - nihms91624.pdf",
     "PDFs/Citicoline PDFs/Can Treatment With Citicoline Eyedrops Reduce Progression in Glaucoma - The Results of a Randomized Placebo-controlled Clinical Trial - 2020 - ijg-29-513.pdf",
@@ -222,12 +224,10 @@
     "COVID.md",
     "Saffron.md",
     "Methylsulfonylmethane.md",
-    "Nicotinic Acid (niacin).md",
     "Glutamine.md",
     "Palmitoylethanolamide.md",
     "Seirogan.md",
     "Lactoferrin.md",
-    "Vitamin D.md",
     "Grape Seed Extract.md",
     "PDFs/Grape Seed Extract PDFs/(PDF) The benefits of grape seed extract in neurological disorders and brain aging - 2023.md",
     "PDFs/Grape Seed Extract PDFs/(PDF) The natural tannins oligomeric proanthocyanidins and punicalagin are potent inhibitors of infection by SARS-CoV-2 - 2023.md",
