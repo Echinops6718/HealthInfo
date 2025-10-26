@@ -96,7 +96,7 @@ Full PDF: [[Evidence for Biological Age Acceleration and Telomere Shortening in 
 https://www.consultant360.com/article/pediatrics/tale-two-viruses-poliomyelitis-and-covid-19
 Full PDF: [[A Tale of Two Viruses - Poliomyelitis and COVID-19 - 2021 - 2010C360_GC_COVID-Polio.v2.pdf]]
 
-#### Fomites (surface contagion):
+## Fomites (surface contagion):
 
 https://www.sciencedirect.com/science/article/pii/S2468042724001192
 Full PDF: [[Network-based virus dynamic simulation_ Evaluating the fomite disinfection effectiveness on SARS-CoV-2 transmission in indoor environment - 2025 - 1-s2.0-S2468042724001192-main.pdf]]
@@ -112,10 +112,22 @@ Full PDF: [[Differences in environmental stability among SARS-CoV-2 variants of 
 https://www.biorxiv.org/content/10.1101/2022.03.09.483703v1
 Full PDF: [[SARS-CoV-2 Omicron variant is more stable than the ancestral strain on various surfaces - 2022 - 03.09.483703v1.full.pdf]]
 
-#### Incubation/Contagion:
+## Incubation/Contagion:
 
 Symptoms can likely take up to 14 days to appear after an incubation period begins, then contagion can likely last up to 20 days after first symptoms (if symptomatic).
 
 https://www.webmd.com/covid/coronavirus-incubation-period
 
 https://www.medicalnewstoday.com/articles/how-long-is-a-person-contagious-with-coronavirus#how-long-are-people-contagious
+
+## Long Term Outcomes Following Previous SARs Outbreaks:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7850177/
+Full PDF: [[Long-term sequelae following previous coronavirus epidemics - 2021 - clinmed-21-1-e68.pdf]]
+
+Mental Morbidities and Chronic Fatigue in Severe Acute Respiratory Syndrome Survivors - 2009 - External Link:
+https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/415378
+
+https://globalnews.ca/news/404562/sars-10-years-later-how-are-survivors-faring-now/
+
+https://www.thestar.com/life/health-wellness/sars-survivors-struggle-with-symptoms-years-later/article_e1a016e2-c2f5-53cd-af20-8efa6fc6db03.html
