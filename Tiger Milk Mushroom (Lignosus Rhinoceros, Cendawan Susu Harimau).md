@@ -3,7 +3,7 @@ Traditionally used to treat lung, liver, and lymph conditions, including cancers
 
 May protect against [[COVID]] infection and injuries.
 
-#supplement #neuroprotective #accelerate-wound-healing  #anti-cancer #anti-inflammatory #diabetes-protective #liver-protective #lung-protective 
+ #accelerate-wound-healing  #anti-cancer #anti-inflammatory #diabetes-protective #hepatoprotective #lung-protective  #neuroprotective #supplement
 
 1. https://pubmed.ncbi.nlm.nih.gov/36846625/
 2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9946334/
