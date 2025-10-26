@@ -7,7 +7,7 @@ IP6 prevents vascular calcification, and has anti-inflammatory and antibacterial
 
 Likely prevents and treats type 2 diabetes by reducing blood glucose, circulating insulin, and adipose tissue. 
 
-Likely protects kidney function, neurological function, improves regulation of mitochondrial fission, reduces cataract formation, reduces stroke risk, and reduces risk and symptoms of PCOS.
+Likely protects kidney and liver function, neurological function, improves regulation of mitochondrial fission, reduces cataract formation, reduces stroke risk, and reduces risk and symptoms of PCOS.
 
 Likely treats symptoms of depression (both unipolar and bipolar), insomnia, panic disorder, and OCD. 
 
@@ -15,7 +15,8 @@ May be ineffective for treatment of schizophrenia, Alzheimer's, ADHD, and autism
 
 Generally well tolerated. Anecdotally, psychiatric and PCOS benefits may not be noticeable at a dose less than 4 grams, with dosages above 10 grams per day being common. Likely contraindicated when taking medication that reduces blood glucose, as concurrent inositol supplementation increases risk of hypoglycemia.
 
-#anti-cancer #anti-inflammatory #cardioprotective #diabetes-protective #mitochondria-support #neuroprotective #renalprotective #supplement 
+#anti-cancer #anti-inflammatory #cardioprotective #diabetes-protective #mitochondria-support #neuroprotective #renalprotective #supplement #hepatoprotective 
+
 ## Benefits
 
 https://cdn.nutrition.org/article/S2475-2991(25)02397-2/fulltext
@@ -30,11 +31,20 @@ Full PDF: [[Inositol Hexaphosphate in Bone Health and Disease - 2024 - biomolecu
 https://www.cell.com/biophysj/fulltext/S0006-3495(23)01123-2
 Full PDF: [[Myo-inositol suppresses γD-crystallin aggregation by interacting with a non-native state - 2024 - PIIS0006349523011232.pdf]]
 
+https://www.sciencedirect.com/science/article/pii/S1756464624001993
+Full PDF: [[Myo-inositol supplementation in obese patients with non-alcoholic fatty liver disease_ Assessment of sirtuin-1 pathway, atherogenic and hematological parameters - 2024 - 1-s2.0-S1756464624001993-main.pdf]]
+
 https://pubmed.ncbi.nlm.nih.gov/36703143/
 Full PDF: [[Inositol is an effective and safe treatment in polycystic ovary syndrome_ a systematic review and meta-analysis of randomized controlled trials  - 2023 - 12958_Article_1055.pdf]]
 
+https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2023.1092544/full
+Full PDF: [[Myo-inositol supplementation improves cardiometabolic factors, anthropometric measures, and liver function in obese patients with non-alcoholic fatty liver disease - 2023 - fnut-10-1092544.pdf]]
+
 Role of myo-inositol in acute kidney injury induced by cisplatin - 2023 - External Link:
 https://www.sciencedirect.com/science/article/abs/pii/S0300483X23002408
+
+Clinical effectiveness of α-lipoic acid, myo-inositol and propolis supplementation on metabolic profiles and liver function in obese patients with NAFLD: A randomized controlled clinical trial - 2023 - External Link:
+https://www.clinicalnutritionespen.com/article/S2405-4577(23)00054-2/abstract
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC9246369/
 Full PDF: [[A native chemical chaperone in the human eye lens - 2022 - elife-76923.pdf]]
@@ -59,6 +69,9 @@ Full PDF: [[Inositol treatment inhibits medulloblastoma through suppression of e
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC7765177/
 Full PDF: [[Inositol Hexaphosphate (IP6) and Colon Cancer_ From Concepts and First Experiments to Clinical Application - 2020 - molecules-25-05931.pdf]]
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7694137/
+Full PDF: [[Inositol and Non-Alcoholic Fatty Liver Disease_ A Systematic Review on Deficiencies and Supplementation - 2020 - nutrients-12-03379.pdf]]
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC7796135/
 Full PDF: [[Overview of Inositol and Inositol Phosphates on Chemoprevention of Colitis-Induced Carcinogenesis - 2020 - molecules-26-00031.pdf]]
@@ -159,6 +172,9 @@ Full PDF: [[Neurobiology and Applications of Inositol in Psychiatry_ A Narrative
 
 https://www.biorxiv.org/content/10.1101/2022.02.21.481348v1
 Full PDF: [[Phosphatidic acid inhibits inositol synthesis by inducing nuclear translocation of IP6K1 and repression of myo-inositol-3-P synthase - 2022 - 02.21.481348v1.full.pdf]]
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6886013/
+Full PDF: [[Inositol 1,4,5-trisphosphate receptor in the liver_ Expression and function - 2019 - WJG-25-6483.pdf]]
 
 https://www.ajnr.org/content/28/7/1306
 Full PDF: [[Low Choline Concentrations in Normal-Appearing White Matter of Patients with Multiple Sclerosis and Normal MR Imaging Brain Scans - 2007 - 1306.full.pdf]]
