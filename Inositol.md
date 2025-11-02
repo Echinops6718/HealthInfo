@@ -3,7 +3,9 @@ Improves physiologic remodeling of cell cytoskeleton architecture and cell-micro
 
 Inositol both prevents and likely treats some cancers, while also being a possible risk factor for other cancers. Inositol Hexaphosphate (a.k.a. IP6, phytin, or phytic acid) appears to be particularly effective at preventing and treating multiple forms of cancer.
 
-IP6 prevents vascular calcification, and has anti-inflammatory and antibacterial effects.
+IP6 prevents vascular calcification, protects against kidney stones, reduces risk of osteoporosis, and has anti-inflammatory and antibacterial effects, though also has a strong binding affinity to calcium, iron, and zinc, inhibiting their absorption in the small intestine.
+
+Likely protects against thyroiditis and hypothyroidism, regardless of whether autoimmune symptoms are present, and shows capability in shrinking thyroid nodules.
 
 Likely prevents and treats type 2 diabetes by reducing blood glucose, circulating insulin, and adipose tissue. 
 
@@ -15,7 +17,7 @@ May be ineffective for treatment of schizophrenia, Alzheimer's, ADHD, and autism
 
 Generally well tolerated. Anecdotally, psychiatric and PCOS benefits may not be noticeable at a dose less than 4 grams, with dosages above 10 grams per day being common. Likely contraindicated when taking medication that reduces blood glucose, as concurrent inositol supplementation increases risk of hypoglycemia.
 
-#anti-cancer #anti-inflammatory #cardioprotective #diabetes-protective #mitochondria-support #neuroprotective #renalprotective #supplement #hepatoprotective 
+#anti-cancer #anti-inflammatory #cardioprotective #diabetes-protective #hepatoprotective #mitochondria-support #neuroprotective #renalprotective #supplement #thyroid-protective
 
 ## Benefits
 
@@ -33,6 +35,9 @@ Full PDF: [[Myo-inositol suppresses γD-crystallin aggregation by interacting wi
 
 https://www.sciencedirect.com/science/article/pii/S1756464624001993
 Full PDF: [[Myo-inositol supplementation in obese patients with non-alcoholic fatty liver disease_ Assessment of sirtuin-1 pathway, atherogenic and hematological parameters - 2024 - 1-s2.0-S1756464624001993-main.pdf]]
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10296680/
+Full PDF: [[Cellular and Molecular Activities of IP6 in Disease Prevention and Therapy - 2023 - biomolecules-13-00972.pdf]]
 
 https://pubmed.ncbi.nlm.nih.gov/36703143/
 Full PDF: [[Inositol is an effective and safe treatment in polycystic ovary syndrome_ a systematic review and meta-analysis of randomized controlled trials  - 2023 - 12958_Article_1055.pdf]]
@@ -63,6 +68,9 @@ Full PDF: [[Inositol treatment for psychological symptoms in Polycystic Ovary Sy
 
 https://www.cell.com/molecular-cell/fulltext/S1097-2765(21)00692-4
 Full PDF: [[Inositol serves as a natural inhibitor of mitochondrial fission by directly targeting AMPK - 2021 - PIIS1097276521006924.pdf]]
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8143049/
+Full PDF: [[The Role of Inositol in Thyroid Physiology and in Subclinical Hypothyroidism Management - 2021 - fendo-12-662582.pdf]]
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8042111/
 Full PDF: [[Inositol treatment inhibits medulloblastoma through suppression of epigenetic-driven metabolic adaptation - 2021 - 41467_Article_22379.pdf]]
@@ -97,11 +105,14 @@ Full PDF: [[Inositols in Insulin Signaling and Glucose Metabolism - 2018 - Inter
 Potential role of myo-inositol to improve ischemic stroke outcome in diabetic mouse - 2018 - External Link:
 https://pubmed.ncbi.nlm.nih.gov/30165043/
 
+Myoinositol and Inositol Hexakisphosphate in the Treatment of Breast Cancer: Molecular Mechanisms - 2017 - External Link:
+https://link.springer.com/chapter/10.1007/978-3-319-63540-8_20
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC5666868/
 Full PDF: [[Nutritional and Acquired Deficiencies in Inositol Bioavailability. Correlations with Metabolic Disorders - 2017 - ijms-18-02187.pdf]]
 
-Myoinositol and Inositol Hexakisphosphate in the Treatment of Breast Cancer: Molecular Mechanisms - 2017 - External Link:
-https://link.springer.com/chapter/10.1007/978-3-319-63540-8_20
+https://pubmed.ncbi.nlm.nih.gov/28724185/
+Full PDF: [[Myo-inositol plus selenium supplementation restores euthyroid state in Hashimoto's patients with subclinical hypothyroidism - 2017 - 051-059.pdf]]
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC5078644/
 Full PDF: [[The Effectiveness of Myo-Inositol and D-Chiro Inositol Treatment in Type 2 Diabetes - 2016 - IJE2016-9132052.pdf]]

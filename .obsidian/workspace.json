@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "COVID.md",
+                    "file": "Inositol.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "COVID"
+                  "title": "Inositol"
                 },
                 "group": "24f274fb1a557c20"
               }
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "COVID.md",
+                    "file": "Inositol.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for COVID"
+                  "title": "Backlinks for Inositol"
                 },
                 "group": "24f274fb1a557c20"
               }
@@ -205,6 +205,12 @@
   },
   "active": "c5855f9abbe3ea28",
   "lastOpenFiles": [
+    "PDFs/Inositol PDFs/Myo-inositol plus selenium supplementation restores euthyroid state in Hashimoto's patients with subclinical hypothyroidism - 2017 - 051-059.pdf",
+    "PDFs/Inositol PDFs/Cellular and Molecular Activities of IP6 in Disease Prevention and Therapy - 2023 - biomolecules-13-00972.pdf",
+    "PDFs/Inositol PDFs/The Role of Inositol in Thyroid Physiology and in Subclinical Hypothyroidism Management - 2021 - fendo-12-662582.pdf",
+    "Citicoline.md",
+    "Methylsulfonylmethane.md",
+    "COVID.md",
     "PDFs/COVID PDFs/Long-term sequelae following previous coronavirus epidemics - 2021 - clinmed-21-1-e68.pdf",
     "Inositol.md",
     "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md",
@@ -215,20 +221,14 @@
     "PDFs/Inositol PDFs/Nutritional and Acquired Deficiencies in Inositol Bioavailability. Correlations with Metabolic Disorders - 2017 - ijms-18-02187.pdf",
     "PDFs/Inositol PDFs/Clinical Utility of LC-MS_MS for Blood Myo-Inositol in Patients with Acute Kidney Injury and Chronic Kidney Disease - 2024 - hvae097.pdf",
     "PDFs/Inositol PDFs/Myo-Inositol Supplementation Alleviates Cisplatin-Induced Acute Kidney Injury via Inhibition of Ferroptosis - 2022 - cells-12-00016.pdf",
-    "PDFs/Inositol PDFs/Renal depletion of myo-inositol is associated with its increased degradation in animal models of metabolic disease - 2015 - chang-et-al.pdf",
-    "PDFs/Inositol PDFs/Myo-inositol suppresses γD-crystallin aggregation by interacting with a non-native state - 2024 - PIIS0006349523011232.pdf",
-    "PDFs/Inositol PDFs/A native chemical chaperone in the human eye lens - 2022 - elife-76923.pdf",
     "Nutrition.md",
     "Nicotinic Acid (niacin).md",
-    "Citicoline.md",
     "Saffron.md",
     "Seirogan.md",
     "Vitamin D.md",
     "Whey Protein.md",
     "Creatine.md",
     "Taurine.md",
-    "COVID.md",
-    "Methylsulfonylmethane.md",
     "Glutamine.md",
     "Palmitoylethanolamide.md",
     "Lactoferrin.md",
