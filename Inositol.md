@@ -13,6 +13,8 @@ Likely protects kidney and liver function, neurological function, improves regul
 
 Likely treats symptoms of depression (both unipolar and bipolar), insomnia, panic disorder, and OCD. 
 
+May protect against [[COVID]] replication, IL-6 cytokine inflammatory responses, and associated injuries.
+
 May be ineffective for treatment of schizophrenia, Alzheimer's, ADHD, and autism.
 
 Generally well tolerated. Anecdotally, psychiatric and PCOS benefits may not be noticeable at a dose less than 4 grams, with dosages above 10 grams per day being common. Likely contraindicated when taking medication that reduces blood glucose, as concurrent inositol supplementation increases risk of hypoglycemia.
@@ -86,6 +88,9 @@ Full PDF: [[Overview of Inositol and Inositol Phosphates on Chemoprevention of C
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC7212753/
 Full PDF: [[New Frontiers for the Use of IP6 and Inositol Combination in Treating Diabetes Mellitus_ A Review - 2020 - molecules-25-01720.pdf]]
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7480225/
+Full PDF: [[Role of inositol to improve surfactant functions and reduce IL-6 levels_ A potential adjuvant strategy for SARS-CoV-2 pneumonia_ - 2020 - main.pdf]]
 
 Multitarget Activities of Inositol and Inositol Hexakisphosphate - 2020 - External Link:
 https://link.springer.com/chapter/10.1007/978-3-030-32857-3_15
