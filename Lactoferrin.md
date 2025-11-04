@@ -1,6 +1,6 @@
 Lactoferrin (Lf) has anti-bacterial, anti-viral, anti-pathogenic, anti-cancer, anti-inflammatory, immunomodulatory, neuroprotective, and DNA-regulatory activities. 
 
-By binding and clearing free iron from the blood, Lf helps prevent [[COVID]] related cardiovascular injury, and prevents viral reproduction. Lf also likely moves free iron into the cells, improving physiologic bioavailability as well.
+By binding and clearing free iron from the blood, Lf helps prevent [[COVID]] related cardiovascular injury, reduces IL-6 based inflammation, and prevents viral reproduction. Lf also likely moves free iron into the cells, improving physiologic bioavailability as well.
 
 Lf exhibits antiviral activity against various RNA and DNA viruses through complex mechanisms, including prevention of viral entry by competing with viruses for binding to cell surface receptors. The antiviral efficacy of Lf varies among viruses, with notable effects on HSV, HBV, and HIV.
 
@@ -8,7 +8,7 @@ Lf may prevent liver damage caused by various forms of hepatitis, age related he
 
 Because Lf can cross the blood brain barrier, this supplement can potentially treat bacterial and viral infections affecting the brain and spinal cord.
 
-Naturally occurring Lf likely retains effectiveness after being digested, though most currently available supplements for Lf as of 2025 are likely composed of appo-lactoferrin. Although appo-lactoferrin is likely more able to break down biofilms, it's likely less bioavailable due to being more fully degraded in the upper small intestine, and low stomach pH during meals may make it more likely to be degraded as well.
+Naturally occurring Lf likely retains effectiveness after being digested through being at least partially iron saturated, though most currently available supplements for Lf as of 2025 are likely composed of appo-lactoferrin which has no iron saturation. Although appo-lactoferrin is likely more able to break down biofilms, it's likely less bioavailable due to being more fully degraded in the upper small intestine, and low stomach pH during meals may make it more likely to be degraded as well. Appo-lactoferrin also doesn't appear to have the IL-6 based inflammation reducing effects that iron saturated lactoferrin provides.
 
 Lf has a short half-life of effect in the body, so may need to be dosed every few hours during an active bacterial or viral infection to provide full benefit.
 
@@ -16,7 +16,12 @@ Goat and bovine [[Whey Protein]] can provide effective bioavailable sourcing of 
 
 Goat and bovine Lf each have overlapping medicinal properties, though each has different strengths of prevention and treatment for different pathogens and conditions.
 
+Around 200 to 400 mg of naturally occurring (partially iron saturated) Lf may be necessary to effectively lower IL-6 based inflammation to normal physiologic baseline for chronic inflammatory illness (such as long-[[COVID]]). This can likely be achieved with 2 to 4 scoops of undenatured and cold-processed [[Whey Protein]] per day.
+
 #supplement #neuroprotective #anti-inflammatory #skin-protective #cardioprotective #retina-protective #anti-cancer #Alzheimers-protective #lung-protective  #herpes-treatment  #mitochondria-support #hepatoprotective
+
+https://chrismasterjohnphd.substack.com/p/resolve-your-inflammation
+Full PDF: [[Chris Masterjohn - Resolve Your Inflammation With This One Highly Unique Form of Lactoferrin - 2025.pdf]]
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11604709
 Full PDF: [[The potential of lactoferrin as antiviral and immune-modulating agent in viral infectious diseases - 2024.pdf]]
