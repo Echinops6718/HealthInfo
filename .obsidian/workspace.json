@@ -16,14 +16,12 @@
                 "id": "c5855f9abbe3ea28",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "pdf",
                   "state": {
-                    "file": "Lactoferrin.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "PDFs/Nutrition PDFs/Chris Masterjohn - Updates to the The Ultimate Vitamin K2 Resource - 2016.pdf"
                   },
-                  "icon": "lucide-file",
-                  "title": "Lactoferrin"
+                  "icon": "lucide-file-text",
+                  "title": "Chris Masterjohn - Updates to the The Ultimate Vitamin K2 Resource - 2016"
                 },
                 "group": "24f274fb1a557c20"
               }
@@ -40,7 +38,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Lactoferrin.md",
+                    "file": "PDFs/Nutrition PDFs/Chris Masterjohn - Updates to the The Ultimate Vitamin K2 Resource - 2016.pdf",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +48,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Lactoferrin"
+                  "title": "Backlinks for Chris Masterjohn - Updates to the The Ultimate Vitamin K2 Resource - 2016"
                 },
                 "group": "24f274fb1a557c20"
               }
@@ -205,9 +203,12 @@
   },
   "active": "c5855f9abbe3ea28",
   "lastOpenFiles": [
+    "Nutrition.md",
+    "PDFs/Nutrition PDFs/Chris Masterjohn - The Ultimate Vitamin K2 Resource - 2024.pdf",
+    "PDFs/Nutrition PDFs/Chris Masterjohn - Updates to the The Ultimate Vitamin K2 Resource - 2016.pdf",
+    "Lactoferrin.md",
     "Citicoline.md",
     "Methylsulfonylmethane.md",
-    "Lactoferrin.md",
     "Inositol.md",
     "PDFs/Inositol PDFs/Role of inositol to improve surfactant functions and reduce IL-6 levels_ A potential adjuvant strategy for SARS-CoV-2 pneumonia_ - 2020 - main.pdf",
     "PDFs/Inositol PDFs/Myo-inositol plus selenium supplementation restores euthyroid state in Hashimoto's patients with subclinical hypothyroidism - 2017 - 051-059.pdf",
@@ -219,9 +220,6 @@
     "PDFs/Inositol PDFs/Inositol 1,4,5-trisphosphate receptor in the liver_ Expression and function - 2019 - WJG-25-6483.pdf",
     "PDFs/Inositol PDFs/Myo-inositol supplementation improves cardiometabolic factors, anthropometric measures, and liver function in obese patients with non-alcoholic fatty liver disease - 2023 - fnut-10-1092544.pdf",
     "PDFs/Inositol PDFs/Myo-inositol supplementation in obese patients with non-alcoholic fatty liver disease_ Assessment of sirtuin-1 pathway, atherogenic and hematological parameters - 2024 - 1-s2.0-S1756464624001993-main.pdf",
-    "PDFs/Inositol PDFs/Inositol and Non-Alcoholic Fatty Liver Disease_ A Systematic Review on Deficiencies and Supplementation - 2020 - nutrients-12-03379.pdf",
-    "PDFs/Inositol PDFs/Nutritional and Acquired Deficiencies in Inositol Bioavailability. Correlations with Metabolic Disorders - 2017 - ijms-18-02187.pdf",
-    "Nutrition.md",
     "Nicotinic Acid (niacin).md",
     "Saffron.md",
     "Seirogan.md",
