@@ -18,10 +18,10 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "PDFs/Nutrition PDFs/Chris Masterjohn - Updates to the The Ultimate Vitamin K2 Resource - 2016.pdf"
+                    "file": "PDFs/Chris Masterjohn - Statins Are Mitochondrial Toxins - 2025.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "Chris Masterjohn - Updates to the The Ultimate Vitamin K2 Resource - 2016"
+                  "title": "Chris Masterjohn - Statins Are Mitochondrial Toxins - 2025"
                 },
                 "group": "24f274fb1a557c20"
               }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "PDFs/Nutrition PDFs/Chris Masterjohn - Updates to the The Ultimate Vitamin K2 Resource - 2016.pdf",
+                    "file": "PDFs/Chris Masterjohn - Statins Are Mitochondrial Toxins - 2025.pdf",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Chris Masterjohn - Updates to the The Ultimate Vitamin K2 Resource - 2016"
+                  "title": "Backlinks for Chris Masterjohn - Statins Are Mitochondrial Toxins - 2025"
                 },
                 "group": "24f274fb1a557c20"
               }
@@ -201,11 +201,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5855f9abbe3ea28",
+  "active": "473e888fce14a1fe",
   "lastOpenFiles": [
+    "PDFs/Chris Masterjohn - Are Antidepressants Just Treating Protein Deficiency - 2025.pdf",
+    "PDFs/Nutrition PDFs/Chris Masterjohn - Updates to the The Ultimate Vitamin K2 Resource - 2016.pdf",
     "Nutrition.md",
     "PDFs/Nutrition PDFs/Chris Masterjohn - The Ultimate Vitamin K2 Resource - 2024.pdf",
-    "PDFs/Nutrition PDFs/Chris Masterjohn - Updates to the The Ultimate Vitamin K2 Resource - 2016.pdf",
     "Lactoferrin.md",
     "Citicoline.md",
     "Methylsulfonylmethane.md",
