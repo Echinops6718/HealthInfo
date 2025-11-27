@@ -29,6 +29,9 @@ Because citicoline supplementation increases ATP availability in cells, and ATP 
 
 #Alzheimers-protective #anti-inflammatory  #glaucoma-protective #mitochondria-support #multiple-sclerosis-treatment   #neuroprotective #schizophrenia-treatment 
 
+https://www.mdpi.com/2077-0383/14/17/6145
+Full PDF: [[Next-Gen Neuroprotection in Glaucoma_ Synergistic Molecules for Targeted Therapy - 2025 - jcm-14-06145-v2_.pdf]]
+
 https://faseb.onlinelibrary.wiley.com/doi/full/10.1096/fj.202400823R
 Full PDF: [[Unveiling citicoline's mechanisms and clinical relevance in the treatment of neuroinflammatory disorders - 2024 - Cavalu.pdf]]
 
