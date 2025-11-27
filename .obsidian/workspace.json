@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Pyrroloquinoline Quinone.md",
+                    "file": "COVID.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Pyrroloquinoline Quinone"
+                  "title": "COVID"
                 },
                 "group": "24f274fb1a557c20"
               }
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Pyrroloquinoline Quinone.md",
+                    "file": "COVID.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Pyrroloquinoline Quinone"
+                  "title": "Backlinks for COVID"
                 },
                 "group": "24f274fb1a557c20"
               }
@@ -205,9 +205,10 @@
   },
   "active": "c5855f9abbe3ea28",
   "lastOpenFiles": [
+    "PDFs/COVID PDFs/COVID-19 Hijacking of the Host Epigenome_ Mechanisms, Biomarkers and Long-Term Consequences - 2025 - ijms-26-10372.pdf",
+    "Pyrroloquinoline Quinone.md",
     "COVID.md",
     "PDFs/COVID PDFs/Changes in the Gut Microbiota of Patients After SARS-CoV-2 Infection_ What Do We Know_ - 2025 - microorganisms-13-02529.pdf",
-    "Pyrroloquinoline Quinone.md",
     "Folic Acid.md",
     "PDFs/Pyrroloquinoline Quinone PDFs/Pyrroloquinoline Quinone (PQQ)_ Its impact on human health and potential benefits - 2024 - 1-s2.0-S2665927124002156-main.pdf",
     "PDFs/Pyrroloquinoline Quinone PDFs/Pyrroloquinoline-Quinone Is More Than an Antioxidant_ A Vitamin-like Accessory Factor Important in Health and Disease Prevention - 2021 - biomolecules-11-01441.pdf",
