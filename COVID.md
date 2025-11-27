@@ -9,6 +9,9 @@ SARS-CoV-2 spike protein can be found in the skull bone marrow and meninges in i
 
 #neurotoxic #accelerated-aging #multi-organ-damage
 
+https://www.mdpi.com/2076-2607/13/11/2529
+Full PDF: [[Changes in the Gut Microbiota of Patients After SARS-CoV-2 Infection_ What Do We Know_ - 2025 - microorganisms-13-02529.pdf]]
+
 https://www.sciencedirect.com/science/article/pii/S2213231725002794
 Full PDF: [[Viral mitochondriopathy in COVID-19 - 2025 - 1-s2.0-S2213231725002794-main.pdf]]
 

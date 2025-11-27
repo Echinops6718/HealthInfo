@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Pyrroloquinoline Quinone.md",
+                    "file": "COVID.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Pyrroloquinoline Quinone"
+                  "title": "COVID"
                 },
                 "group": "24f274fb1a557c20"
               }
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Pyrroloquinoline Quinone.md",
+                    "file": "COVID.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Pyrroloquinoline Quinone"
+                  "title": "Backlinks for COVID"
                 },
                 "group": "24f274fb1a557c20"
               }
@@ -205,8 +205,9 @@
   },
   "active": "c5855f9abbe3ea28",
   "lastOpenFiles": [
-    "Folic Acid.md",
+    "PDFs/COVID PDFs/Changes in the Gut Microbiota of Patients After SARS-CoV-2 Infection_ What Do We Know_ - 2025 - microorganisms-13-02529.pdf",
     "Pyrroloquinoline Quinone.md",
+    "Folic Acid.md",
     "PDFs/Pyrroloquinoline Quinone PDFs/Pyrroloquinoline Quinone (PQQ)_ Its impact on human health and potential benefits - 2024 - 1-s2.0-S2665927124002156-main.pdf",
     "PDFs/Pyrroloquinoline Quinone PDFs/Pyrroloquinoline-Quinone Is More Than an Antioxidant_ A Vitamin-like Accessory Factor Important in Health and Disease Prevention - 2021 - biomolecules-11-01441.pdf",
     "PDFs/Pyrroloquinoline Quinone PDFs/PQQ Dietary Supplementation Prevents Alkylating Agent-Induced Ovarian Dysfunction in Mice - 2022 - fendo-13-781404.pdf",
@@ -240,7 +241,6 @@
     "PDFs/Grape Seed Extract PDFs/(PDF) Antioxidant effect of grape seed extract corrects experimental autoimmune encephalomyelitis behavioral dysfunctions, demyelination, and glial activation - 2022.md",
     "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed proanthocyanidin extract inhibits DNA and protein damage and labile iron, enzyme, and cancer cell activities - 2022.md",
     "PDFs/Grape Seed Extract PDFs/(PDF) Grape Stem Extracts with Potential Anticancer and Antioxidant Properties - 2021.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Grape seed extract alleviates radiation-induced damages in human blood lymphocytes - 2020.md",
     "Untitled.canvas"
   ]
 }
