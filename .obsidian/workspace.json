@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "COVID.md",
+                    "file": "Pyrroloquinoline Quinone.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "COVID"
+                  "title": "Pyrroloquinoline Quinone"
                 },
                 "group": "24f274fb1a557c20"
               }
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "COVID.md",
+                    "file": "Pyrroloquinoline Quinone.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for COVID"
+                  "title": "Backlinks for Pyrroloquinoline Quinone"
                 },
                 "group": "24f274fb1a557c20"
               }
@@ -205,6 +205,7 @@
   },
   "active": "c5855f9abbe3ea28",
   "lastOpenFiles": [
+    "COVID.md",
     "PDFs/COVID PDFs/Changes in the Gut Microbiota of Patients After SARS-CoV-2 Infection_ What Do We Know_ - 2025 - microorganisms-13-02529.pdf",
     "Pyrroloquinoline Quinone.md",
     "Folic Acid.md",
@@ -217,13 +218,11 @@
     "PDFs/Pyrroloquinoline Quinone PDFs/Identification of lactate dehydrogenase as a mammalian pyrroloquinoline quinone (PQQ)-binding protein - 2016 - srep26723.pdf",
     "PDFs/Pyrroloquinoline Quinone PDFs/PQQ ameliorates D-galactose induced cognitive impairments by reducing glutamate neurotoxicity via the GSK-3β_Akt signaling pathway in mouse - 2018 - s41598-018-26962-9.pdf",
     "PDFs/Pyrroloquinoline Quinone PDFs/Dietary supplementation with pyrroloquinoline quinone promotes growth, relieves weaning stress, and regulates metabolism of piglets compared with adding zinc oxide - 2023 - 1-s2.0-S2405654523001294-main.pdf",
-    "PDFs/Pyrroloquinoline Quinone PDFs/Dietary pyrroloquinoline quinone improvement of the antioxidant capacity of laying hens and eggs are linked to the alteration of Nrf2_HO-1 pathway and gut microbiota - 2023 - 1-s2.0-S2590157523004649-main.pdf",
     "Citicoline.md",
     "Nutrition.md",
     "Lactoferrin.md",
     "Methylsulfonylmethane.md",
     "Inositol.md",
-    "COVID.md",
     "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md",
     "Nicotinic Acid (niacin).md",
     "Saffron.md",

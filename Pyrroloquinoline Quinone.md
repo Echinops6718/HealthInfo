@@ -1,7 +1,7 @@
 
-Pyrroloquinoline Quinone, also known as PQQ, is an anitoxidant with protective effects on thyroid function in Hashimoto’s hypothyroidism and Graves' disease.
+Pyrroloquinoline Quinone, also known as PQQ, is an anitoxidant with neuroprotective effects, improving cognitive and mitochondrial function, including increasing mitochondrial ATP production and biogenesis.
 
-Neuroprotective, improving cognitive and mitochondrial function, including increasing mitochondrial ATP production and biogenesis.
+Protects thyroid function in Hashimoto’s hypothyroidism and Graves' disease.
 
 Heals intestinal injuries by improving maintainance of the GI mucosal epithelial barrier and improving regulation of intestinal microbiota.
 
@@ -19,7 +19,7 @@ May prevent catatacts and glaucoma.
 
 May prevent Alzheimer's and Parkinson's.
 
-PQQ has no known drug interactions, though injection of a high concentration dosage of PQQ is acutely neurotoxic. Common supplement dosage, such as 20 mg once per day, is demonstrated to be well within safe tolerance for humans.
+PQQ has no known drug interactions, though injection of a high concentration and dosage of PQQ is acutely neurotoxic. Lower dosage injection shows no neurotoxicity. Common supplement dosage, such as 20 mg once per day, is well within safe tolerance for humans.
 
 #accelerate-wound-healing #anti-aging  #anti-cancer #anti-inflammatory #cardioprotective  #diabetes-protective #glaucoma-protective #hepatoprotective #mitochondria-support #neuroprotective #renalprotective #retina-protective #supplement #thyroid-protective 
 
@@ -100,7 +100,7 @@ https://pubmed.ncbi.nlm.nih.gov/2549318/
 
 ## Risks:
 
-Injection of a high concentration dosage of PQQ is acutely neurotoxic:
+Injection of a high concentration and dosage of PQQ is acutely neurotoxic, though lower dosage shows no neurotoxicity:
 
 Neurotoxicity and apoptosis induced by pyrroloquinoline quinone and its ester derivative on primary cortical neurons - 2020 -External Link:
 https://www.sciencedirect.com/science/article/abs/pii/S0161813X20300279
