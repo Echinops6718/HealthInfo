@@ -31,7 +31,7 @@ May prevent Alzheimer's and Parkinson's.
 
 20mg supplemented once per day is likely a threshold dose for improving inflammation (reducing both C-reactive protein and IL-6 after 3 weeks of daily supplementation) and sleep disorders (reaching significance after 4 to 8 weeks of daily supplementation) in males of average weight. Anecdotally, some people report mild headache or insomnia if dosage is too high for their individual physiology.
 
-PQQ has no known drug interactions, though extremely high doses are acutely toxic, with lower doses showing no toxicity. Common supplement dosage, such as 20mg once per day, is well within safe tolerance for humans.
+PQQ has no known drug interactions, though extremely high doses are acutely toxic, with lower doses showing no toxicity. Common supplement dosage, such as 20mg once per day, is demonstrated to be well within safe tolerance for humans.
 
 #accelerate-wound-healing #anti-aging  #anti-cancer #anti-inflammatory #cardioprotective  #diabetes-protective #glaucoma-protective #hepatoprotective #ionizing-radiation-protective #mitochondria-support #neuroprotective #renalprotective #retina-protective #supplement #thyroid-protective 
 
