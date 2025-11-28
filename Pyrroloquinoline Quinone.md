@@ -1,15 +1,25 @@
 
-Pyrroloquinoline Quinone, also known as PQQ, is an anitoxidant with neuroprotective effects, improving cognitive and mitochondrial function, including increasing mitochondrial ATP production and biogenesis.
+Pyrroloquinoline Quinone, also known as PQQ, is commonly found in soil and interstellar dust, and may be part of what's allowed life to occur on Earth. Present in all tissues in mammals, many foods, and with high levels in breast milk, animals with diets deficient in PQQ have reduced growth and reproductive capacity.
+
+Acts as an antioxidant with significantly more effective free radical elimination than vitamin C. Provides neuroprotective and nootropic effects, improving cognitive and mitochondrial function, including increasing mitochondrial ATP production and biogenesis.
 
 Protects thyroid function in Hashimoto’s hypothyroidism and Graves' disease.
 
+Protects against ionizing radiation damage.
+
 Heals intestinal injuries by improving maintainance of the GI mucosal epithelial barrier and improving regulation of intestinal microbiota.
+
+Improves both capacity to sleep and maintain wakefulness.
 
 Improves generalised organ repair, protecting cardiovascular, liver, and kidney structure and function.
 
 Improves insulin sensitivity and may help prevent metabolic disorders.
 
 Restrains many types of cancer cells from being capable of malignancy, induces cell death in many types of cancer cells while protecting healthy cells, and improves outcomes of many conventional cancer treatments.
+
+Increases production of nerve growth factor as well as Schwann cells, likely improving both nerve and myelin sheath regeneration. 
+
+Likely reduces injury from acute heart attack, regardless of whether PQQ is supplemented before or within a few hours after the ischemic event. PQQ also likely has more significant ability to reduce heart attack injury than metoprolol.
 
 May delay chronological aging and ameliorate age‐related conditions by acting as an effective senomorphic agent.
 
@@ -19,7 +29,9 @@ May prevent catatacts and glaucoma.
 
 May prevent Alzheimer's and Parkinson's.
 
-PQQ has no known drug interactions, though injection of a high concentration and dosage of PQQ is acutely neurotoxic. Lower dosage injection shows no neurotoxicity. Common supplement dosage, such as 20 mg once per day, is well within safe tolerance for humans.
+20mg supplemented once per day is likely a threshold dose for improving inflammation (reducing both C-reactive protein and IL-6 after 3 weeks of daily supplementation) and sleep disorders (reaching significance after 4 to 8 weeks of daily supplementation) in males of average weight. Anecdotally, some people report mild headache or insomnia if dosage is too high for their individual physiology.
+
+PQQ has no known drug interactions, though extremely high doses are acutely toxic, with lower doses showing no toxicity. Common supplement dosage, such as 20mg once per day, is well within safe tolerance for humans.
 
 #accelerate-wound-healing #anti-aging  #anti-cancer #anti-inflammatory #cardioprotective  #diabetes-protective #glaucoma-protective #hepatoprotective #mitochondria-support #neuroprotective #renalprotective #retina-protective #supplement #thyroid-protective 
 
@@ -45,6 +57,9 @@ Full PDF: [[Pyrroloquinoline Quinone (PQQ)_ Its impact on human health and poten
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11246121/
 Full PDF: [[Pyrroloquinoline quinone_ a potential neuroprotective compound for neurodegenerative diseases targeting metabolism - 2024 - NRR-20-41.pdf]]
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11672564/
+Full PDF: [[Novel Pyrroloquinoline Quinone-Modified Cerium Oxide Nanoparticles and Their Selective Cytotoxicity Under X-Ray Irradiation - 2024 - antioxidants-13-01445.pdf]]
 
 https://www.researchgate.net/publication/386159500_Pyrroloquinoline_Quinone_PQQ_Potentiates_Chemo-_and_Radiosensitization_of_Cancer_Cells_in_Synergistic_way
 Full PDF; [[Pyrroloquinoline Quinone (PQQ) Potentiates Chemo- and Radiosensitization of Cancer Cells in Synergistic way - 2024.pdf]]
@@ -89,18 +104,77 @@ Full PDF: [[PQQ ameliorates D-galactose induced cognitive impairments by reducin
 https://www.nature.com/articles/srep26723
 Full PDF; [[Identification of lactate dehydrogenase as a mammalian pyrroloquinoline quinone (PQQ)-binding protein - 2016 - srep26723.pdf]]
 
+Early PQQ supplementation has persistent long-term protective effects on developmental programming of hepatic lipotoxicity and inflammation in obese mice - 2016 - External Link:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5349805/
+
 Pyrroloquinoline quinone ameliorates l-thyroxine-induced hyperthyroidism and associated problems in rats - 2014 - External Link:
 https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/cbf.3048
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC4143536/
 Full PDF: [[Pyrroloquinoline Quinone Induces Cancer Cell Apoptosis via Mitochondrial-Dependent Pathway and Down-Regulating Cellular Bcl-2 Protein Expression - 2014 - jcav05p0609.pdf]]
 
+https://www.sciencedirect.com/science/article/pii/S0955286313001599
+Full PDF: [[Dietary pyrroloquinoline quinone (PQQ) alters indicators of inflammation and mitochondrial-related metabolism in human subjects - 2013 - 1-s2.0-S0955286313001599-main.pdf]]
+
+https://www.ffhdj.com/index.php/ffhd/article/view/81
+Full PDF: [[Effects of Oral Supplementation with Pyrroloquinoline Quinone on Stress, Fatigue, and Sleep - 2012 - editor@ffhdj.com,+Masahiko+Nakano.Final.EB.pdf]]
+
+The roles of PI3K/Akt pathway in proliferation of Schwann cells promoted by pyrroloquinoline quinone - 2010 - External Link:
+https://pubmed.ncbi.nlm.nih.gov/20432928/
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC2907713/
+Full PDF: [[Identification of transcriptional networks responding to pyrroloquinoline quinone dietary supplementation and their influence on thioredoxin expression, and the JAK_STAT and MAPK pathways - 2010 - bj4290515.pdf]]
+
+Potential physiological importance of pyrroloquinoline quinone - 2009 - External Link:
+https://pubmed.ncbi.nlm.nih.gov/19803551/
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC2804159/
+Full PDF: [[Pyrroloquinoline Quinone Stimulates Mitochondrial Biogenesis through cAMP Response Element-binding Protein Phosphorylation and Increased PGC-1α Expression - 2009 - zbc142.pdf]]
+
+https://www.sciencedirect.com/science/article/pii/S0022316622080695
+Full PDF: [[Pyrroloquinoline Quinone Modulates Mitochondrial Quantity and Function in Mice - 2006 - 1-s2.0-S0022316622080695-main.pdf]]
+
+Comparison of pyrroloquinoline quinone and/or metoprolol on myocardial infarct size and mitochondrial damage in a rat model of ischemia/reperfusion injury - 2006 - External Link:
+https://pubmed.ncbi.nlm.nih.gov/16891289/
+
+https://www.sciencedirect.com/science/article/pii/S0014579304013158
+Full PDF: [[Pyrroloquinoline-quinone_ a reactive oxygen species scavenger in bacteria - 2004 - 1-s2.0-S0014579304013158-main.pdf]]
+
+Pyrroloquinoline quinone (PQQ) decreases myocardial infarct size and improves cardiac function in rat models of ischemia and ischemia/reperfusion - 2004 - External Link:
+https://pubmed.ncbi.nlm.nih.gov/15770429/
+
+https://pubmed.ncbi.nlm.nih.gov/12563022/
+Full PDF: [[Pyrroloquinoline quinone improves growth and reproductive performance in mice fed chemically defined diets - 2003 - 153537020322800205.pdf]]
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1136652/
+Full PDF: [[Levels of pyrroloquinoline quinone in various foods - 1995 - biochemj00065-0028.pdf]]
+
+Stimulation of nerve growth factor synthesis/secretion in mouse astroglial cells by coenzymes - 1993 - External Link:
+https://pubmed.ncbi.nlm.nih.gov/8401318/
+
+Intestinal absorption and tissue distribution of 14C pyrroloquinoline quinone in mice - 1991 - External Link:
+https://pubmed.ncbi.nlm.nih.gov/1850522/
+
 Preventive effects of pyrroloquinoline quinone on formation of cataract and decline of lenticular and hepatic glutathione of developing chick embryo after glucocorticoid treatment - 1989 - External Link:
 https://pubmed.ncbi.nlm.nih.gov/2549318/
 
+https://pubmed.ncbi.nlm.nih.gov/2844591/
+Full PDF: [[Evidence for PQQ as cofactor in 3,4-dihydroxyphenylalanine (dopa) decarboxylase of pig kidney - 1988 - FEBS Letters - Groen.pdf]]
+
 ## Risks:
 
-Injection of a high concentration and dosage of PQQ is acutely neurotoxic, though lower dosage shows no neurotoxicity:
+Injection of a high dosage PQQ is acutely neurotoxic, though lower dosage shows no neurotoxicity:
 
-Neurotoxicity and apoptosis induced by pyrroloquinoline quinone and its ester derivative on primary cortical neurons - 2020 -External Link:
+Neurotoxicity and apoptosis induced by pyrroloquinoline quinone and its ester derivative on primary cortical neurons - 2020 - External Link:
 https://www.sciencedirect.com/science/article/abs/pii/S0161813X20300279
+
+LD50 range of 500 to 2000mg/kg body weight in rats:
+
+Acute and subchronic toxicity studies of pyrroloquinoline quinone (PQQ) disodium salt (BioPQQ™) in rats - 2014 - External Link:
+https://pubmed.ncbi.nlm.nih.gov/24995591/
+
+Injection of 11.5mg/kg body weight demonstrates kidney injury in rats:
+
+Nephrotoxicity of pyrroloquinoline quinone in rats - 1989 - External Link:
+https://pubmed.ncbi.nlm.nih.gov/2546903/
+
