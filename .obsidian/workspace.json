@@ -4,60 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "0818f2e7a5ba947f",
-        "type": "split",
+        "id": "22c4087a6e50024e",
+        "type": "tabs",
         "children": [
           {
-            "id": "b825010ecba473ae",
-            "type": "tabs",
-            "dimension": 80.71359691417551,
-            "children": [
-              {
-                "id": "c5855f9abbe3ea28",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Pyrroloquinoline Quinone.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Pyrroloquinoline Quinone"
-                },
-                "group": "24f274fb1a557c20"
-              }
-            ]
+            "id": "f4f3f15b57144bf6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pyrroloquinoline Quinone.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pyrroloquinoline Quinone"
+            }
           },
           {
-            "id": "22c4087a6e50024e",
-            "type": "tabs",
-            "dimension": 19.286403085824492,
-            "children": [
-              {
-                "id": "f4f3f15b57144bf6",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Pyrroloquinoline Quinone.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks for Pyrroloquinoline Quinone"
-                },
-                "group": "24f274fb1a557c20"
-              }
-            ]
+            "id": "4cd3a0f11f50b60b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pyrroloquinoline Quinone.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pyrroloquinoline Quinone"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,8 +187,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5855f9abbe3ea28",
+  "active": "4cd3a0f11f50b60b",
   "lastOpenFiles": [
+    "Pyrroloquinoline Quinone.md",
     "PDFs/Pyrroloquinoline Quinone PDFs/Pyrroloquinoline Quinone Stimulates Mitochondrial Biogenesis through cAMP Response Element-binding Protein Phosphorylation and Increased PGC-1α Expression - 2009 - zbc142.pdf",
     "PDFs/Pyrroloquinoline Quinone PDFs/Effects of Oral Supplementation with Pyrroloquinoline Quinone on Stress, Fatigue, and Sleep - 2012 - editor@ffhdj.com,+Masahiko+Nakano.Final.EB.pdf",
     "PDFs/Pyrroloquinoline Quinone PDFs/Identification of transcriptional networks responding to pyrroloquinoline quinone dietary supplementation and their influence on thioredoxin expression, and the JAK_STAT and MAPK pathways - 2010 - bj4290515.pdf",
@@ -216,8 +201,6 @@
     "PDFs/Pyrroloquinoline Quinone PDFs/Pyrroloquinoline-quinone_ a reactive oxygen species scavenger in bacteria - 2004 - 1-s2.0-S0014579304013158-main.pdf",
     "PDFs/Pyrroloquinoline Quinone PDFs/Novel Pyrroloquinoline Quinone-Modified Cerium Oxide Nanoparticles and Their Selective Cytotoxicity Under X-Ray Irradiation - 2024 - antioxidants-13-01445.pdf",
     "Citicoline.md",
-    "PDFs/Citicoline PDFs/Next-Gen Neuroprotection in Glaucoma_ Synergistic Molecules for Targeted Therapy - 2025 - jcm-14-06145-v2_.pdf",
-    "Pyrroloquinoline Quinone.md",
     "COVID.md",
     "Folic Acid.md",
     "Nutrition.md",
