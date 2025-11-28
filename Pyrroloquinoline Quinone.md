@@ -33,6 +33,8 @@ May prevent Alzheimer's and Parkinson's.
 
 PQQ has no known drug interactions, though extremely high doses are acutely toxic, with lower doses showing no toxicity. Common supplement dosage, such as 20mg once per day, is demonstrated to be well within safe tolerance for humans.
 
+Because PQQ supplementation increases ATP availability in cells, and ATP must be bound with magnesium in order to become biologically active, this increases depletion of magnesium levels in the body. Supplementing bioavailable magnesium concurrently is therefore recommended.
+
 #accelerate-wound-healing #anti-aging  #anti-cancer #anti-inflammatory #cardioprotective  #diabetes-protective #glaucoma-protective #hepatoprotective #ionizing-radiation-protective #mitochondria-support #neuroprotective #renalprotective #retina-protective #supplement #thyroid-protective 
 
 ## Benefits:
