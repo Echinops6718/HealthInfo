@@ -18,6 +18,9 @@ Full PDF: [[COVID-19 Hijacking of the Host Epigenome_ Mechanisms, Biomarkers and
 https://www.sciencedirect.com/science/article/pii/S2213231725002794
 Full PDF: [[Viral mitochondriopathy in COVID-19 - 2025 - 1-s2.0-S2213231725002794-main.pdf]]
 
+https://www.nature.com/articles/s41538-024-00261-2
+Full PDF: [[Precision nutrition to reset virus-induced human metabolic reprogramming and dysregulation (HMRD) in long-COVID - 2024 - s41538-024-00261-2.pdf]]
+
 https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(24)00438-4
 Full PDF: [[Persistence of spike protein at the skull-meninges-brain axis may contribute to the neurological sequelae of COVID-19 - 2024 - PIIS1931312824004384.pdf]]
 
