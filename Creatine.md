@@ -3,6 +3,8 @@ Critically important to mitochondrial function and cell metabolism, creatine is 
 
 Improves short term memory and reasoning, and likely protects against neurological and neurodegenerative conditions.
 
+Supplementing reduces demand for endogenous creatine synthesis, which helps lower homocysteine levels from reduced need for methylation, and improves mental clarity for people with methylation disorders such as MTHFR mutations.
+
 Likely reduces long-[[COVID]] related fatigue, pain, breathing difficulty, and brain fog.
 
 Likely improves insulin response and glucose metabolism, while reducing diabetes risk, especially when combined with exercise.
@@ -104,11 +106,17 @@ Full PDF: [[Creatine-supplementation reduces sleep need and homeostatic sleep pr
 https://pmc.ncbi.nlm.nih.gov/articles/PMC3080659/
 Full PDF; [[The creatine kinase system and pleiotropic effects of creatine - 2011 - 726_2011_Article_877.pdf]]
 
+The metabolic burden of creatine synthesis - 2011 - External Link:
+https://pubmed.ncbi.nlm.nih.gov/21387089/
+
 Effect of Short-term High-Dose Creatine Supplementation on Measured GFR in a Young Man With a Single Kidney - 2010 - External Link:
 https://www.sciencedirect.com/science/article/abs/pii/S0272638609014590
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC3761536/
 Full PDF: [[Effects of High-Dose Creatine Supplementation on Kidney and Liver Responses In Sedentary and Exercised Rats - 2009 - jssm-08-672.pdf]]
+
+https://pubmed.ncbi.nlm.nih.gov/19079843/
+Full PDF: [[Effects of creatine supplementation on homocysteine levels and lipid peroxidation in rats - 2008.pdf]]
 
 https://pubmed.ncbi.nlm.nih.gov/16416332/
 Full PDF: [[Effect of creatine supplementation and sleep deprivation, with mild exercise, on cognitive and psychomotor performance, mood state, and plasma concentrations of catecholamines and cortisol - 2006.pdf]]
@@ -116,6 +124,9 @@ Full PDF: [[Effect of creatine supplementation and sleep deprivation, with mild 
 Effect of alpha-lipoic acid combined with creatine monohydrate on human skeletal muscle creatine and phosphagen concentration - 2003 - External Link:
 1. https://pubmed.ncbi.nlm.nih.gov/14669930/
 2. https://ergo-log.com/alpha-lipoic-acid-boosts-effect-of-creatine.html
+
+https://journals.physiology.org/doi/epdf/10.1152/ajpendo.2001.281.5.E1095
+Full PDF: [[Methylation demand and homocysteine metabolism_ effects of dietary provision of creatine and guanidinoacetate - 2001 - stead-et-al.pdf]]
 
 ## Risks
 
