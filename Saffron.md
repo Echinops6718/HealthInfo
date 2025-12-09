@@ -11,6 +11,8 @@ May protect against ischemic stroke and neurodegenerative diseases such as MS, A
 
 May protect against mitochondrial dysfunction and age related macular degeneration.
 
+There is conflicting evidence for whether saffron may act as a blood thinner.
+
 #anti-inflammatory #Alzheimers-protective #multiple-sclerosis-treatment #skin-protective 
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11883381/
@@ -95,6 +97,9 @@ https://onlinelibrary.wiley.com/doi/10.1111/jfbc.12946
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC4599112/
 Full PDF: [[The effects of Crocus sativus (saffron) and its constituents on nervous system_ A review - 2015 - AJP-5-376.pdf]]
+
+Effect of _Crocus sativus_ L. (Saffron) on Coagulation and Anticoagulation Systems in Healthy Volunteers - 2013 - External Link:
+https://onlinelibrary.wiley.com/doi/10.1002/ptr.5021
 
 https://www.researchgate.net/publication/260080975_Aqueous_Extract_of_Saffron_Crocus_sativus_Increases_Brain_Dopamine_and_Glutamate_Concentrations_in_Rats
 Full PDF: [[Aqueous Extract of Saffron (Crocus sativus) Increases Brain Dopamine and Glutamate Concentrations in Rats - 2013.pdf]]
