@@ -11,7 +11,7 @@ May protect against ischemic stroke and neurodegenerative diseases such as MS, A
 
 May protect against mitochondrial dysfunction and age related macular degeneration.
 
-There is conflicting evidence for whether saffron may act as a blood thinner.
+There is conflicting evidence for whether saffron may act as a blood thinner at dosage present in supplements.
 
 #anti-inflammatory #Alzheimers-protective #multiple-sclerosis-treatment #skin-protective 
 
