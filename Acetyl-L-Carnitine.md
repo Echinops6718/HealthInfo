@@ -1,6 +1,6 @@
-Neuroprotective and neuroregenerative. Reduces inflammation, dementia risk, Alzheimer's risk, cancer risk, Parkinson's risk, multiple sclerosis related fatigue, ALS risk, diabetes risk, and hypertension risk.
+Acetyl-l-carnitine (ALCAR) is neuroprotective and neuroregenerative. Reduces inflammation, dementia risk, Alzheimer's risk, cancer risk, Parkinson's risk, multiple sclerosis related fatigue, ALS risk, diabetes risk, and hypertension risk.
 
-There is contradictory information between different studies regarding whether (Acetyl-)L-Carnitine promotes or protects from atherosclerosis. 
+There is contradictory information between different studies regarding whether (Acetyl-)L-Carnitine promotes or protects from atherosclerosis. A significant portion of ALCAR is metabolized into TMAO (Trimethylamine N-oxide), which increases risk of atherosclerosis. Consuming raw garlic/allicin mitigates this TMAO/atherosclerosis risk.
 
 Improves mitochondrial and synaptic function.
 
@@ -10,7 +10,7 @@ May improve post-stroke recovery.
 
 Likely reduces risk of [[COVID]] induced injuries.
 
-Dosages over 250mg per day may reduce benefits and increase side effects.
+Dosages over 250mg per day may reduce benefits and increase side effects for some people.
 
 #supplement #anti-cancer #cardioprotective #diabetes-protective #multiple-sclerosis-treatment  #neuroprotective
 
@@ -94,6 +94,16 @@ https://pubmed.ncbi.nlm.nih.gov/16366737/
 Full PDF: [[Acetyl-L-carnitine for dementia - 2003 - CD003158.pdf]]
 
 ## Risks
+
+A significant portion of ALCAR is metabolized into TMAO (Trimethylamine N-oxide):
+
+https://pubmed.ncbi.nlm.nih.gov/41243468/
+Full PDF: [[Low Bioavailability and High TMAO Production_ Novel Insights Into Acetylcarnitine and Carnitine Metabolism - 2025 - Molecular Nutrition Food Res - Krims‐Davis.pdf]]
+
+Comsuming raw garlic/allicin mitigates TMAO risk:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8795425/
+Full PDF: [[Atherosclerosis amelioration by allicin in raw garlic through gut microbiota and trimethylamine-N-oxide modulation  - 2022 - 41522_Article_266.pdf]]
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5110437/
 Full PDF: [[Chronic Oral L-Carnitine Supplementation Drives Marked Plasma TMAO Elevations in Patients with Organic Acidemias Despite Dietary Meat Restrictions - 2016 - Chapter_539.pdf]]
