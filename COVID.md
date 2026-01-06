@@ -9,6 +9,11 @@ SARS-CoV-2 spike protein can be found in the skull bone marrow and meninges in i
 
 #neurotoxic #accelerated-aging #multi-organ-damage
 
+
+1. https://www.sciencedirect.com/science/article/pii/S2666354625002005
+2. https://scitechdaily.com/covid-19-leaves-lasting-changes-in-the-brain-even-after-full-recovery/
+Full PDF: [[Altered brain tissue microstructure and neurochemical profiles in long COVID and recovered COVID-19 individuals_ A multimodal MRI study - 2025 - 1-s2.0-S2666354625002005-main.pdf]]
+
 https://www.mdpi.com/2076-2607/13/11/2529
 Full PDF: [[Changes in the Gut Microbiota of Patients After SARS-CoV-2 Infection_ What Do We Know_ - 2025 - microorganisms-13-02529.pdf]]
 

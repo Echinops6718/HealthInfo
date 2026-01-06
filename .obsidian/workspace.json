@@ -13,7 +13,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pyrroloquinoline Quinone.md",
+                "file": "COVID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -23,7 +23,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pyrroloquinoline Quinone"
+              "title": "Backlinks for COVID"
             }
           },
           {
@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acetyl-L-Carnitine.md",
+                "file": "COVID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Acetyl-L-Carnitine"
+              "title": "COVID"
             }
           }
         ],
@@ -189,9 +189,13 @@
   },
   "active": "4cd3a0f11f50b60b",
   "lastOpenFiles": [
+    "PDFs/COVID PDFs/Precision nutrition to reset virus-induced human metabolic reprogramming and dysregulation (HMRD) in long-COVID - 2024 - s41538-024-00261-2.pdf",
+    "PDFs/COVID PDFs/Altered brain tissue microstructure and neurochemical profiles in long COVID and recovered COVID-19 individuals_ A multimodal MRI study - 2025 - 1-s2.0-S2666354625002005-main.pdf",
+    "COVID.md",
+    "PDFs/COVID PDFs/COVID-19 Hijacking of the Host Epigenome_ Mechanisms, Biomarkers and Long-Term Consequences - 2025 - ijms-26-10372.pdf",
+    "Acetyl-L-Carnitine.md",
     "PDFs/Acetyl-L-Carnitine PDFs/Atherosclerosis amelioration by allicin in raw garlic through gut microbiota and trimethylamine-N-oxide modulation  - 2022 - 41522_Article_266.pdf",
     "PDFs/Acetyl-L-Carnitine PDFs/Low Bioavailability and High TMAO Production_ Novel Insights Into Acetylcarnitine and Carnitine Metabolism - 2025 - Molecular Nutrition Food Res - Krims‐Davis.pdf",
-    "Acetyl-L-Carnitine.md",
     "Phenylalanine.md",
     "PDFs/Phenylalanine PDFs/Metabolomic profiling reveals altered phenylalanine metabolism in Parkinson’s disease in an Egyptian cohort - 2024 - fmolb-11-1341950.pdf",
     "PDFs/Phenylalanine PDFs/Causal association between phenylalanine and Parkinson’s disease_ a two-sample bidirectional mendelian randomization study - 2024 - fgene-15-1322551.pdf",
@@ -207,11 +211,7 @@
     "Creatine.md",
     "PDFs/Creatine PDFs/Effects of creatine supplementation on homocysteine levels and lipid peroxidation in rats - 2008.pdf",
     "PDFs/Creatine PDFs/Methylation demand and homocysteine metabolism_ effects of dietary provision of creatine and guanidinoacetate - 2001 - stead-et-al.pdf",
-    "COVID.md",
-    "PDFs/COVID PDFs/Precision nutrition to reset virus-induced human metabolic reprogramming and dysregulation (HMRD) in long-COVID - 2024 - s41538-024-00261-2.pdf",
     "PDFs/Pyrroloquinoline Quinone PDFs/Pyrroloquinoline Quinone Stimulates Mitochondrial Biogenesis through cAMP Response Element-binding Protein Phosphorylation and Increased PGC-1α Expression - 2009 - zbc142.pdf",
-    "PDFs/Pyrroloquinoline Quinone PDFs/Effects of Oral Supplementation with Pyrroloquinoline Quinone on Stress, Fatigue, and Sleep - 2012 - editor@ffhdj.com,+Masahiko+Nakano.Final.EB.pdf",
-    "PDFs/Pyrroloquinoline Quinone PDFs/Identification of transcriptional networks responding to pyrroloquinoline quinone dietary supplementation and their influence on thioredoxin expression, and the JAK_STAT and MAPK pathways - 2010 - bj4290515.pdf",
     "Folic Acid.md",
     "Nutrition.md",
     "Lactoferrin.md",
