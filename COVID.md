@@ -23,6 +23,12 @@ Full PDF: [[COVID-19 Hijacking of the Host Epigenome_ Mechanisms, Biomarkers and
 https://www.sciencedirect.com/science/article/pii/S2213231725002794
 Full PDF: [[Viral mitochondriopathy in COVID-19 - 2025 - 1-s2.0-S2213231725002794-main.pdf]]
 
+https://www.nature.com/articles/s41598-024-52005-7
+Full PDF: [[Microstructural brain abnormalities, fatigue, and cognitive dysfunction after mild COVID-19 - 2024 - s41598-024-52005-7.pdf]]
+
+https://www.thelancet.com/journals/lanwpc/article/PIIS2666-6065(24)00080-4/fulltext
+Full PDF: [[Brain abnormalities in survivors of COVID-19 after 2-year recovery_ a functional MRI study - 2024 - PIIS2666606524000804.pdf]]
+
 https://www.nature.com/articles/s41538-024-00261-2
 Full PDF: [[Precision nutrition to reset virus-induced human metabolic reprogramming and dysregulation (HMRD) in long-COVID - 2024 - s41538-024-00261-2.pdf]]
 
