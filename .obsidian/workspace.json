@@ -13,7 +13,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COVID.md",
+                "file": "Thiamine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -23,7 +23,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for COVID"
+              "title": "Backlinks for Thiamine"
             }
           },
           {
@@ -39,9 +39,24 @@
               "icon": "lucide-file",
               "title": "COVID"
             }
+          },
+          {
+            "id": "23fd344ab49a835e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thiamine.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Thiamine"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#diabetes-protective",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 892.5
+    "width": 512.5
   },
   "right": {
     "id": "a874df288f8a6ab0",
@@ -161,20 +176,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Thiamine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Thiamine"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,21 +203,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cd3a0f11f50b60b",
+  "active": "23fd344ab49a835e",
   "lastOpenFiles": [
-    "PDFs/COVID PDFs/Brain abnormalities in survivors of COVID-19 after 2-year recovery_ a functional MRI study - 2024 - PIIS2666606524000804.pdf",
-    "PDFs/COVID PDFs/Microstructural brain abnormalities, fatigue, and cognitive dysfunction after mild COVID-19 - 2024 - s41598-024-52005-7.pdf",
-    "PDFs/COVID PDFs/Precision nutrition to reset virus-induced human metabolic reprogramming and dysregulation (HMRD) in long-COVID - 2024 - s41538-024-00261-2.pdf",
-    "PDFs/COVID PDFs/Altered brain tissue microstructure and neurochemical profiles in long COVID and recovered COVID-19 individuals_ A multimodal MRI study - 2025 - 1-s2.0-S2666354625002005-main.pdf",
+    "Taurine.md",
+    "Thiamine.md",
+    "PDFs/Thiamine PDFs/An easily overlooked cause of pulmonary arterial hypertension—thiamine deficiency - 2025 - fnut-12-1633864.pdf",
+    "PDFs/Thiamine PDFs/Vitamin B1 Intake in Multiple Sclerosis Patients and its Impact on Depression Presence_ A Pilot Study - 2020 - nutrients-12-02655.pdf",
+    "PDFs/Thiamine PDFs/Thiamine and diabetes_ back to the future - 2021 - s00592-021-01752-4.pdf",
+    "PDFs/Thiamine PDFs/Effect of thiamine supplementation on glycaemic outcomes in adults with type 2 diabetes_ a systematic review and meta-analysis - 2022 - e059834.full.pdf",
+    "PDFs/Thiamine PDFs/Thiamine Deficiency in Diabetes_ Implications for Diabetic Ketoacidosis - 2026 - diabetology-07-00028.pdf",
+    "PDFs/Thiamine PDFs/Benfotiamine accelerates the healing of ischaemic diabetic limbs in mice through protein kinase B_Akt-mediated potentiation of angiogenesis and inhibition of apoptosis  - 2006 - s00125-005-0103-5.pdf",
+    "PDFs/Thiamine PDFs/The Impact of Thiamine Treatment in the Diabetes Mellitus - 2012 - 890-5556-1-PB.pdf",
+    "PDFs/Thiamine PDFs/A Double-Blind, Randomized, Placebo-Controlled Clinical Trial on Benfotiamine Treatment in Patients With Diabetic Nephropathy - 2010 - zdc00710001598.pdf",
+    "PDFs/Thiamine PDFs/Thiamine deficiency in diabetes mellitus and the impact of thiamine replacement on glucose metabolism and vascular disease - 2011 - Int J Clinical Practice.pdf",
+    "PDFs/Thiamine PDFs/Thiamine triphosphate synthesis in rat brain occurs in mitochondria and is coupled to the respiratory chain  - 2009 - zbc583.pdf",
     "COVID.md",
-    "PDFs/COVID PDFs/COVID-19 Hijacking of the Host Epigenome_ Mechanisms, Biomarkers and Long-Term Consequences - 2025 - ijms-26-10372.pdf",
     "Acetyl-L-Carnitine.md",
-    "PDFs/Acetyl-L-Carnitine PDFs/Atherosclerosis amelioration by allicin in raw garlic through gut microbiota and trimethylamine-N-oxide modulation  - 2022 - 41522_Article_266.pdf",
-    "PDFs/Acetyl-L-Carnitine PDFs/Low Bioavailability and High TMAO Production_ Novel Insights Into Acetylcarnitine and Carnitine Metabolism - 2025 - Molecular Nutrition Food Res - Krims‐Davis.pdf",
     "Phenylalanine.md",
-    "PDFs/Phenylalanine PDFs/Metabolomic profiling reveals altered phenylalanine metabolism in Parkinson’s disease in an Egyptian cohort - 2024 - fmolb-11-1341950.pdf",
-    "PDFs/Phenylalanine PDFs/Causal association between phenylalanine and Parkinson’s disease_ a two-sample bidirectional mendelian randomization study - 2024 - fgene-15-1322551.pdf",
-    "PDFs/Phenylalanine PDFs",
     "NIR Light Therapy.md",
     "Saffron.md",
     "Seirogan.md",
@@ -211,7 +229,6 @@
     "Inositol.md",
     "Citicoline.md",
     "Creatine.md",
-    "PDFs/Creatine PDFs/Effects of creatine supplementation on homocysteine levels and lipid peroxidation in rats - 2008.pdf",
     "Folic Acid.md",
     "Nutrition.md",
     "Lactoferrin.md",
@@ -219,12 +236,10 @@
     "Tiger Milk Mushroom (Lignosus Rhinoceros, Cendawan Susu Harimau).md",
     "Vitamin D.md",
     "Whey Protein.md",
-    "Taurine.md",
     "Glutamine.md",
     "Grape Seed Extract.md",
     "PDFs/Grape Seed Extract PDFs/(PDF) The benefits of grape seed extract in neurological disorders and brain aging - 2023.md",
     "PDFs/Grape Seed Extract PDFs/(PDF) The natural tannins oligomeric proanthocyanidins and punicalagin are potent inhibitors of infection by SARS-CoV-2 - 2023.md",
-    "PDFs/Grape Seed Extract PDFs/(PDF) Antimicrobial efficacy of grape seed extract in terminating the ramifications of plaque microorganisms - 2022.md",
     "Untitled.canvas"
   ]
 }
