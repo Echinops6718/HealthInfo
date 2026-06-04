@@ -5,6 +5,14 @@ Benfotiamine, a fat soluble form of thiamine, has greater affinity for nervous s
 
 High dosage slows proliferation of many forms of cancer, and causes many forms of cancer to undergo apoptosis. Low dosage may accelerate cancer growth.
 
+---
+
+The nutrients most likely to be put under stress by thiamine are pantothenic acid (B5), biotin (B7), methylcobalamin/cyanocobalamin (B12), CoQ10, glutathione, molybdenum, and copper.
+
+If there is any genetic defect downstream from thiamine or any nutrient deficiency downstream — such as biotin or B12 — then coenzyme A (CoA) will never be able to leave. It will get stuck in the pathway. This will cause CoA sequestration. Based on... experiments in humans using inhibitors of B5 metabolism... tingling in the extremities is usually caused by CoA sequestration in the peripheral nerves. In the pineal gland, it will reduce melatonin synthesis, interfering with sleep. In the liver, it will disrupt the urea cycle, leading to protein intolerance and hyperammonemia. Ammonia will lead to fatigue and poor nervous system function. It will lead to reduced acetylcholine synthesis, and thus problems with memory, learning, sustained attention, dreaming, and muscular power.
+
+Overwhelming the biotin-dependent steps will likely cause a partial overlap of symptoms of biotin deficiency, and overwhelming the B12-dependent step will probably cause partial overlap of B12 deficiency symptoms.
+
 #Alzheimers-protective #anti-cancer #autism-treatment #cardioprotective #diabetes-protective #mitochondria-support #multiple-sclerosis-treatment #neuroprotective #supplement 
 
 https://www.mdpi.com/2673-4540/7/2/28
@@ -18,6 +26,9 @@ Full PDF: [[Pharmacological thiamine (Vitamin B1) as a treatment for alzheimer�
 
 https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1633864/full
 Full PDF: [[An easily overlooked cause of pulmonary arterial hypertension—thiamine deficiency - 2025 - fnut-12-1633864.pdf]]
+
+Thiamin Supplements: Not For Everyone - 2024 - External link:
+https://chrismasterjohnphd.substack.com/p/thiamin-supplements-not-for-everyone
 
 https://www.researchgate.net/publication/385929749_Efficacy_of_Thiamine_Vitamin_B1_on_Post-Acute_COVID-19_Syndrome_An_Open-Label_Randomized_Controlled_Trial
 Full PDF: [[Efficacy of Thiamine (Vitamin B1) on Post-acute COVID-19 Syndrome_ An Open-Label, Randomized, Controlled Trial - 2024 - archcid-144280.pdf]]
