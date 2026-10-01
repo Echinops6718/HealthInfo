@@ -9,6 +9,9 @@ SARS-CoV-2 spike protein can be found in the skull bone marrow and meninges in i
 
 #neurotoxic #accelerated-aging #multi-organ-damage
 
+https://www.sciencedirect.com/science/article/pii/S2666956026000899
+Full PDF: [[Cognitive fatigue is related to reduced cerebral perfusion and sustained attention in patients with post COVID-19 condition_ An fMRI study - 2026 - 1-s2.0-S2666956026000899-main.pdf]]
+
 https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(26)00222-7/fulltext
 Full PDF: [[Loss of vesicular monoamine transporter 2 in striatum of long COVID and relationship to neuropsychiatric symptoms - 2026 - PIIS2352396426002227.pdf]]
 
