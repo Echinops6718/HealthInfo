@@ -9,6 +9,8 @@ SARS-CoV-2 spike protein can be found in the skull bone marrow and meninges in i
 
 #neurotoxic #accelerated-aging #multi-organ-damage
 
+https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(26)00222-7/fulltext
+Full PDF: [[Loss of vesicular monoamine transporter 2 in striatum of long COVID and relationship to neuropsychiatric symptoms - 2026 - PIIS2352396426002227.pdf]]
 
 1. https://www.sciencedirect.com/science/article/pii/S2666354625002005
 2. https://scitechdaily.com/covid-19-leaves-lasting-changes-in-the-brain-even-after-full-recovery/
